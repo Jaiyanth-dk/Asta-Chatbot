@@ -1,8 +1,8 @@
-1. Black Holes
-2. Gravity
-3. Planets and exoplanets
-4. Stars & Stellar Evolution
-5. Galaxies
-6. Cosmology / The Universe
-7. Light, telescopes, and observation
-8. Time and Relativity
+1. Black Holes J
+2. Gravity D
+3. Planets and exoplanets J
+4. Stars & Stellar Evolution D
+5. Galaxies J
+6. Cosmology / The Universe J
+7. Light, telescopes, and observation D
+8. Time and Relativity D
