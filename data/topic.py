@@ -2,16 +2,16 @@ import re
 import json
 
 # === SETTINGS ===
-input_file = "raw.txt"   # your txt file name
-output_file = "galaxies_qna.json"             # output json file name
-topic_name = "galaxies"                       # topic field in JSON
+input_file = "planets.txt"   # your txt file name
+output_file = "planets.qna.json"             # output json file name
+topic_name = "planets"                       # topic field in JSON
 
 # === READ FILE ===
 with open(input_file, "r", encoding="utf-8") as f:
     text = f.read()
 
 # === REGEX TO EXTRACT Q&A PAIRS ===
-pattern = r"\d+\.\s*Q:\s*(.*?)\n\s*A:\s*(.*?)(?=\n\d+\.\s*Q:|\Z)"
+pattern = r"\d+\.\s*Q:\s*(.*?)\n\s*A+\:\s*(.*?)(?=\n\d+\.\s*Q:\s*|\Z)"
 
 matches = re.findall(pattern, text, re.DOTALL)
 
@@ -25,7 +25,7 @@ for question, answer in matches:
     data.append({
         "topic": topic_name,
         "question": question,
-        "answer": answer + "\n\n**"
+        "answer": answer
     })
 
 # === SAVE JSON ===

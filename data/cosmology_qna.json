@@ -1,0 +1,502 @@
+[
+    {
+        "topic": "cosmology",
+        "question": "What is cosmology?",
+        "answer": "Cosmology is the branch of science that studies the universe as a whole—how it began, how it changes, what it is made of, and what its future might be."
+    },
+    {
+        "topic": "cosmology",
+        "question": "What do people mean when they say “the universe”?",
+        "answer": "The universe means everything that exists: all space, all time, all matter, all energy, and the laws that govern them."
+    },
+    {
+        "topic": "cosmology",
+        "question": "Did the universe have a beginning?",
+        "answer": "According to the best current scientific model, the universe as we know it began about 13.8 billion years ago in an event called the Big Bang."
+    },
+    {
+        "topic": "cosmology",
+        "question": "What was the Big Bang?",
+        "answer": "The Big Bang was not an explosion in empty space. It was the rapid expansion of space itself from an extremely hot, dense early state."
+    },
+    {
+        "topic": "cosmology",
+        "question": "Was there empty space before the Big Bang?",
+        "answer": "Scientists are not sure. In many models, space and time themselves began with the Big Bang, so asking what was “before” may not work the way it does in everyday life."
+    },
+    {
+        "topic": "cosmology",
+        "question": "Why is it called the Big Bang if it wasn’t really a bang?",
+        "answer": "The name is a bit misleading. It sounds like an explosion, but it actually refers to the early expansion of the universe everywhere at once."
+    },
+    {
+        "topic": "cosmology",
+        "question": "How old is the universe?",
+        "answer": "The universe is estimated to be about 13.8 billion years old based on observations of cosmic expansion and ancient light left over from the early universe."
+    },
+    {
+        "topic": "cosmology",
+        "question": "How do scientists know the universe is expanding?",
+        "answer": "Scientists observe that distant galaxies are moving away from us, and their light is stretched toward the red part of the spectrum. This is called redshift."
+    },
+    {
+        "topic": "cosmology",
+        "question": "Are all galaxies moving away from us?",
+        "answer": "On large scales, most distant galaxies are moving away because space is expanding. However, nearby galaxies can still move toward us due to gravity."
+    },
+    {
+        "topic": "cosmology",
+        "question": "If everything is moving away from us, does that mean we are at the center of the universe?",
+        "answer": "No. The expansion happens everywhere. From any galaxy, it would look like other distant galaxies are moving away too."
+    },
+    {
+        "topic": "cosmology",
+        "question": "What is space expanding into?",
+        "answer": "As far as we know, space is not expanding into some outside container. The expansion means the distances within space are increasing."
+    },
+    {
+        "topic": "cosmology",
+        "question": "What is the observable universe?",
+        "answer": "The observable universe is the part of the universe we can, in principle, see because light from it has had enough time to reach us since the beginning of cosmic history."
+    },
+    {
+        "topic": "cosmology",
+        "question": "Is the whole universe bigger than the observable universe?",
+        "answer": "Very likely, yes. The observable universe is limited by how far light has traveled, but the full universe may extend far beyond what we can see."
+    },
+    {
+        "topic": "cosmology",
+        "question": "Why can’t we see the entire universe?",
+        "answer": "Because light travels at a finite speed and the universe has a finite age. Some regions are simply too far away for their light to have reached us yet."
+    },
+    {
+        "topic": "cosmology",
+        "question": "What are galaxies?",
+        "answer": "Galaxies are huge collections of stars, gas, dust, dark matter, and sometimes black holes, all held together by gravity."
+    },
+    {
+        "topic": "cosmology",
+        "question": "What is the Milky Way?",
+        "answer": "The Milky Way is the galaxy that contains our Solar System. It is a large spiral galaxy with hundreds of billions of stars."
+    },
+    {
+        "topic": "cosmology",
+        "question": "Is our Solar System at the center of the Milky Way?",
+        "answer": "No. Our Solar System is located in one of the spiral arms, far from the galaxy’s center."
+    },
+    {
+        "topic": "cosmology",
+        "question": "What is at the center of the Milky Way?",
+        "answer": "At the center of the Milky Way is a supermassive black hole called Sagittarius A*, along with many stars and dense clouds of gas."
+    },
+    {
+        "topic": "cosmology",
+        "question": "What is a galaxy cluster?",
+        "answer": "A galaxy cluster is a group of galaxies bound together by gravity. Some clusters contain hundreds or even thousands of galaxies."
+    },
+    {
+        "topic": "cosmology",
+        "question": "What is a supercluster?",
+        "answer": "A supercluster is a huge region containing many galaxy clusters and groups. It is one of the largest known patterns in the cosmic web."
+    },
+    {
+        "topic": "cosmology",
+        "question": "What is the cosmic web?",
+        "answer": "The cosmic web is the large-scale structure of the universe, where galaxies and clusters are arranged in long filaments and sheets separated by vast empty regions."
+    },
+    {
+        "topic": "cosmology",
+        "question": "What are cosmic voids?",
+        "answer": "Cosmic voids are enormous regions of space with far fewer galaxies than average. They are like the empty bubbles between the filaments of the cosmic web."
+    },
+    {
+        "topic": "cosmology",
+        "question": "What are stars made of?",
+        "answer": "Stars are made mostly of hydrogen and helium. Inside them, nuclear fusion turns lighter elements into heavier ones and releases energy."
+    },
+    {
+        "topic": "cosmology",
+        "question": "Why do stars shine?",
+        "answer": "Stars shine because nuclear fusion in their cores releases huge amounts of energy, which eventually escapes as light and heat."
+    },
+    {
+        "topic": "cosmology",
+        "question": "Are all stars like the Sun?",
+        "answer": "No. Some stars are much larger, smaller, hotter, cooler, brighter, or dimmer than the Sun. Stars come in many different types and life stages."
+    },
+    {
+        "topic": "cosmology",
+        "question": "What is a nebula?",
+        "answer": "A nebula is a cloud of gas and dust in space. Some nebulae are places where stars are born, while others are leftovers from dying stars."
+    },
+    {
+        "topic": "cosmology",
+        "question": "Can stars be born today?",
+        "answer": "Yes. New stars are still forming in giant clouds of gas and dust throughout galaxies, including in the Milky Way."
+    },
+    {
+        "topic": "cosmology",
+        "question": "How do stars die?",
+        "answer": "A star’s death depends on its mass. Smaller stars become white dwarfs, while massive stars can explode as supernovae and leave behind neutron stars or black holes."
+    },
+    {
+        "topic": "cosmology",
+        "question": "What is a supernova?",
+        "answer": "A supernova is a powerful stellar explosion that can briefly outshine an entire galaxy and scatter heavy elements into space."
+    },
+    {
+        "topic": "cosmology",
+        "question": "Why are supernovae important?",
+        "answer": "Supernovae help create and spread heavy elements like iron, calcium, and many others that later become part of planets, life, and future stars."
+    },
+    {
+        "topic": "cosmology",
+        "question": "Are we made of stardust?",
+        "answer": "In a very real sense, yes. Many of the atoms in your body were formed inside stars or during stellar explosions long before the Earth existed."
+    },
+    {
+        "topic": "cosmology",
+        "question": "What is a black hole?",
+        "answer": "A black hole is a region of space where gravity is so strong that, beyond a certain boundary, nothing—not even light—can escape."
+    },
+    {
+        "topic": "cosmology",
+        "question": "Do black holes suck everything in like vacuum cleaners?",
+        "answer": "Not exactly. From far away, a black hole pulls on objects through gravity just like any other massive object. Things only fall in if they get too close."
+    },
+    {
+        "topic": "cosmology",
+        "question": "Can black holes move through space?",
+        "answer": "Yes. Black holes can orbit stars, merge with other black holes, or move through galaxies like other massive objects."
+    },
+    {
+        "topic": "cosmology",
+        "question": "What is the event horizon?",
+        "answer": "The event horizon is the boundary around a black hole beyond which nothing can escape back out."
+    },
+    {
+        "topic": "cosmology",
+        "question": "What would happen if you fell into a black hole?",
+        "answer": "The details depend on the black hole’s size, but extreme gravity differences could stretch you dramatically in a process often nicknamed “spaghettification.”"
+    },
+    {
+        "topic": "cosmology",
+        "question": "What is dark matter?",
+        "answer": "Dark matter is a mysterious kind of matter that does not emit or reflect light, but its gravity seems to affect galaxies and cosmic structure."
+    },
+    {
+        "topic": "cosmology",
+        "question": "How do we know dark matter exists if we can’t see it?",
+        "answer": "Scientists infer dark matter from its gravitational effects, such as the way galaxies rotate and how light bends around massive objects."
+    },
+    {
+        "topic": "cosmology",
+        "question": "What is dark energy?",
+        "answer": "Dark energy is the unknown cause behind the observed speeding up of the universe’s expansion."
+    },
+    {
+        "topic": "cosmology",
+        "question": "Is dark energy the same as dark matter?",
+        "answer": "No. Dark matter seems to add gravity and help hold structures together, while dark energy seems to push the expansion of the universe to accelerate."
+    },
+    {
+        "topic": "cosmology",
+        "question": "What is the most common thing in the universe?",
+        "answer": "Most of the universe appears to be made of dark energy and dark matter, while ordinary matter—the stuff we are made of—is only a small fraction."
+    },
+    {
+        "topic": "cosmology",
+        "question": "What is ordinary matter?",
+        "answer": "Ordinary matter is the familiar matter made of atoms, including stars, planets, gas, dust, people, and everything we directly interact with."
+    },
+    {
+        "topic": "cosmology",
+        "question": "What are atoms?",
+        "answer": "Atoms are tiny building blocks of ordinary matter, made of a nucleus of protons and neutrons surrounded by electrons."
+    },
+    {
+        "topic": "cosmology",
+        "question": "Were atoms present right after the Big Bang?",
+        "answer": "Not immediately. The early universe was too hot. Atoms formed later, after the universe cooled enough for electrons and nuclei to combine."
+    },
+    {
+        "topic": "cosmology",
+        "question": "What is the cosmic microwave background?",
+        "answer": "The cosmic microwave background is faint leftover radiation from the early universe. It is often called the afterglow of the Big Bang."
+    },
+    {
+        "topic": "cosmology",
+        "question": "Why is the cosmic microwave background so important?",
+        "answer": "It gives scientists a snapshot of the universe when it was very young, helping them understand its age, shape, contents, and early structure."
+    },
+    {
+        "topic": "cosmology",
+        "question": "Why is the cosmic microwave background microwave radiation instead of visible light?",
+        "answer": "It started as higher-energy light, but the expansion of the universe stretched its wavelengths over billions of years until it became microwave radiation."
+    },
+    {
+        "topic": "cosmology",
+        "question": "What is redshift?",
+        "answer": "Redshift is when light is stretched to longer wavelengths, often because the source is moving away or because space itself is expanding."
+    },
+    {
+        "topic": "cosmology",
+        "question": "Can light really be stretched?",
+        "answer": "Yes. As space expands, the wavelengths of traveling light can stretch too, making the light appear redder and lower in energy."
+    },
+    {
+        "topic": "cosmology",
+        "question": "What does it mean that space and time are connected?",
+        "answer": "Modern physics describes them as part of a single framework called spacetime, where motion, gravity, and speed affect both space and time."
+    },
+    {
+        "topic": "cosmology",
+        "question": "What is spacetime?",
+        "answer": "Spacetime is the combined structure of the three dimensions of space and one dimension of time, used to describe how the universe works."
+    },
+    {
+        "topic": "cosmology",
+        "question": "Does gravity bend spacetime?",
+        "answer": "According to Einstein’s theory of general relativity, yes. Massive objects curve spacetime, and that curvature is what we experience as gravity."
+    },
+    {
+        "topic": "cosmology",
+        "question": "Why do planets orbit stars?",
+        "answer": "Planets orbit stars because they move through the curved spacetime created by the star’s mass, which keeps them in repeated paths instead of flying away."
+    },
+    {
+        "topic": "cosmology",
+        "question": "What is general relativity?",
+        "answer": "General relativity is Einstein’s theory that explains gravity as the bending of spacetime caused by mass and energy."
+    },
+    {
+        "topic": "cosmology",
+        "question": "Can gravity affect light?",
+        "answer": "Yes. Gravity can bend the path of light, which is why massive objects can act like lenses and distort the images of more distant objects."
+    },
+    {
+        "topic": "cosmology",
+        "question": "What is gravitational lensing?",
+        "answer": "Gravitational lensing happens when a massive object bends light from something behind it, making the background object appear distorted, magnified, or duplicated."
+    },
+    {
+        "topic": "cosmology",
+        "question": "What are gravitational waves?",
+        "answer": "Gravitational waves are ripples in spacetime caused by accelerating massive objects, such as merging black holes or neutron stars."
+    },
+    {
+        "topic": "cosmology",
+        "question": "Have gravitational waves really been detected?",
+        "answer": "Yes. Scientists first directly detected gravitational waves in 2015, confirming a major prediction of Einstein’s theory."
+    },
+    {
+        "topic": "cosmology",
+        "question": "What is a neutron star?",
+        "answer": "A neutron star is the incredibly dense leftover core of a massive star after a supernova. A teaspoon of its material would weigh an enormous amount."
+    },
+    {
+        "topic": "cosmology",
+        "question": "What is a pulsar?",
+        "answer": "A pulsar is a rapidly spinning neutron star that beams radiation into space. If the beam sweeps past Earth, we detect regular pulses."
+    },
+    {
+        "topic": "cosmology",
+        "question": "Could the universe be infinite?",
+        "answer": "It might be. Scientists do not yet know for sure whether the universe is truly infinite or just extremely large beyond what we can observe."
+    },
+    {
+        "topic": "cosmology",
+        "question": "What shape is the universe?",
+        "answer": "On the largest scales we can measure, the universe appears to be very close to flat, though “flat” here has a special geometric meaning."
+    },
+    {
+        "topic": "cosmology",
+        "question": "What does it mean for the universe to be “flat”?",
+        "answer": "It means that, on cosmic scales, space follows the rules of flat geometry closely, rather than being strongly curved overall."
+    },
+    {
+        "topic": "cosmology",
+        "question": "Could the universe be curved like a sphere?",
+        "answer": "Some models allow that possibility, but current measurements suggest that if the universe is curved, the curvature is extremely slight."
+    },
+    {
+        "topic": "cosmology",
+        "question": "Will the universe expand forever?",
+        "answer": "Based on current evidence, the universe will likely keep expanding for a very long time, and possibly forever."
+    },
+    {
+        "topic": "cosmology",
+        "question": "What is the “heat death” of the universe?",
+        "answer": "Heat death is a possible future where the universe becomes so spread out and uniform that no useful energy differences remain to power stars, life, or major activity."
+    },
+    {
+        "topic": "cosmology",
+        "question": "Could the universe end in a “Big Crunch”?",
+        "answer": "That was once considered a serious possibility, but current observations suggest the universe is expanding too quickly for a Big Crunch to be likely."
+    },
+    {
+        "topic": "cosmology",
+        "question": "What is the “Big Rip”?",
+        "answer": "The Big Rip is a hypothetical scenario where the expansion of the universe becomes so extreme that galaxies, stars, planets, and even atoms are eventually torn apart."
+    },
+    {
+        "topic": "cosmology",
+        "question": "Is the universe getting colder?",
+        "answer": "In a broad sense, yes. As the universe expands, it tends to become less dense and cooler overall, though local hot places like stars still exist."
+    },
+    {
+        "topic": "cosmology",
+        "question": "Why is the night sky dark if there are so many stars?",
+        "answer": "Because the universe has a finite age and is expanding. Light from many distant stars has not reached us, and some of it is stretched to invisible wavelengths."
+    },
+    {
+        "topic": "cosmology",
+        "question": "What is a light-year?",
+        "answer": "A light-year is the distance light travels in one year, not a unit of time. It is used to describe enormous cosmic distances."
+    },
+    {
+        "topic": "cosmology",
+        "question": "How fast does light travel?",
+        "answer": "In a vacuum, light travels at about 300,000 kilometers per second, making it the fastest known speed in the universe."
+    },
+    {
+        "topic": "cosmology",
+        "question": "If we see distant galaxies, are we seeing the past?",
+        "answer": "Yes. Because light takes time to travel, looking far into space means looking back in time."
+    },
+    {
+        "topic": "cosmology",
+        "question": "How far back in time can telescopes see?",
+        "answer": "Powerful telescopes can see galaxies whose light began traveling toward us billions of years ago, allowing us to observe the young universe."
+    },
+    {
+        "topic": "cosmology",
+        "question": "Can we ever see the exact moment of the Big Bang?",
+        "answer": "Not directly with light, because the early universe was once too hot and opaque for light to travel freely. We can only see back to a short time after that."
+    },
+    {
+        "topic": "cosmology",
+        "question": "What happened before stars existed?",
+        "answer": "The early universe went through a long “dark age” after atoms formed but before the first stars ignited and lit up space."
+    },
+    {
+        "topic": "cosmology",
+        "question": "What were the first stars like?",
+        "answer": "The first stars were likely very massive, very bright, and made mostly of hydrogen and helium because heavier elements had not yet been created."
+    },
+    {
+        "topic": "cosmology",
+        "question": "What are exoplanets?",
+        "answer": "Exoplanets are planets that orbit stars outside our Solar System."
+    },
+    {
+        "topic": "cosmology",
+        "question": "Have we found many exoplanets?",
+        "answer": "Yes. Scientists have discovered thousands of exoplanets, showing that planets are common in the universe."
+    },
+    {
+        "topic": "cosmology",
+        "question": "Could there be life elsewhere in the universe?",
+        "answer": "It is certainly possible, and many scientists think it is likely somewhere. But so far, we do not have confirmed evidence of extraterrestrial life."
+    },
+    {
+        "topic": "cosmology",
+        "question": "Why haven’t we found aliens yet?",
+        "answer": "Space is unimaginably vast, intelligent life may be rare, signals may be hard to detect, or civilizations may not last long. We simply do not know yet."
+    },
+    {
+        "topic": "cosmology",
+        "question": "What is the Fermi Paradox?",
+        "answer": "The Fermi Paradox is the question of why, if life might be common in the universe, we have not yet seen clear evidence of alien civilizations."
+    },
+    {
+        "topic": "cosmology",
+        "question": "What is the Drake Equation?",
+        "answer": "The Drake Equation is a way of thinking about how many detectable civilizations might exist in our galaxy by combining several uncertain factors."
+    },
+    {
+        "topic": "cosmology",
+        "question": "Can planets wander through space without a star?",
+        "answer": "Yes. Some planets may be “rogue planets” that drift through space without orbiting a star."
+    },
+    {
+        "topic": "cosmology",
+        "question": "Could a planet orbit a black hole?",
+        "answer": "In theory, yes. If the conditions were right and the orbit was stable, a planet could orbit a black hole."
+    },
+    {
+        "topic": "cosmology",
+        "question": "Is the Sun special?",
+        "answer": "The Sun is an ordinary star in many ways, but it is special to us because it provides the energy that makes life on Earth possible."
+    },
+    {
+        "topic": "cosmology",
+        "question": "Will the Sun last forever?",
+        "answer": "No. The Sun has a limited lifetime. In several billion years, it will expand into a red giant and later end as a white dwarf."
+    },
+    {
+        "topic": "cosmology",
+        "question": "What is a white dwarf?",
+        "answer": "A white dwarf is the hot, dense remnant left behind after a Sun-like star runs out of fuel and sheds its outer layers."
+    },
+    {
+        "topic": "cosmology",
+        "question": "What is a red giant?",
+        "answer": "A red giant is a late stage in a star’s life when it expands dramatically after using up much of the hydrogen in its core."
+    },
+    {
+        "topic": "cosmology",
+        "question": "Can galaxies collide?",
+        "answer": "Yes. Galaxy collisions are common over cosmic timescales. They are slow, dramatic events that can reshape galaxies and trigger new star formation."
+    },
+    {
+        "topic": "cosmology",
+        "question": "Will the Milky Way collide with another galaxy?",
+        "answer": "Yes. The Milky Way and the Andromeda Galaxy are expected to interact and merge billions of years in the future."
+    },
+    {
+        "topic": "cosmology",
+        "question": "If galaxies collide, do stars crash into each other?",
+        "answer": "Usually not. Stars are so far apart that even during galaxy mergers, direct star-to-star collisions are rare."
+    },
+    {
+        "topic": "cosmology",
+        "question": "What is Andromeda?",
+        "answer": "Andromeda is the nearest large galaxy to the Milky Way and is one of the few major galaxies we can see with the naked eye under dark skies."
+    },
+    {
+        "topic": "cosmology",
+        "question": "What is the most mysterious thing in cosmology right now?",
+        "answer": "Dark matter and dark energy are two of the biggest mysteries, because they seem to dominate the universe but are still not fully understood."
+    },
+    {
+        "topic": "cosmology",
+        "question": "Are there things in the universe we may never know?",
+        "answer": "Possibly. Some parts of the universe may be forever beyond our reach, and some questions may require new physics or may remain fundamentally unanswerable."
+    },
+    {
+        "topic": "cosmology",
+        "question": "Can the laws of physics change over time?",
+        "answer": "Most evidence suggests the basic laws and constants of physics are stable, but scientists still test this because even tiny changes would be profound."
+    },
+    {
+        "topic": "cosmology",
+        "question": "Why do scientists care so much about the early universe?",
+        "answer": "The early universe holds clues to how everything formed, including galaxies, stars, elements, and the large-scale structure we see today."
+    },
+    {
+        "topic": "cosmology",
+        "question": "Is cosmology finished, or are there still big discoveries left?",
+        "answer": "Cosmology is far from finished. Some of its biggest questions—such as the true nature of dark matter, dark energy, and the universe’s ultimate origin—are still open."
+    },
+    {
+        "topic": "cosmology",
+        "question": "Why does learning about the universe make people feel small and amazed at the same time?",
+        "answer": "Because cosmology reveals both how tiny we are compared to the cosmos and how extraordinary it is that a small species on one planet can understand so much of it."
+    },
+    {
+        "topic": "cosmology",
+        "question": "What is one simple way to think about cosmology?",
+        "answer": "Cosmology is humanity asking the biggest possible questions: Where did everything come from, what is it doing now, and what happens next?"
+    }
+]
