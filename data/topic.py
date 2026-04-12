@@ -1,35 +1,37 @@
 import re
 import json
 
-# === SETTINGS ===
-input_file = "planets.txt"   # your txt file name
-output_file = "planets.qna.json"             # output json file name
-topic_name = "planets"                       # topic field in JSON
+# ==== SETTINGS ====
+input_file = "light_optics_1000_qna_numbered.txt"      # your txt file
+output_file = "optics_1000.json"    # output json file
+topic_name = "optics"                # topic field for all entries
+# ==================
 
-# === READ FILE ===
+# Read the txt file
 with open(input_file, "r", encoding="utf-8") as f:
-    text = f.read()
+    content = f.read()
 
-# === REGEX TO EXTRACT Q&A PAIRS ===
-pattern = r"\d+\.\s*Q:\s*(.*?)\n\s*A+\:\s*(.*?)(?=\n\d+\.\s*Q:\s*|\Z)"
+# Regex to capture:
+# 1. Question text
+# 2. Answer text
+pattern = re.compile(
+    r"\d+\.\s*Question:\s*(.*?)\s*Answer:\s*(.*?)(?=\n\d+\.\s*Question:|\Z)",
+    re.DOTALL
+)
 
-matches = re.findall(pattern, text, re.DOTALL)
+matches = pattern.findall(content)
 
-# === BUILD JSON STRUCTURE ===
 data = []
 
 for question, answer in matches:
-    question = question.strip()
-    answer = answer.strip()
-
     data.append({
         "topic": topic_name,
-        "question": question,
-        "answer": answer
+        "question": question.strip(),
+        "answer": answer.strip().replace("\n", " ")
     })
 
-# === SAVE JSON ===
+# Save as JSON
 with open(output_file, "w", encoding="utf-8") as f:
-    json.dump(data, f, ensure_ascii=False, indent=4)
+    json.dump(data, f, indent=4, ensure_ascii=False)
 
-print(f"Converted {len(data)} Q&A pairs into {output_file}")
+print(f"Converted {len(data)} Q&As into {output_file}")

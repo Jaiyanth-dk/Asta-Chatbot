@@ -1,0 +1,822 @@
+[
+    {
+        "topic": "black_holes",
+        "input_text": "answer astronomy question about black_holes: Could dark matter be made of primordial black holes?",
+        "target_text": "Some scientists have explored that idea, but current evidence suggests they are unlikely to explain all dark matter."
+    },
+    {
+        "topic": "light_telescopes_and_observation",
+        "input_text": "answer astronomy question about light_telescopes_and_observation: How does the Kepler space observatory use visible light to find planetary systems?",
+        "target_text": "Kepler continuously monitors the brightness of hundreds of thousands of stars, detecting the tiny periodic dips in starlight that occur when an orbiting planet passes in front of its host star."
+    },
+    {
+        "topic": "time_and_relativity",
+        "input_text": "answer astronomy question about time_and_relativity: What is the spacetime interval?",
+        "target_text": "The spacetime interval combines the spatial and time separation between two events in a way that gives the same value for all observers. It is the one quantity that does not change between reference frames."
+    },
+    {
+        "topic": "time_and_relativity",
+        "input_text": "answer astronomy question about time_and_relativity: Why does dark energy not contradict general relativity?",
+        "target_text": "Dark energy fits naturally into general relativity as the cosmological constant term, which Einstein himself included in his original equations. General relativity allows for a vacuum energy that acts as a source of spacetime curvature without any matter present."
+    },
+    {
+        "topic": "time_and_relativity",
+        "input_text": "answer astronomy question about time_and_relativity: What is the difference between inertial mass and gravitational mass?",
+        "target_text": "Inertial mass measures resistance to acceleration, while gravitational mass measures how strongly an object responds to gravity. The equivalence principle rests on the experimental observation that these two are always exactly equal."
+    },
+    {
+        "topic": "stars_and_stellar_evolution",
+        "input_text": "answer astronomy question about stars_and_stellar_evolution: What is the zero-age main sequence?",
+        "target_text": "The zero-age main sequence is the position in the H-R diagram where a star first settles into stable hydrogen burning at the start of its main sequence life. It defines the starting point for stellar evolution models."
+    },
+    {
+        "topic": "time_and_relativity",
+        "input_text": "answer astronomy question about time_and_relativity: What is the twin paradox?",
+        "target_text": "One twin travels at near-light speed and returns home to find the other twin has aged much more. The traveling twin aged less because their clock ran slower during the high-speed journey."
+    },
+    {
+        "topic": "time_and_relativity",
+        "input_text": "answer astronomy question about time_and_relativity: What is a Minkowski diagram?",
+        "target_text": "A Minkowski diagram plots time on one axis and space on another to map out events and worldlines. It helps visualize time dilation, length contraction, and causality in a geometric way."
+    },
+    {
+        "topic": "black_holes",
+        "input_text": "answer astronomy question about black_holes: Could Earth fall into Sagittarius A*?",
+        "target_text": "No. It is extremely far away, and our Solar System is safely orbiting within the Milky Way far from the galactic center."
+    },
+    {
+        "topic": "planets",
+        "input_text": "answer astronomy question about planets: Why is Earth the only known planet with life?",
+        "target_text": "Earth has the right mix of liquid water, a protective atmosphere, suitable temperatures, and long-term stability. So far, it is the only world where life has been confirmed."
+    },
+    {
+        "topic": "gravity",
+        "input_text": "answer astronomy question about gravity: How is the mass of a gravitating body determined from the orbital motion of objects around it?",
+        "target_text": "The orbital period and radius of a body in circular orbit depend directly on the central mass through Newton's law of gravitation. Measuring these orbital parameters allows the central mass to be calculated precisely without directly observing the mass itself."
+    },
+    {
+        "topic": "galaxies",
+        "input_text": "answer astronomy question about galaxies: Why do galaxies glow?",
+        "target_text": "They glow because their stars emit light, and gas clouds can also shine when energized."
+    },
+    {
+        "topic": "gravity",
+        "input_text": "answer astronomy question about gravity: What is a gravitational field line?",
+        "target_text": "A gravitational field line is a visual representation showing the direction a gravitational force would act on a test mass at each point in space. Field lines always point toward the attracting mass and are drawn closer together where the field is stronger."
+    },
+    {
+        "topic": "light_telescopes_and_observation",
+        "input_text": "answer astronomy question about light_telescopes_and_observation: Why does the Sun's spectrum have dark absorption lines even though it is described as an approximate blackbody?",
+        "target_text": "The Sun's overall emission closely follows the blackbody curve for its temperature, but its outer atmospheric layers absorb specific wavelengths, creating narrow dark lines that sit on top of the otherwise smooth continuous emission."
+    },
+    {
+        "topic": "stars_and_stellar_evolution",
+        "input_text": "answer astronomy question about stars_and_stellar_evolution: What is a white dwarf?",
+        "target_text": "A white dwarf is the dense remnant left after a low or intermediate mass star sheds its outer layers, supported by electron degeneracy pressure. It slowly cools over billions of years with no ongoing nuclear fusion."
+    },
+    {
+        "topic": "cosmology",
+        "input_text": "answer astronomy question about cosmology: How fast does light travel?",
+        "target_text": "In a vacuum, light travels at about 300,000 kilometers per second, making it the fastest known speed in the universe."
+    },
+    {
+        "topic": "cosmology",
+        "input_text": "answer astronomy question about cosmology: What happened before stars existed?",
+        "target_text": "The early universe went through a long “dark age” after atoms formed but before the first stars ignited and lit up space."
+    },
+    {
+        "topic": "planets",
+        "input_text": "answer astronomy question about planets: What is a mini-Neptune?",
+        "target_text": "A mini-Neptune is a planet smaller than Neptune but still likely wrapped in a thick atmosphere, making it very different from rocky Earth."
+    },
+    {
+        "topic": "gravity",
+        "input_text": "answer astronomy question about gravity: Why does general relativity predict the existence of gravitational waves but Newton's theory does not?",
+        "target_text": "Newton's theory allows gravity to propagate instantaneously across any distance, leaving no physical mechanism for waves. General relativity limits gravity's influence to the speed of light, and accelerating masses disturb spacetime curvature in a way that propagates outward as waves."
+    },
+    {
+        "topic": "time_and_relativity",
+        "input_text": "answer astronomy question about time_and_relativity: What does the equivalence principle imply about light?",
+        "target_text": "If gravity and acceleration are equivalent, then light must bend in a gravitational field, because it visibly bends in an accelerating elevator. This led Einstein to predict that light is deflected by gravity."
+    },
+    {
+        "topic": "time_and_relativity",
+        "input_text": "answer astronomy question about time_and_relativity: What is the Pound-Rebka experiment?",
+        "target_text": "It measured the gravitational redshift of gamma rays traveling upward across a 22-meter building in 1959. The result matched the general relativistic prediction, confirming that gravity really does slow the passage of time."
+    },
+    {
+        "topic": "stars_and_stellar_evolution",
+        "input_text": "answer astronomy question about stars_and_stellar_evolution: What is hydrostatic equilibrium?",
+        "target_text": "Hydrostatic equilibrium is the balance between the inward pull of self-gravity and the outward pressure of hot gas from the core. This balance is what keeps a star at a stable size throughout its main sequence life."
+    },
+    {
+        "topic": "black_holes",
+        "input_text": "answer astronomy question about black_holes: Could a black hole pass through our Solar System?",
+        "target_text": "It is theoretically possible but extremely unlikely. There is no evidence that such a black hole is heading toward us."
+    },
+    {
+        "topic": "black_holes",
+        "input_text": "answer astronomy question about black_holes: Do all stars become black holes?",
+        "target_text": "No. Only the most massive stars are likely to leave behind black holes. Smaller stars end in other ways, such as becoming white dwarfs or neutron stars."
+    },
+    {
+        "topic": "planets",
+        "input_text": "answer astronomy question about planets: Why do scientists compare exoplanets to Earth so often?",
+        "target_text": "Because Earth is the only known example of a life-bearing planet, so it is the best reference point we currently have."
+    },
+    {
+        "topic": "planets",
+        "input_text": "answer astronomy question about planets: What will the James Webb Space Telescope do for exoplanets?",
+        "target_text": "It can study some exoplanet atmospheres in more detail, helping scientists search for molecules, temperatures, and clues about climate."
+    },
+    {
+        "topic": "light_telescopes_and_observation",
+        "input_text": "answer astronomy question about light_telescopes_and_observation: How does radio astronomy reveal the structure of the Milky Way despite the fact that we are inside it?",
+        "target_text": "Dense dust clouds throughout the galactic plane block visible light from most of the Milky Way, but radio waves from hydrogen and molecular clouds penetrate freely. Radio maps of gas velocity across the galaxy have revealed its full disk structure including regions on the far side."
+    },
+    {
+        "topic": "gravity",
+        "input_text": "answer astronomy question about gravity: What is the gravitational constant G?",
+        "target_text": "G is the universal gravitational constant with a value of approximately 6.674 x 10^-^1^1 N·m^2/kg^2. Its small value reflects that gravity is actually the weakest of the four fundamental forces on small scales."
+    },
+    {
+        "topic": "black_holes",
+        "input_text": "answer astronomy question about black_holes: Can a black hole shrink?",
+        "target_text": "In theory, yes. Through a process called Hawking radiation, black holes may slowly lose energy and mass over incredibly long timescales."
+    },
+    {
+        "topic": "stars_and_stellar_evolution",
+        "input_text": "answer astronomy question about stars_and_stellar_evolution: What is a binary star system?",
+        "target_text": "A binary star system is two stars bound by gravity and orbiting a common center of mass. Many stars exist in binaries and their interaction can dramatically alter their evolution, sometimes triggering novae or supernovae."
+    },
+    {
+        "topic": "time_and_relativity",
+        "input_text": "answer astronomy question about time_and_relativity: What is the Schwarzschild radius?",
+        "target_text": "The Schwarzschild radius is the critical size to which a mass must be compressed for its escape velocity to equal the speed of light. It marks the boundary where spacetime curvature becomes so extreme that light cannot escape."
+    },
+    {
+        "topic": "cosmology",
+        "input_text": "answer astronomy question about cosmology: Can galaxies collide?",
+        "target_text": "Yes. Galaxy collisions are common over cosmic timescales. They are slow, dramatic events that can reshape galaxies and trigger new star formation."
+    },
+    {
+        "topic": "gravity",
+        "input_text": "answer astronomy question about gravity: What is LISA and what will it observe?",
+        "target_text": "LISA is a planned space-based gravitational wave observatory with three spacecraft separated by 2.5 million kilometers. Its enormous baseline will detect lower-frequency waves from supermassive black hole mergers that are completely inaccessible to ground-based detectors like LIGO."
+    },
+    {
+        "topic": "light_telescopes_and_observation",
+        "input_text": "answer astronomy question about light_telescopes_and_observation: Why did the Swift satellite need both gamma-ray and X-ray instruments working together?",
+        "target_text": "Gamma-ray bursts are detected first in gamma rays, but the afterglow fades in seconds. Swift detects the burst then immediately pivots its X-ray and optical instruments to capture the afterglow before it disappears."
+    },
+    {
+        "topic": "gravity",
+        "input_text": "answer astronomy question about gravity: What is hydrostatic equilibrium in stars?",
+        "target_text": "Hydrostatic equilibrium is the balance inside a star between the inward pull of gravity trying to collapse it and the outward pressure from the energy released by nuclear fusion. Stars are stable as long as this balance is maintained."
+    },
+    {
+        "topic": "galaxies",
+        "input_text": "answer astronomy question about galaxies: Could life exist in other parts of the Milky Way?",
+        "target_text": "It is definitely possible. The Milky Way has enormous numbers of stars and likely huge numbers of planets, so many scientists think life could exist elsewhere even though we have not confirmed it yet."
+    },
+    {
+        "topic": "gravity",
+        "input_text": "answer astronomy question about gravity: What is dark energy and how does it relate to gravity?",
+        "target_text": "Dark energy is a mysterious component of the universe that drives its accelerating expansion, effectively acting against gravity on the largest scales. It accounts for about 68% of the total energy content of the universe."
+    },
+    {
+        "topic": "time_and_relativity",
+        "input_text": "answer astronomy question about time_and_relativity: What is the conceptual link between the metric tensor and gravity?",
+        "target_text": "In general relativity gravity is not a force but a geometric effect. The metric tensor encodes the curvature of spacetime caused by mass, and objects simply move along the straightest possible paths in that curved geometry."
+    },
+    {
+        "topic": "galaxies",
+        "input_text": "answer astronomy question about galaxies: Are galaxy clusters just groups of galaxies?",
+        "target_text": "Yes. A galaxy cluster is a large group of galaxies held together by gravity."
+    },
+    {
+        "topic": "time_and_relativity",
+        "input_text": "answer astronomy question about time_and_relativity: What is Lorentz covariance?",
+        "target_text": "Lorentz covariance means the equations of physics keep the same mathematical form after a Lorentz transformation. It guarantees that the predictions of physical laws are the same in all inertial frames."
+    },
+    {
+        "topic": "galaxies",
+        "input_text": "answer astronomy question about galaxies: Can one galaxy contain different kinds of stars?",
+        "target_text": "Yes. A galaxy can contain young hot stars, old red stars, giant stars, dead stars, and everything in between. Different regions of a galaxy can also have very different stellar populations."
+    },
+    {
+        "topic": "black_holes",
+        "input_text": "answer astronomy question about black_holes: Do black holes make sound?",
+        "target_text": "Not in the normal sense in space, since space is mostly a vacuum. However, scientists can convert data from black hole environments into sound-like representations."
+    },
+    {
+        "topic": "light_telescopes_and_observation",
+        "input_text": "answer astronomy question about light_telescopes_and_observation: Why does infrared observation allow astronomers to see through the dense dust clouds surrounding star-forming regions?",
+        "target_text": "Infrared wavelengths are not scattered as strongly by dust particles as visible light, so infrared passes through dense clouds that block visible light entirely, revealing the hidden star-forming regions within."
+    },
+    {
+        "topic": "stars_and_stellar_evolution",
+        "input_text": "answer astronomy question about stars_and_stellar_evolution: What is a red dwarf star?",
+        "target_text": "A red dwarf is a low-mass M-type main sequence star that fuses hydrogen so slowly it can remain on the main sequence for trillions of years. They are the most common stars in the galaxy."
+    },
+    {
+        "topic": "cosmology",
+        "input_text": "answer astronomy question about cosmology: Will the Sun last forever?",
+        "target_text": "No. The Sun has a limited lifetime. In several billion years, it will expand into a red giant and later end as a white dwarf."
+    },
+    {
+        "topic": "light_telescopes_and_observation",
+        "input_text": "answer astronomy question about light_telescopes_and_observation: What is the difference between photometric and spectroscopic redshift, and why does the distinction matter for studying distant galaxies?",
+        "target_text": "Photometric redshift estimates distance by comparing brightness through broad color filters to galaxy templates - fast but imprecise. Spectroscopic redshift directly measures the shift of known spectral lines and is far more accurate but requires much more telescope time per object."
+    },
+    {
+        "topic": "stars_and_stellar_evolution",
+        "input_text": "answer astronomy question about stars_and_stellar_evolution: What is the Pauli exclusion principle?",
+        "target_text": "The Pauli exclusion principle states that no two identical fermions, such as electrons or neutrons, can occupy the same quantum state at the same time. This forces particles into higher energy states when compressed, generating pressure."
+    },
+    {
+        "topic": "galaxies",
+        "input_text": "answer astronomy question about galaxies: What’s in the center of most galaxies?",
+        "target_text": "Usually a dense concentration of stars, gas, and often a supermassive black hole."
+    },
+    {
+        "topic": "cosmology",
+        "input_text": "answer astronomy question about cosmology: What was the Big Bang?",
+        "target_text": "The Big Bang was not an explosion in empty space. It was the rapid expansion of space itself from an extremely hot, dense early state."
+    },
+    {
+        "topic": "gravity",
+        "input_text": "answer astronomy question about gravity: Why do planets orbit the Sun in ellipses rather than perfect circles?",
+        "target_text": "An ellipse is the natural orbital shape for any object with velocity less than escape velocity in an inverse-square gravity field. A circular orbit is simply the special case where the two foci coincide, requiring an exact balance of speed and distance that is rarely achieved in practice."
+    },
+    {
+        "topic": "galaxies",
+        "input_text": "answer astronomy question about galaxies: Do galaxies have centers like solar systems do?",
+        "target_text": "Yes. Most galaxies have a central region, and many have a very dense core with a supermassive black hole."
+    },
+    {
+        "topic": "planets",
+        "input_text": "answer astronomy question about planets: Can exoplanets have atmospheres?",
+        "target_text": "Yes. Some exoplanet atmospheres have already been studied, revealing gases like water vapor, sodium, methane, and carbon dioxide."
+    },
+    {
+        "topic": "galaxies",
+        "input_text": "answer astronomy question about galaxies: Can galaxies have more than one black hole?",
+        "target_text": "Yes. A galaxy can have one main supermassive black hole in its center and also many smaller black holes scattered throughout it. After mergers, a galaxy may even temporarily contain multiple giant central black holes."
+    },
+    {
+        "topic": "cosmology",
+        "input_text": "answer astronomy question about cosmology: If galaxies collide, do stars crash into each other?",
+        "target_text": "Usually not. Stars are so far apart that even during galaxy mergers, direct star-to-star collisions are rare."
+    },
+    {
+        "topic": "cosmology",
+        "input_text": "answer astronomy question about cosmology: Was there empty space before the Big Bang?",
+        "target_text": "Scientists are not sure. In many models, space and time themselves began with the Big Bang, so asking what was “before” may not work the way it does in everyday life."
+    },
+    {
+        "topic": "time_and_relativity",
+        "input_text": "answer astronomy question about time_and_relativity: What is the arrow of time?",
+        "target_text": "The arrow of time refers to the observed fact that physical processes naturally evolve in one direction, from past to future, even though most fundamental equations work equally well in reverse."
+    },
+    {
+        "topic": "galaxies",
+        "input_text": "answer astronomy question about galaxies: Do stars crash into each other when galaxies collide?",
+        "target_text": "Usually no. Even in galaxy collisions, stars are so widely separated that most pass by without hitting each other."
+    },
+    {
+        "topic": "planets",
+        "input_text": "answer astronomy question about planets: Can exoplanets be bigger than Jupiter?",
+        "target_text": "Yes. Some are larger than Jupiter, though if they get too massive they may be classified as brown dwarfs instead of planets."
+    },
+    {
+        "topic": "cosmology",
+        "input_text": "answer astronomy question about cosmology: Why can’t we see the entire universe?",
+        "target_text": "Because light travels at a finite speed and the universe has a finite age. Some regions are simply too far away for their light to have reached us yet."
+    },
+    {
+        "topic": "stars_and_stellar_evolution",
+        "input_text": "answer astronomy question about stars_and_stellar_evolution: What is a Cepheid variable star?",
+        "target_text": "A Cepheid variable is a star that pulsates in brightness with a regular period caused by expansion and contraction of its outer layers. The period directly indicates its intrinsic luminosity, making Cepheids useful for measuring distances."
+    },
+    {
+        "topic": "galaxies",
+        "input_text": "answer astronomy question about galaxies: What happens when a galaxy runs out of gas?",
+        "target_text": "It stops making many new stars and slowly becomes dominated by older, redder stars."
+    },
+    {
+        "topic": "gravity",
+        "input_text": "answer astronomy question about gravity: Why do all objects fall at the same rate in a vacuum regardless of their mass?",
+        "target_text": "Gravitational force is proportional to mass, but so is inertia, the resistance to acceleration. These two effects cancel exactly for any mass, so all objects experience the same gravitational acceleration regardless of how heavy they are."
+    },
+    {
+        "topic": "stars_and_stellar_evolution",
+        "input_text": "answer astronomy question about stars_and_stellar_evolution: What is the end state of a star like the Sun?",
+        "target_text": "The Sun will eventually expand into a red giant, shed its outer layers as a planetary nebula, and leave behind a cooling white dwarf. This is the typical fate of all stars with masses below about eight solar masses."
+    },
+    {
+        "topic": "stars_and_stellar_evolution",
+        "input_text": "answer astronomy question about stars_and_stellar_evolution: What ends a star's time on the main sequence?",
+        "target_text": "A star leaves the main sequence when it exhausts the hydrogen fuel in its core. Without fusion to provide outward pressure, the core contracts under gravity and the star begins to evolve into a giant."
+    },
+    {
+        "topic": "galaxies",
+        "input_text": "answer astronomy question about galaxies: Could our galaxy become an elliptical galaxy one day?",
+        "target_text": "Possibly, yes. After the Milky Way merges with Andromeda, the final result may look more like a large elliptical or mixed-type galaxy rather than the neat spiral shape we have now."
+    },
+    {
+        "topic": "cosmology",
+        "input_text": "answer astronomy question about cosmology: Why is the night sky dark if there are so many stars?",
+        "target_text": "Because the universe has a finite age and is expanding. Light from many distant stars has not reached us, and some of it is stretched to invisible wavelengths."
+    },
+    {
+        "topic": "light_telescopes_and_observation",
+        "input_text": "answer astronomy question about light_telescopes_and_observation: How do the tiny temperature fluctuations in the cosmic microwave background serve as a direct record of the early universe's structure?",
+        "target_text": "Slight density variations in the early universe created temperature differences imprinted on the CMB. These fluctuations later grew under gravity into galaxies and clusters, and their pattern encodes the ratio of ordinary matter, dark matter, and dark energy in the universe."
+    },
+    {
+        "topic": "black_holes",
+        "input_text": "answer astronomy question about black_holes: Have we ever taken a picture of a black hole?",
+        "target_text": "Scientists have captured images of the glowing material around black holes and the dark shadow they cast, rather than a direct picture of the black hole itself."
+    },
+    {
+        "topic": "time_and_relativity",
+        "input_text": "answer astronomy question about time_and_relativity: What is the lookback time in astronomy?",
+        "target_text": "Lookback time is the time that has elapsed since the light we observe from a distant object was emitted. Because light travels at a finite speed, distant objects are seen as they were in the past, not as they are now."
+    },
+    {
+        "topic": "gravity",
+        "input_text": "answer astronomy question about gravity: What is free fall?",
+        "target_text": "Free fall is motion under gravity alone with no other forces acting. In free fall, all objects regardless of mass accelerate at the same rate, and occupants feel weightless because they and their surroundings are falling together."
+    },
+    {
+        "topic": "black_holes",
+        "input_text": "answer astronomy question about black_holes: Would someone outside see you fall into a black hole?",
+        "target_text": "From far away, they would see you appear to slow down and fade near the event horizon because of gravitational time effects and redshift."
+    },
+    {
+        "topic": "time_and_relativity",
+        "input_text": "answer astronomy question about time_and_relativity: What is length contraction?",
+        "target_text": "Length contraction is the shortening of an object along its direction of motion as measured by an observer the object is moving past. The faster the object moves, the shorter it appears."
+    },
+    {
+        "topic": "stars_and_stellar_evolution",
+        "input_text": "answer astronomy question about stars_and_stellar_evolution: What does OBAFGKM represent?",
+        "target_text": "OBAFGKM is the sequence of stellar spectral types from hottest to coolest. O-type stars are blue and extremely hot, while M-type stars are red and relatively cool. The Sun is a G-type star."
+    },
+    {
+        "topic": "planets",
+        "input_text": "answer astronomy question about planets: Can a planet outside the habitable zone still host life?",
+        "target_text": "Yes, especially if it has internal heat, a thick atmosphere, or underground oceans. Life might not need a perfect Earth-like surface."
+    },
+    {
+        "topic": "stars_and_stellar_evolution",
+        "input_text": "answer astronomy question about stars_and_stellar_evolution: What is the triple alpha process and why does it only begin after the star's hydrogen is exhausted?",
+        "target_text": "The triple alpha process fuses three helium nuclei into one carbon nucleus and is the main source of carbon in the universe. It only begins after core hydrogen is gone because the star must first contract and heat its helium core to the 100 million Kelvin needed to overcome the much larger repulsion between helium nuclei."
+    },
+    {
+        "topic": "stars_and_stellar_evolution",
+        "input_text": "answer astronomy question about stars_and_stellar_evolution: What is absolute magnitude?",
+        "target_text": "Absolute magnitude is the apparent brightness a star would have at a standard distance of 10 parsecs from Earth. It is a measure of intrinsic luminosity independent of how far the star actually is."
+    },
+    {
+        "topic": "time_and_relativity",
+        "input_text": "answer astronomy question about time_and_relativity: What is the Schwarzschild metric?",
+        "target_text": "The Schwarzschild metric describes the curved spacetime geometry around a non-rotating spherical mass. It predicts that time runs more slowly deeper in the gravitational field and that light and matter follow curved paths."
+    },
+    {
+        "topic": "galaxies",
+        "input_text": "answer astronomy question about galaxies: How do scientists know dark matter is in galaxies if they can’t see it?",
+        "target_text": "They infer it from its gravitational effects. For example, stars in galaxies often move faster than expected, which suggests there is extra unseen mass pulling on them."
+    },
+    {
+        "topic": "stars_and_stellar_evolution",
+        "input_text": "answer astronomy question about stars_and_stellar_evolution: What is the r-process and why can it only happen when a star violently dies?",
+        "target_text": "The r-process is rapid neutron capture, where nuclei absorb neutrons faster than they can decay, building elements heavier than iron such as gold and uranium. It requires the extreme neutron densities found only in supernova cores or neutron star mergers, conditions no stable star can provide."
+    },
+    {
+        "topic": "galaxies",
+        "input_text": "answer astronomy question about galaxies: What keeps a galaxy from flying apart?",
+        "target_text": "Gravity holds the stars, gas, dust, and dark matter together."
+    },
+    {
+        "topic": "cosmology",
+        "input_text": "answer astronomy question about cosmology: What is the cosmic microwave background?",
+        "target_text": "The cosmic microwave background is faint leftover radiation from the early universe. It is often called the afterglow of the Big Bang."
+    },
+    {
+        "topic": "cosmology",
+        "input_text": "answer astronomy question about cosmology: Could the universe be infinite?",
+        "target_text": "It might be. Scientists do not yet know for sure whether the universe is truly infinite or just extremely large beyond what we can observe."
+    },
+    {
+        "topic": "black_holes",
+        "input_text": "answer astronomy question about black_holes: Why are most black holes hard to find?",
+        "target_text": "Because isolated black holes emit little or no light, making them difficult to detect unless they affect something visible nearby."
+    },
+    {
+        "topic": "cosmology",
+        "input_text": "answer astronomy question about cosmology: Can gravity affect light?",
+        "target_text": "Yes. Gravity can bend the path of light, which is why massive objects can act like lenses and distort the images of more distant objects."
+    },
+    {
+        "topic": "stars_and_stellar_evolution",
+        "input_text": "answer astronomy question about stars_and_stellar_evolution: What is helioseismology?",
+        "target_text": "Helioseismology studies the Sun's interior by analyzing surface oscillations caused by acoustic waves traveling through the interior. It allows astronomers to map the Sun's internal structure and rotation without direct observation."
+    },
+    {
+        "topic": "light_telescopes_and_observation",
+        "input_text": "answer astronomy question about light_telescopes_and_observation: Why do modern large telescopes use segmented mirrors instead of a single large mirror?",
+        "target_text": "A single very large mirror is prohibitively heavy, sags under its own weight, and is nearly impossible to cast without flaws. Segmented designs break the mirror into manageable pieces that can each be individually supported and controlled."
+    },
+    {
+        "topic": "time_and_relativity",
+        "input_text": "answer astronomy question about time_and_relativity: Does time pass at the same rate everywhere in the universe?",
+        "target_text": "No. Time runs more slowly in stronger gravitational fields and for faster-moving observers. A clock on a mountain top ticks slightly faster than one at sea level, and GPS satellites must account for this difference to stay accurate."
+    },
+    {
+        "topic": "time_and_relativity",
+        "input_text": "answer astronomy question about time_and_relativity: What is a spacelike interval?",
+        "target_text": "A spacelike interval separates two events that cannot be connected by any signal at or below light speed. There is no single observer who can be present at both events."
+    },
+    {
+        "topic": "black_holes",
+        "input_text": "answer astronomy question about black_holes: Can you see a black hole?",
+        "target_text": "You usually cannot see the black hole itself directly, but you can often detect it by observing how it affects nearby stars, gas, and light."
+    },
+    {
+        "topic": "time_and_relativity",
+        "input_text": "answer astronomy question about time_and_relativity: What is dark energy?",
+        "target_text": "Dark energy is a form of energy spread uniformly through space that causes the universe's expansion to accelerate. It makes up roughly 68 percent of the total energy content of the universe but has no known microscopic explanation."
+    },
+    {
+        "topic": "planets",
+        "input_text": "answer astronomy question about planets: How can a planet get thrown out of its solar system?",
+        "target_text": "Gravitational chaos, close encounters with giant planets, or interactions in young crowded systems can eject a planet into interstellar space."
+    },
+    {
+        "topic": "galaxies",
+        "input_text": "answer astronomy question about galaxies: Why do telescopes sometimes see galaxies differently?",
+        "target_text": "Different telescopes observe different types of light, such as visible, infrared, radio, ultraviolet, or X-rays. Each one reveals different parts of a galaxy, like dust, hot gas, or star-forming regions."
+    },
+    {
+        "topic": "galaxies",
+        "input_text": "answer astronomy question about galaxies: When the Milky Way and Andromeda collide, will Earth be destroyed?",
+        "target_text": "Probably not directly. The galaxies will interact dramatically, but stars are so far apart that direct star collisions are unlikely."
+    },
+    {
+        "topic": "stars_and_stellar_evolution",
+        "input_text": "answer astronomy question about stars_and_stellar_evolution: Why is degeneracy pressure different from thermal pressure?",
+        "target_text": "Thermal pressure depends on temperature and disappears when an object cools. Degeneracy pressure is purely quantum mechanical and remains even at zero temperature, which is why white dwarfs do not collapse as they cool."
+    },
+    {
+        "topic": "planets",
+        "input_text": "answer astronomy question about planets: Does being in the habitable zone guarantee life?",
+        "target_text": "No. It only means liquid water could be possible. Atmosphere, chemistry, magnetic field, and many other factors also matter."
+    },
+    {
+        "topic": "planets",
+        "input_text": "answer astronomy question about planets: Would oxygen alone prove alien life?",
+        "target_text": "Not necessarily. Oxygen can be produced by non-living processes too, so scientists look for combinations of signs rather than one gas alone."
+    },
+    {
+        "topic": "time_and_relativity",
+        "input_text": "answer astronomy question about time_and_relativity: What does it mean that the speed of light is constant?",
+        "target_text": "It means light always travels at about 300,000 km/s in a vacuum, regardless of the observer's motion or the motion of the source. No matter how fast you move toward or away from a light beam, you measure the same speed."
+    },
+    {
+        "topic": "black_holes",
+        "input_text": "answer astronomy question about black_holes: Are black holes just cosmic monsters?",
+        "target_text": "They are dramatic, but they are also natural results of physics and part of how the universe works, not just destructive monsters."
+    },
+    {
+        "topic": "gravity",
+        "input_text": "answer astronomy question about gravity: What is a Lagrange point?",
+        "target_text": "A Lagrange point is one of five positions in a two-body gravitational system, such as the Earth-Sun system, where the gravitational forces and orbital motion balance such that a small object placed there tends to stay in a fixed position relative to both bodies."
+    },
+    {
+        "topic": "cosmology",
+        "input_text": "answer astronomy question about cosmology: Does gravity bend spacetime?",
+        "target_text": "According to Einstein’s theory of general relativity, yes. Massive objects curve spacetime, and that curvature is what we experience as gravity."
+    },
+    {
+        "topic": "stars_and_stellar_evolution",
+        "input_text": "answer astronomy question about stars_and_stellar_evolution: What is the color index of a star?",
+        "target_text": "The color index is the difference in magnitude between two different wavelength filters, reflecting the star's surface temperature. A negative value indicates a hot blue star, while a positive value indicates a cooler red star."
+    },
+    {
+        "topic": "stars_and_stellar_evolution",
+        "input_text": "answer astronomy question about stars_and_stellar_evolution: What is the radiative zone in a star?",
+        "target_text": "The radiative zone is a region inside a star where energy moves outward by photons being repeatedly absorbed and re-emitted, bouncing through the dense material. In the Sun it sits between the core and the outer convective zone."
+    },
+    {
+        "topic": "galaxies",
+        "input_text": "answer astronomy question about galaxies: Could the Milky Way be part of something even bigger?",
+        "target_text": "Yes. The Milky Way is part of the Local Group, which is part of larger structures like galaxy clusters and superclusters. Galaxies are arranged in huge cosmic patterns across the universe."
+    },
+    {
+        "topic": "gravity",
+        "input_text": "answer astronomy question about gravity: How does gravity shape the large-scale structure of the universe?",
+        "target_text": "Tiny density fluctuations in the early universe grew under gravity over billions of years, with slight overdensities attracting more matter, eventually forming the cosmic web of filaments, galaxy clusters, and voids we observe today."
+    },
+    {
+        "topic": "planets",
+        "input_text": "answer astronomy question about planets: What is a rogue exoplanet?",
+        "target_text": "It is a planet outside our Solar System that drifts through space without orbiting any star."
+    },
+    {
+        "topic": "cosmology",
+        "input_text": "answer astronomy question about cosmology: Is the universe getting colder?",
+        "target_text": "In a broad sense, yes. As the universe expands, it tends to become less dense and cooler overall, though local hot places like stars still exist."
+    },
+    {
+        "topic": "black_holes",
+        "input_text": "answer astronomy question about black_holes: Are black holes always destructive?",
+        "target_text": "They are dangerous if you get too close, but on cosmic scales they are also normal parts of the universe and can simply sit in stable systems without causing chaos far away."
+    },
+    {
+        "topic": "gravity",
+        "input_text": "answer astronomy question about gravity: What is the N-body problem in gravitational mechanics?",
+        "target_text": "The N-body problem refers to the challenge of calculating the exact motion of three or more mutually gravitating objects. Unlike the two-body case, the N-body problem generally has no analytical solution and must be solved using numerical computer simulations."
+    },
+    {
+        "topic": "light_telescopes_and_observation",
+        "input_text": "answer astronomy question about light_telescopes_and_observation: Why are galaxy clusters so luminous in X-rays?",
+        "target_text": "Galaxy clusters contain enormous quantities of gas heated to tens of millions of degrees by gravitational compression, which causes it to emit strongly in X-rays and makes clusters some of the brightest X-ray sources in the sky."
+    },
+    {
+        "topic": "time_and_relativity",
+        "input_text": "answer astronomy question about time_and_relativity: What is rest energy?",
+        "target_text": "Rest energy is the energy stored in an object simply because it has mass, even when it is not moving. It equals the object's rest mass multiplied by c squared."
+    },
+    {
+        "topic": "planets",
+        "input_text": "answer astronomy question about planets: Can a planet be made mostly of ocean?",
+        "target_text": "Possibly. Some worlds may be 'ocean planets' with deep global oceans and little or no exposed land."
+    },
+    {
+        "topic": "galaxies",
+        "input_text": "answer astronomy question about galaxies: Are galaxies older than stars?",
+        "target_text": "Not exactly in a simple way. The earliest stars formed very early in the universe, and galaxies formed as stars, gas, and dark matter gathered together. In practice, stars and galaxies developed alongside each other in the early universe."
+    },
+    {
+        "topic": "gravity",
+        "input_text": "answer astronomy question about gravity: Why does the gravitational constant G have to be measured experimentally rather than derived from theory?",
+        "target_text": "G is a fundamental constant whose value cannot be predicted by any current theory and must be measured experimentally. Because gravitational forces between lab-scale masses are so small, G is the least precisely known of all fundamental constants despite centuries of effort."
+    },
+    {
+        "topic": "cosmology",
+        "input_text": "answer astronomy question about cosmology: Can black holes move through space?",
+        "target_text": "Yes. Black holes can orbit stars, merge with other black holes, or move through galaxies like other massive objects."
+    },
+    {
+        "topic": "cosmology",
+        "input_text": "answer astronomy question about cosmology: Can light really be stretched?",
+        "target_text": "Yes. As space expands, the wavelengths of traveling light can stretch too, making the light appear redder and lower in energy."
+    },
+    {
+        "topic": "planets",
+        "input_text": "answer astronomy question about planets: What does exoplanet research change about how we see ourselves?",
+        "target_text": "It makes Earth feel both precious and less alone. We are no longer wondering whether planets are common—we now know the galaxy is full of worlds."
+    },
+    {
+        "topic": "cosmology",
+        "input_text": "answer astronomy question about cosmology: What is a light-year?",
+        "target_text": "A light-year is the distance light travels in one year, not a unit of time. It is used to describe enormous cosmic distances."
+    },
+    {
+        "topic": "planets",
+        "input_text": "answer astronomy question about planets: Will we ever visit an exoplanet?",
+        "target_text": "Not with current technology. The distances are so huge that even the nearest exoplanets are far beyond practical human travel right now."
+    },
+    {
+        "topic": "time_and_relativity",
+        "input_text": "answer astronomy question about time_and_relativity: What is the block universe view of spacetime?",
+        "target_text": "The block universe view holds that past, present, and future all exist equally as a fixed four-dimensional structure. In this picture there is no flowing present moment; all of spacetime simply exists as a whole."
+    },
+    {
+        "topic": "cosmology",
+        "input_text": "answer astronomy question about cosmology: What is a nebula?",
+        "target_text": "A nebula is a cloud of gas and dust in space. Some nebulae are places where stars are born, while others are leftovers from dying stars."
+    },
+    {
+        "topic": "galaxies",
+        "input_text": "answer astronomy question about galaxies: Are all stars in the sky part of the Milky Way?",
+        "target_text": "Almost all the stars you can see with your eyes are inside the Milky Way."
+    },
+    {
+        "topic": "black_holes",
+        "input_text": "answer astronomy question about black_holes: Could black holes be tiny?",
+        "target_text": "In theory, very small black holes called primordial black holes may have formed in the early universe, but they have not been confirmed."
+    },
+    {
+        "topic": "time_and_relativity",
+        "input_text": "answer astronomy question about time_and_relativity: Why is the equivalence principle important for general relativity?",
+        "target_text": "It was the foundational insight that led Einstein from special relativity to general relativity. By treating gravity as locally equivalent to acceleration, he could use geometry to describe gravity without it being a traditional force."
+    },
+    {
+        "topic": "cosmology",
+        "input_text": "answer astronomy question about cosmology: Why are supernovae important?",
+        "target_text": "Supernovae help create and spread heavy elements like iron, calcium, and many others that later become part of planets, life, and future stars."
+    },
+    {
+        "topic": "time_and_relativity",
+        "input_text": "answer astronomy question about time_and_relativity: What is Planck time?",
+        "target_text": "Planck time is the smallest meaningful unit of time in current physics, about 5.4 times 10^-44 seconds. Below this scale, quantum gravitational effects are expected to dominate and classical spacetime loses its meaning."
+    },
+    {
+        "topic": "stars_and_stellar_evolution",
+        "input_text": "answer astronomy question about stars_and_stellar_evolution: What is a kilonova?",
+        "target_text": "A kilonova is the explosion produced by the merger of two neutron stars, powered by the radioactive decay of heavy elements synthesized in the merger. It is a confirmed major source of r-process elements like gold and platinum."
+    },
+    {
+        "topic": "black_holes",
+        "input_text": "answer astronomy question about black_holes: What is the largest black hole we know of?",
+        "target_text": "Some of the largest known black holes have masses of tens of billions of Suns, usually found in giant galaxies."
+    },
+    {
+        "topic": "time_and_relativity",
+        "input_text": "answer astronomy question about time_and_relativity: What is the elevator thought experiment?",
+        "target_text": "Einstein imagined an observer inside a sealed elevator with no windows. If the elevator accelerates upward, everything inside is pushed to the floor just as gravity would push it. The observer has no way to tell the two situations apart."
+    },
+    {
+        "topic": "planets",
+        "input_text": "answer astronomy question about planets: Why is Mercury not the hottest even though it is closest to the Sun?",
+        "target_text": "Mercury has almost no atmosphere to trap heat, so it gets very hot in sunlight but loses heat quickly in darkness."
+    },
+    {
+        "topic": "galaxies",
+        "input_text": "answer astronomy question about galaxies: What is an active galaxy?",
+        "target_text": "An active galaxy is a galaxy whose center gives off an unusually large amount of energy, often because material is falling into a supermassive black hole and heating up dramatically."
+    },
+    {
+        "topic": "gravity",
+        "input_text": "answer astronomy question about gravity: Why does rotation flatten planets into oblate spheroids rather than perfect spheres?",
+        "target_text": "The centrifugal effect of rotation pushes material outward at the equator, while gravity pulls it inward. The balance between these effects at different latitudes causes the equatorial radius to be larger than the polar radius, flattening the planet slightly."
+    },
+    {
+        "topic": "light_telescopes_and_observation",
+        "input_text": "answer astronomy question about light_telescopes_and_observation: Why is spectroscopy considered one of the most powerful tools in observational astronomy?",
+        "target_text": "A single spectrum simultaneously encodes a source's temperature, chemical composition, velocity, and distance - more information from one observation than almost any other astronomical measurement technique."
+    },
+    {
+        "topic": "galaxies",
+        "input_text": "answer astronomy question about galaxies: Are old galaxies different from young galaxies?",
+        "target_text": "Yes. Younger galaxies often have more gas and star formation, while older ones may look calmer and redder."
+    },
+    {
+        "topic": "light_telescopes_and_observation",
+        "input_text": "answer astronomy question about light_telescopes_and_observation: How do ground-based infrared telescopes account for the atmosphere's own infrared emission?",
+        "target_text": "They measure the atmosphere's own infrared emission simultaneously alongside the cosmic target, then subtract the atmospheric contribution from the measurement to isolate the signal coming from space."
+    },
+    {
+        "topic": "time_and_relativity",
+        "input_text": "answer astronomy question about time_and_relativity: What is the Hafele-Keating experiment?",
+        "target_text": "It flew atomic clocks around the world on aircraft and compared them to ground-based clocks. The differences in elapsed time matched the combined predictions of kinematic time dilation and gravitational time dilation."
+    },
+    {
+        "topic": "stars_and_stellar_evolution",
+        "input_text": "answer astronomy question about stars_and_stellar_evolution: What is the effective temperature of a star?",
+        "target_text": "The effective temperature is the temperature of a perfect blackbody that would emit the same total energy per unit area as the star. It is the standard way to characterize a star's thermal state from observations."
+    },
+    {
+        "topic": "stars_and_stellar_evolution",
+        "input_text": "answer astronomy question about stars_and_stellar_evolution: What is a planetary nebula?",
+        "target_text": "A planetary nebula is the glowing shell of gas ejected by a low or intermediate mass star at the end of its life, lit up by the hot remnant core. Despite the name it has nothing to do with planets."
+    },
+    {
+        "topic": "time_and_relativity",
+        "input_text": "answer astronomy question about time_and_relativity: Why is the twin paradox not really a paradox?",
+        "target_text": "It seems like either twin could claim the other was moving, but the traveling twin actually accelerates and changes direction, making the situation physically asymmetric. The twin who accelerated is the one who ages less."
+    },
+    {
+        "topic": "galaxies",
+        "input_text": "answer astronomy question about galaxies: How many galaxies are there in the universe?",
+        "target_text": "There are likely hundreds of billions, and possibly even trillions, of galaxies in the observable universe."
+    },
+    {
+        "topic": "gravity",
+        "input_text": "answer astronomy question about gravity: Why does gravity cause a binary star system to eventually spiral together and merge?",
+        "target_text": "When two compact objects orbit each other, general relativity predicts they radiate gravitational waves, carrying energy away from the system. As the system loses energy, the orbit shrinks, the objects accelerate, radiate more energy, and eventually merge."
+    },
+    {
+        "topic": "planets",
+        "input_text": "answer astronomy question about planets: Can a planet have more than one sun?",
+        "target_text": "Yes. Some planets orbit one star in a multi-star system, and others may orbit around two stars directly, like a real-life 'Tatooine' setup."
+    },
+    {
+        "topic": "gravity",
+        "input_text": "answer astronomy question about gravity: Why do planetary rings exist inside the Roche limit?",
+        "target_text": "Inside the Roche limit tidal forces from the planet exceed the self-gravity that would hold a moonlike body together. Any large body that enters this region is disrupted and remains as a ring of smaller particles rather than coalescing into a single moon."
+    },
+    {
+        "topic": "light_telescopes_and_observation",
+        "input_text": "answer astronomy question about light_telescopes_and_observation: Why is it important that telescope mirrors have surfaces accurate to a fraction of the wavelength of observed light?",
+        "target_text": "Any surface irregularity larger than a small fraction of the observed wavelength causes destructive interference that scatters light away from the focal point. Mirrors must be polished to nanometer-level smoothness to concentrate light efficiently and produce sharp images."
+    },
+    {
+        "topic": "galaxies",
+        "input_text": "answer astronomy question about galaxies: Why do some galaxies have spiral arms?",
+        "target_text": "Spiral arms form because of patterns in the galaxy’s rotation and regions where stars and gas bunch together."
+    },
+    {
+        "topic": "galaxies",
+        "input_text": "answer astronomy question about galaxies: Can a galaxy ‘die’?",
+        "target_text": "In a way, yes. A galaxy can become much less active when it stops making new stars, though it still exists."
+    },
+    {
+        "topic": "planets",
+        "input_text": "answer astronomy question about planets: Could we send tiny probes to another star someday?",
+        "target_text": "In theory, yes. Concepts like laser-driven light sails have been proposed for ultra-light probes that could travel much faster than today’s spacecraft."
+    },
+    {
+        "topic": "planets",
+        "input_text": "answer astronomy question about planets: Why is Jupiter called a failed star?",
+        "target_text": "People say that because Jupiter is mostly hydrogen and helium like a star, but it is far too small to start nuclear fusion, so it never became one."
+    },
+    {
+        "topic": "planets",
+        "input_text": "answer astronomy question about planets: What are planetary rings made of?",
+        "target_text": "Rings can be made of ice, dust, and rocky fragments, ranging from tiny grains to chunks as large as houses or bigger."
+    },
+    {
+        "topic": "light_telescopes_and_observation",
+        "input_text": "answer astronomy question about light_telescopes_and_observation: Why was the Spitzer Space Telescope placed in a heliocentric orbit instead of orbiting Earth?",
+        "target_text": "Orbiting close to Earth exposes a telescope to comparatively warm infrared from Earth itself. Drifting into a heliocentric orbit lets Spitzer move away from Earth's heat and operate in a much colder environment suited to infrared detection."
+    },
+    {
+        "topic": "gravity",
+        "input_text": "answer astronomy question about gravity: Why is the discovery of Neptune considered a triumph of Newtonian gravity?",
+        "target_text": "Uranus deviated from its predicted orbit, and astronomers used Newton's law to calculate that an unseen planet must be gravitationally pulling it. Neptune was discovered in 1846 almost exactly at the predicted position, demonstrating that gravity could be used to discover worlds mathematically."
+    },
+    {
+        "topic": "planets",
+        "input_text": "answer astronomy question about planets: How far away are most known exoplanets?",
+        "target_text": "Many are hundreds or thousands of light-years away, though some of the most exciting nearby ones are only a few dozen light-years from Earth."
+    },
+    {
+        "topic": "gravity",
+        "input_text": "answer astronomy question about gravity: How does doubling the distance between two objects affect the gravitational force between them?",
+        "target_text": "Doubling the distance reduces the gravitational force to one-quarter of its original value, because force decreases with the square of the distance according to Newton's inverse-square law."
+    },
+    {
+        "topic": "time_and_relativity",
+        "input_text": "answer astronomy question about time_and_relativity: Why is the spacetime interval important?",
+        "target_text": "It is invariant, meaning all inertial observers calculate the same value for it regardless of their relative motion. It plays the role in spacetime that ordinary distance plays in space."
+    },
+    {
+        "topic": "stars_and_stellar_evolution",
+        "input_text": "answer astronomy question about stars_and_stellar_evolution: How do stars form?",
+        "target_text": "Stars form when a dense region of a gas cloud collapses under gravity, heating up as it contracts until the core becomes hot enough to ignite nuclear fusion. The onset of fusion halts the collapse and marks the birth of a main sequence star."
+    },
+    {
+        "topic": "black_holes",
+        "input_text": "answer astronomy question about black_holes: If black holes are invisible, how do scientists know they exist?",
+        "target_text": "Scientists infer black holes by watching stars orbit something unseen, by detecting hot glowing gas falling inward, and by observing gravitational waves from black hole mergers."
+    },
+    {
+        "topic": "time_and_relativity",
+        "input_text": "answer astronomy question about time_and_relativity: What happens to the energy of a particle as it approaches the speed of light?",
+        "target_text": "Its total energy grows without bound. The closer it gets to c, the more energy is needed for each additional bit of speed, making c an unreachable limit for any massive particle."
+    },
+    {
+        "topic": "black_holes",
+        "input_text": "answer astronomy question about black_holes: What is Hawking radiation?",
+        "target_text": "Hawking radiation is a theoretical process proposed by Stephen Hawking in which black holes can slowly emit radiation because of quantum effects near the event horizon."
+    },
+    {
+        "topic": "galaxies",
+        "input_text": "answer astronomy question about galaxies: What did the first galaxies look like?",
+        "target_text": "They were probably smaller, messier, and more chaotic than many galaxies we see today."
+    },
+    {
+        "topic": "galaxies",
+        "input_text": "answer astronomy question about galaxies: What is a dwarf galaxy in simple terms?",
+        "target_text": "A dwarf galaxy is a small galaxy with far fewer stars than a giant galaxy like the Milky Way."
+    },
+    {
+        "topic": "galaxies",
+        "input_text": "answer astronomy question about galaxies: What is a starburst galaxy?",
+        "target_text": "A starburst galaxy is a galaxy going through an unusually intense period of star formation. It is creating new stars much faster than a normal galaxy, often because of a merger or strong gravitational interaction."
+    },
+    {
+        "topic": "time_and_relativity",
+        "input_text": "answer astronomy question about time_and_relativity: What is a worldline?",
+        "target_text": "A worldline is the path an object traces through spacetime, showing its position at every moment of time. A stationary object traces a straight vertical line, while a moving object traces a slanted line."
+    },
+    {
+        "topic": "planets",
+        "input_text": "answer astronomy question about planets: What would happen if Earth moved farther from the Sun?",
+        "target_text": "Earth would cool significantly, more water could freeze, and life would face serious challenges unless the change was very small."
+    },
+    {
+        "topic": "black_holes",
+        "input_text": "answer astronomy question about black_holes: What is a supermassive black hole?",
+        "target_text": "A supermassive black hole is an enormous black hole found at the center of many galaxies, with masses millions or billions of times greater than the Sun."
+    },
+    {
+        "topic": "stars_and_stellar_evolution",
+        "input_text": "answer astronomy question about stars_and_stellar_evolution: How long do different mass stars live on the main sequence?",
+        "target_text": "A high-mass star of ten solar masses may live only a few million years, while the Sun will spend about 10 billion years on the main sequence. A low-mass red dwarf can remain there for trillions of years."
+    }
+]
