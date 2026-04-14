@@ -1,8 +1,116 @@
 1. Black Holes J DONE
-2. Gravity D
-3. Planets and exoplanets J
+2. Gravity D DONE
+3. Planets and exoplanets J DONE
 4. Stars & Stellar Evolution D
 5. Galaxies J DONE
 6. Cosmology / The Universe J DONE
-7. Light, telescopes, and observation D
+7. Light, telescopes, and observation D DONE
 8. Time and Relativity D
+
+We are building a high-quality Q&A JSON dataset for the topic: [TOPIC NAME].
+
+STRICT OUTPUT FORMAT:
+Return all Q&A in this exact JSON array item format only:
+[
+  {
+    "topic": "[topic_slug]",
+    "question": "Question here?",
+    "answer": "Short accurate answer here."
+  }
+]
+
+GLOBAL RULES (VERY IMPORTANT):
+- Target is ONLY 500 Q&As total for this topic, NOT 1000.
+- Structure:
+  - Batch 1 = 250 Q&As (formal / concept coverage style)
+  - Batch 2 = 250 Q&As (curiosity / intuitive / childlike wonder style)
+- We will generate in 50-question chunks:
+  - 1A, 1B, 1C, 1D, 1E = Batch 1
+  - 2A, 2B, 2C, 2D, 2E = Batch 2
+- Never force count with filler. No template padding. If diversity runs out, stop instead of inventing garbage.
+- NO repeated questions.
+- Avoid obvious semantic duplicates when possible, but a few semantic cousins are acceptable if they help model robustness.
+- NO fake variety like:
+  - “What is one important fact about [topic] concept set 23?”
+  - “What should beginners know about [topic] set 14?”
+  - Any template/filler garbage like that is forbidden.
+- NO bracket-number junk after questions:
+  - Forbidden examples:
+    - “What is a galaxy? (2)”
+    - “What is gravity? (31)”
+- Questions must be naturally phrased and diverse.
+- Answers must be:
+  - short
+  - accurate
+  - educational
+  - concise
+  - not bloated
+- Output valid JSON only for each chunk unless I ask for commentary.
+
+BATCH STYLE RULES:
+BATCH 1 (formal style, 250 total):
+- More structured and concept-covering
+- Good foundational academic coverage
+- Still avoid filler and repetition
+- Questions should be clean and useful
+- Not overly robotic
+
+BATCH 2 (curiosity style, 250 total):
+- Curiosity-first
+- Intuitive
+- Beginner-friendly
+- Childlike wonder / natural human phrasing
+- Less textbook tone
+- More “why/how/what/would/if/do/could/can” balance
+- IMPORTANT: Do NOT overuse “Can...” as the starting word
+- Maintain healthy starter diversity:
+  - Why
+  - How
+  - What
+  - Would
+  - If
+  - Do / Does
+  - Could
+  - Can (allowed, but not dominant)
+- A few semantic near-pairs are okay if they feel natural and useful
+
+WORKFLOW RULES:
+- I will ask chunk-by-chunk using commands like:
+  - start 1a
+  - start 1b
+  - ...
+  - start 2a curiosity style
+- You must maintain a running used-question registry across ALL previous chunks in this same chat.
+- You must avoid exact duplicate questions across all prior chunks.
+- After EVERY chunk, include a short report:
+  - Count: 50
+  - Style used
+  - Avoided exact repeats from all previous chunks: yes (to the best of running registry tracking)
+  - No filler/template padding: yes
+  - Any honest caution if needed
+- Be honest if something is uncertain.
+- If a merge or file validation fails, say it failed. Do NOT pretend success.
+- Do NOT claim a downloadable file exists unless it was actually created and validated.
+
+MERGE RULES:
+- After 1A–1E, I will say: merge batch 1
+- Then:
+  - create downloadable file ONLY IF:
+    - batch has exactly 250 items
+    - batch has 250 unique question strings
+  - if validation fails, do NOT create the final file
+  - say clearly that merge failed if it failed
+- After 2A–2E, I will say: merge batch 2
+- Then do the same validation
+- After both are done, I may say:
+  - validate batch1+2
+- Then verify:
+  - total = 500
+  - unique questions = 500
+  - exact duplicate questions across both batches = 0
+
+IMPORTANT HONESTY RULE:
+If reconstruction, merge, validation, or file creation is not safely possible, STOP and say so clearly. No bluffing, no fake completion, no fake downloadable link.
+
+First, acknowledge that you understand the full protocol.
+Then wait for my command.
