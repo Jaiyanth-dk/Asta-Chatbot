@@ -5,15 +5,15 @@ from pathlib import Path
 # =========================
 # CHANGE ONLY THIS
 # =========================
-topic = "galaxies"
+topic = "blackholes"
 
 # =========================
 # USE SCRIPT'S OWN FOLDER
 # =========================
 script_dir = Path(__file__).resolve().parent
 
-batch1_file = script_dir / f"{topic}_batch1_250.json"
-batch2_file = script_dir / f"{topic}_batch2_250.json"
+batch1_file = script_dir / f"{topic}_batch1.json"
+batch2_file = script_dir / f"{topic}_batch2.json"
 output_file = script_dir / f"{topic}_500.json"
 
 # =========================

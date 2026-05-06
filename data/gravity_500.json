@@ -1,0 +1,2482 @@
+[
+  {
+    "topic": "gravity",
+    "question": "What is gravity?",
+    "answer": "Gravity is the force that attracts objects with mass toward each other."
+  },
+  {
+    "topic": "gravity",
+    "question": "What causes gravitational attraction between objects?",
+    "answer": "Gravitational attraction is caused by the presence of mass in objects."
+  },
+  {
+    "topic": "gravity",
+    "question": "Who formulated the law of universal gravitation?",
+    "answer": "Isaac Newton formulated the law of universal gravitation."
+  },
+  {
+    "topic": "gravity",
+    "question": "What does Newton’s law of gravitation describe?",
+    "answer": "It describes how every mass attracts every other mass in the universe."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is the formula for gravitational force?",
+    "answer": "F = G(m1m2)/r^2."
+  },
+  {
+    "topic": "gravity",
+    "question": "What does the gravitational constant G represent?",
+    "answer": "It represents the strength of gravitational interaction."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is the approximate value of G?",
+    "answer": "Approximately 6.674 × 10^-11 N·m²/kg²."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is mass?",
+    "answer": "Mass is the amount of matter in an object."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is weight in physics?",
+    "answer": "Weight is the force exerted on a mass due to gravity."
+  },
+  {
+    "topic": "gravity",
+    "question": "How is weight calculated?",
+    "answer": "Weight equals mass multiplied by gravitational acceleration."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is gravitational acceleration?",
+    "answer": "It is the acceleration experienced by an object due to gravity."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is the value of gravitational acceleration on Earth?",
+    "answer": "Approximately 9.8 m/s²."
+  },
+  {
+    "topic": "gravity",
+    "question": "Does gravity act on all objects?",
+    "answer": "Yes, gravity acts on all objects with mass."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is free fall?",
+    "answer": "Free fall is motion under the influence of gravity alone."
+  },
+  {
+    "topic": "gravity",
+    "question": "Do heavier objects fall faster than lighter ones in vacuum?",
+    "answer": "No, all objects fall at the same rate in a vacuum."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is a gravitational field?",
+    "answer": "A region where a mass experiences gravitational force."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is gravitational field strength?",
+    "answer": "It is force per unit mass."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is the unit of gravitational field strength?",
+    "answer": "Newtons per kilogram (N/kg)."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does distance affect gravity?",
+    "answer": "Gravity decreases with the square of the distance."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does mass affect gravitational force?",
+    "answer": "Greater mass produces stronger gravitational force."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is escape velocity?",
+    "answer": "The minimum speed needed to leave a gravitational field."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is Earth's escape velocity?",
+    "answer": "About 11.2 km/s."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is gravitational potential energy?",
+    "answer": "Energy due to position in a gravitational field."
+  },
+  {
+    "topic": "gravity",
+    "question": "How is gravitational potential energy calculated near Earth?",
+    "answer": "Using mgh."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is gravitational potential?",
+    "answer": "Potential energy per unit mass."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is orbital motion?",
+    "answer": "Motion of an object around another due to gravity."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why do planets orbit the Sun?",
+    "answer": "Gravity pulls them inward while inertia keeps them moving."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is centripetal force?",
+    "answer": "The inward force required for circular motion."
+  },
+  {
+    "topic": "gravity",
+    "question": "What provides centripetal force in planetary orbits?",
+    "answer": "Gravity from the central body."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is weightlessness?",
+    "answer": "A condition where objects appear to have no weight."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why do astronauts experience weightlessness?",
+    "answer": "They are in continuous free fall."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is microgravity?",
+    "answer": "A condition of very weak apparent gravity."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is terminal velocity?",
+    "answer": "The constant speed reached when forces balance."
+  },
+  {
+    "topic": "gravity",
+    "question": "What direction does gravitational force act?",
+    "answer": "Toward the center of mass."
+  },
+  {
+    "topic": "gravity",
+    "question": "Is gravity always attractive?",
+    "answer": "Yes, gravity always attracts objects."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is the inverse square law?",
+    "answer": "Force decreases with the square of distance."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is Einstein’s view of gravity?",
+    "answer": "Gravity is curvature of spacetime."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is spacetime?",
+    "answer": "A four-dimensional combination of space and time."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is gravitational lensing?",
+    "answer": "Bending of light by gravity."
+  },
+  {
+    "topic": "gravity",
+    "question": "What are gravitational waves?",
+    "answer": "Ripples in spacetime caused by massive motion."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is a black hole?",
+    "answer": "A region with extremely strong gravity."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is the event horizon?",
+    "answer": "Boundary beyond which nothing escapes."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is a singularity?",
+    "answer": "A point of extremely high density."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is gravitational time dilation?",
+    "answer": "Time slows in strong gravity."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is gravitational redshift?",
+    "answer": "Light loses energy escaping gravity."
+  },
+  {
+    "topic": "gravity",
+    "question": "What causes ocean tides?",
+    "answer": "Gravitational pull of the Moon and Sun."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is tidal force?",
+    "answer": "Difference in gravitational pull across an object."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why is gravity weaker on the Moon than Earth?",
+    "answer": "The Moon has less mass."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is gravitational acceleration on the Moon?",
+    "answer": "About 1.6 m/s²."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is gravitational force proportional to?",
+    "answer": "It is proportional to the product of the two masses."
+  },
+  {
+    "topic": "gravity",
+    "question": "What happens to gravitational force if distance is doubled?",
+    "answer": "It becomes one-fourth as strong."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is gravitational field strength equivalent to on Earth?",
+    "answer": "It is equal to the acceleration due to gravity."
+  },
+  {
+    "topic": "gravity",
+    "question": "How is gravitational force related to field strength?",
+    "answer": "Force equals mass times field strength."
+  },
+  {
+    "topic": "gravity",
+    "question": "What unit measures gravitational force?",
+    "answer": "Newton (N)."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is mutual gravitational attraction?",
+    "answer": "The force two masses exert on each other."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is gravitational potential at infinity?",
+    "answer": "It is defined as zero."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why is gravitational potential negative near a mass?",
+    "answer": "Because energy is required to move away from the mass."
+  },
+  {
+    "topic": "gravity",
+    "question": "What direction do gravitational field lines point?",
+    "answer": "Toward the mass creating the field."
+  },
+  {
+    "topic": "gravity",
+    "question": "How do two objects experience gravitational force?",
+    "answer": "They experience equal and opposite forces."
+  },
+  {
+    "topic": "gravity",
+    "question": "Which law explains equal and opposite gravitational forces?",
+    "answer": "Newton’s third law."
+  },
+  {
+    "topic": "gravity",
+    "question": "What determines the strength of a gravitational field?",
+    "answer": "Mass and distance from the mass."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is orbital velocity?",
+    "answer": "The speed needed to remain in orbit."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does orbital velocity change with altitude?",
+    "answer": "It decreases as altitude increases."
+  },
+  {
+    "topic": "gravity",
+    "question": "What force keeps satellites in orbit?",
+    "answer": "Gravitational force provides the centripetal force."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is gravitational acceleration at Earth's center?",
+    "answer": "It is zero."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity change as you move toward Earth's center?",
+    "answer": "It decreases linearly."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is gravitational force inside a hollow shell?",
+    "answer": "It is zero everywhere inside."
+  },
+  {
+    "topic": "gravity",
+    "question": "What does the shell theorem state?",
+    "answer": "A spherical shell exerts no net force inside it."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is gravitational field inside a solid sphere?",
+    "answer": "It increases from zero at the center to maximum at the surface."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is gravitational symmetry in spherical bodies?",
+    "answer": "Mass behaves as if concentrated at the center."
+  },
+  {
+    "topic": "gravity",
+    "question": "Does gravitational force ever become zero at large distances?",
+    "answer": "No, it becomes very weak but never zero."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is gravitational equilibrium?",
+    "answer": "A state where gravitational forces balance each other."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is barycenter?",
+    "answer": "The shared center of mass between two bodies."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is the center of mass in a gravitational system?",
+    "answer": "The point where total mass distribution balances."
+  },
+  {
+    "topic": "gravity",
+    "question": "How do binary stars interact gravitationally?",
+    "answer": "They orbit their common center of mass."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is Kepler’s first law?",
+    "answer": "Planets move in elliptical orbits."
+  },
+  {
+    "topic": "gravity",
+    "question": "What does Kepler’s second law state?",
+    "answer": "Equal areas are swept in equal times."
+  },
+  {
+    "topic": "gravity",
+    "question": "What does Kepler’s third law describe?",
+    "answer": "The relation between orbital period and distance."
+  },
+  {
+    "topic": "gravity",
+    "question": "What keeps the Moon in orbit around Earth?",
+    "answer": "Gravitational attraction between Earth and Moon."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is gravitational pull in simple terms?",
+    "answer": "The attraction between objects with mass."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is effective gravity on Earth?",
+    "answer": "Gravity adjusted for Earth's rotation."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why is gravity slightly weaker at the equator?",
+    "answer": "Due to centrifugal effects from Earth's rotation."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why is gravity slightly stronger at the poles?",
+    "answer": "No centrifugal reduction and closer to Earth's center."
+  },
+  {
+    "topic": "gravity",
+    "question": "What causes variations in gravity across Earth?",
+    "answer": "Differences in altitude, rotation, and density."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is gravitational redshift caused by?",
+    "answer": "Light losing energy in a gravitational field."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is gravitational blueshift?",
+    "answer": "Light gaining energy when moving into a gravitational field."
+  },
+  {
+    "topic": "gravity",
+    "question": "What causes gravitational time dilation?",
+    "answer": "Differences in gravitational field strength."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is the Schwarzschild radius?",
+    "answer": "The radius where escape velocity equals light speed."
+  },
+  {
+    "topic": "gravity",
+    "question": "What determines the Schwarzschild radius of an object?",
+    "answer": "Its mass."
+  },
+  {
+    "topic": "gravity",
+    "question": "How is gravitational lensing used in astronomy?",
+    "answer": "To observe distant objects through light bending."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is a microgravity environment?",
+    "answer": "A condition where objects appear weightless."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is gravitational binding energy in planets?",
+    "answer": "Energy required to disperse the planet."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is gravitational collapse?",
+    "answer": "Matter falling inward under gravity."
+  },
+  {
+    "topic": "gravity",
+    "question": "Does gravity have infinite range?",
+    "answer": "Yes, but it weakens with distance."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity influence galaxies?",
+    "answer": "It holds stars and matter together."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is gravitational clustering?",
+    "answer": "Grouping of matter due to gravity."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity affect everyday objects?",
+    "answer": "It keeps them grounded on Earth."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is the behavior of gravitational field lines?",
+    "answer": "They point inward and do not intersect."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is the superposition principle in gravity?",
+    "answer": "Forces from multiple masses add together."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is gravitational potential defined as in physics?",
+    "answer": "Work done per unit mass to bring an object from infinity to a point."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is the formula for gravitational potential of a point mass?",
+    "answer": "V = -GM/r."
+  },
+  {
+    "topic": "gravity",
+    "question": "How is gravitational force related to gravitational potential?",
+    "answer": "It is the negative gradient of gravitational potential."
+  },
+  {
+    "topic": "gravity",
+    "question": "What does it mean that gravity is a conservative force?",
+    "answer": "Work done depends only on initial and final positions."
+  },
+  {
+    "topic": "gravity",
+    "question": "What happens to total mechanical energy in a gravitational system without losses?",
+    "answer": "It remains constant."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does potential energy change during free fall?",
+    "answer": "It decreases as kinetic energy increases."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is escape energy in a gravitational field?",
+    "answer": "The minimum energy needed to leave the field permanently."
+  },
+  {
+    "topic": "gravity",
+    "question": "How is escape energy related to velocity?",
+    "answer": "It equals half the mass times escape velocity squared."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is specific orbital energy?",
+    "answer": "Total mechanical energy per unit mass."
+  },
+  {
+    "topic": "gravity",
+    "question": "What does negative orbital energy indicate?",
+    "answer": "The object is gravitationally bound."
+  },
+  {
+    "topic": "gravity",
+    "question": "What does zero orbital energy indicate?",
+    "answer": "The object is on a parabolic escape path."
+  },
+  {
+    "topic": "gravity",
+    "question": "What does positive orbital energy indicate?",
+    "answer": "The object follows a hyperbolic escape trajectory."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is angular momentum in orbital systems?",
+    "answer": "A conserved quantity related to rotational motion."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why is angular momentum conserved in gravity-based motion?",
+    "answer": "Because gravitational force produces no torque about the center."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is areal velocity?",
+    "answer": "The area swept per unit time by a radius vector."
+  },
+  {
+    "topic": "gravity",
+    "question": "What does constant areal velocity signify?",
+    "answer": "Conservation of angular momentum."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is the vis-viva equation used for?",
+    "answer": "To relate orbital speed with position and orbit size."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is gravitational parameter in celestial mechanics?",
+    "answer": "The product of G and the mass of a body."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why is gravitational parameter commonly used in calculations?",
+    "answer": "Because it simplifies orbital equations."
+  },
+  {
+    "topic": "gravity",
+    "question": "What condition defines a circular orbit?",
+    "answer": "Gravitational force equals centripetal force."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is the formula for circular orbital velocity?",
+    "answer": "v = √(GM/r)."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does circular orbital velocity vary with radius?",
+    "answer": "It decreases as radius increases."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is gravitational potential energy at infinity taken as?",
+    "answer": "Zero."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is gravitational potential difference?",
+    "answer": "The difference in potential between two points."
+  },
+  {
+    "topic": "gravity",
+    "question": "What does work done against gravity represent?",
+    "answer": "Increase in gravitational potential energy."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravitational field behave inside Earth assuming uniform density?",
+    "answer": "It decreases linearly toward the center."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is gravitational force at the exact center of Earth?",
+    "answer": "Zero."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravitational force behave outside a spherical body?",
+    "answer": "It follows the inverse square law."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is an equipotential surface in gravity?",
+    "answer": "A surface where gravitational potential is constant."
+  },
+  {
+    "topic": "gravity",
+    "question": "What happens when moving along an equipotential surface?",
+    "answer": "No work is done."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is the shape of equipotential surfaces around a point mass?",
+    "answer": "Concentric spheres."
+  },
+  {
+    "topic": "gravity",
+    "question": "How are equipotential surfaces oriented relative to field lines?",
+    "answer": "They are perpendicular to field lines."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is gravitational flux?",
+    "answer": "Measure of gravitational field passing through a surface."
+  },
+  {
+    "topic": "gravity",
+    "question": "Which law relates gravitational flux to mass?",
+    "answer": "Gauss’s law for gravity."
+  },
+  {
+    "topic": "gravity",
+    "question": "What does Gauss’s law for gravity state?",
+    "answer": "Flux is proportional to enclosed mass."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is gravitational potential inside a hollow shell?",
+    "answer": "It is constant throughout."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why is gravitational force zero inside a hollow shell?",
+    "answer": "Symmetry cancels all forces."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is gravitational symmetry in physics?",
+    "answer": "Uniform distribution leading to balanced forces."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is gravitational interaction in multi-body systems?",
+    "answer": "Combined influence of several masses on each other."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is the N-body problem in gravity?",
+    "answer": "Predicting motion of multiple interacting masses."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why does the N-body problem lack simple solutions?",
+    "answer": "Because interactions are highly complex and nonlinear."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is gravitational perturbation?",
+    "answer": "Small changes in motion due to additional gravitational influences."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is orbital perturbation?",
+    "answer": "Deviation from ideal orbit due to external forces."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is gravitational assist in space travel?",
+    "answer": "Using a planet’s gravity to change spacecraft speed."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does a gravity assist maneuver work?",
+    "answer": "It transfers momentum from a planet to a spacecraft."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is orbital resonance?",
+    "answer": "Regular gravitational influence between orbiting bodies."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is tidal locking in gravitational systems?",
+    "answer": "When one side of a body always faces another."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why does tidal locking occur?",
+    "answer": "Due to long-term gravitational interaction slowing rotation."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is the Roche limit in gravitational systems?",
+    "answer": "The distance within which a body can be torn apart by tidal forces."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity vary with altitude above Earth's surface?",
+    "answer": "It decreases as the distance from Earth's center increases."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why does a planet with higher mass have stronger surface gravity?",
+    "answer": "Greater mass increases gravitational attraction at its surface."
+  },
+  {
+    "topic": "gravity",
+    "question": "What role does gravity play in holding an atmosphere?",
+    "answer": "Gravity prevents gas molecules from escaping into space."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why do lighter gases escape from small planets more easily?",
+    "answer": "Lower gravity cannot hold fast-moving light molecules."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is gravitational compression inside celestial bodies?",
+    "answer": "The inward squeezing of matter due to gravity."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity influence density inside planets?",
+    "answer": "It causes denser materials to settle toward the core."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is hydrostatic equilibrium in astrophysics?",
+    "answer": "Balance between inward gravitational force and outward pressure."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity initiate star formation?",
+    "answer": "It pulls gas and dust together into dense regions."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is gravitational collapse of a gas cloud?",
+    "answer": "The inward contraction of matter due to its own gravity."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is gravitational heating during collapse?",
+    "answer": "Conversion of gravitational energy into thermal energy."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity influence fluid pressure in liquids?",
+    "answer": "Pressure increases with depth due to weight of fluid above."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is buoyancy in relation to gravity?",
+    "answer": "An upward force opposing gravitational force in fluids."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why do denser objects sink in a fluid?",
+    "answer": "Gravity pulls them down more than buoyant force pushes up."
+  },
+  {
+    "topic": "gravity",
+    "question": "What happens to buoyancy in reduced gravity environments?",
+    "answer": "It weakens due to smaller weight differences."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is the center of gravity of an object?",
+    "answer": "The point where its entire weight is considered to act."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does lowering the center of gravity affect stability?",
+    "answer": "It increases stability."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is gravitational torque?",
+    "answer": "Rotational effect caused by gravity acting at a distance."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity affect balance in tall structures?",
+    "answer": "Higher center of gravity makes them less stable."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is a tidal force in gravitational systems?",
+    "answer": "Variation in gravitational pull across an object."
+  },
+  {
+    "topic": "gravity",
+    "question": "How do tidal forces create ocean tides?",
+    "answer": "They stretch Earth's oceans due to differential gravity."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is tidal heating in moons?",
+    "answer": "Internal heat generated by gravitational flexing."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why is Io volcanically active due to gravity?",
+    "answer": "Tidal forces from Jupiter generate internal heat."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity shape planetary rings?",
+    "answer": "It organizes particles into stable orbital patterns."
+  },
+  {
+    "topic": "gravity",
+    "question": "What are shepherd moons in ring systems?",
+    "answer": "Moons that use gravity to maintain ring boundaries."
+  },
+  {
+    "topic": "gravity",
+    "question": "What happens to objects inside the Roche limit?",
+    "answer": "They can be torn apart by tidal forces."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is Jeans instability in astrophysics?",
+    "answer": "Condition where gravity overcomes pressure causing collapse."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity influence galaxy formation?",
+    "answer": "It pulls matter into large structures."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is gravitational clustering?",
+    "answer": "Aggregation of matter due to gravity."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity bind stars in galaxies?",
+    "answer": "It holds them in stable orbits."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is virial equilibrium in astrophysics?",
+    "answer": "Balance between kinetic and gravitational energy."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is gravitational deceleration in motion?",
+    "answer": "Slowing of objects due to gravitational pull."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is gravitational focusing?",
+    "answer": "Bending of paths of particles toward massive bodies."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is gravitational capture?",
+    "answer": "An object becoming bound due to gravitational attraction."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is gravitational scattering?",
+    "answer": "Deflection of objects by gravitational interaction."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is dynamical friction in gravity?",
+    "answer": "Loss of motion energy due to interactions with surrounding matter."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is accretion due to gravity?",
+    "answer": "Growth of mass by attracting nearby material."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is an accretion disk?",
+    "answer": "A rotating disk of matter around a massive object."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity affect matter in accretion disks?",
+    "answer": "It pulls matter inward while conserving angular momentum."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is gravitational stripping?",
+    "answer": "Removal of material due to strong tidal forces."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is strong gravitational lensing?",
+    "answer": "Formation of multiple images due to intense gravity."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is weak gravitational lensing?",
+    "answer": "Slight distortion of light from distant objects."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is gravitational microlensing?",
+    "answer": "Temporary brightening caused by a passing mass."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity bind galaxy clusters?",
+    "answer": "It holds multiple galaxies together."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is gravitational energy conversion in stars?",
+    "answer": "Conversion of potential energy into heat and radiation."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is gravitational equilibrium in planets?",
+    "answer": "Balance between internal pressure and gravity."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity shape the cosmic web?",
+    "answer": "It organizes matter into filaments and voids."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity affect expansion of the universe locally?",
+    "answer": "It slows expansion in dense regions."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is gravitational binding energy of a star?",
+    "answer": "Energy required to disperse its mass against gravity."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is the equivalence principle in gravity?",
+    "answer": "Gravitational mass and inertial mass are equal."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is inertial mass in physics?",
+    "answer": "It measures an object's resistance to acceleration."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is gravitational mass?",
+    "answer": "It determines how strongly an object interacts gravitationally."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why is the equivalence principle important?",
+    "answer": "It forms the basis of general relativity."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity relate to spacetime curvature?",
+    "answer": "Mass bends spacetime, guiding motion of objects."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is geodesic motion in general relativity?",
+    "answer": "Motion along the straightest path in curved spacetime."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is frame dragging?",
+    "answer": "Rotation of a massive body drags spacetime around it."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is a Kerr black hole?",
+    "answer": "A rotating black hole described by relativity."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is gravitational singularity?",
+    "answer": "A point of infinite density where known physics breaks down."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is Hawking radiation?",
+    "answer": "Radiation emitted by black holes due to quantum effects."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is gravitational radiation reaction?",
+    "answer": "Energy loss due to emission of gravitational waves."
+  },
+  {
+    "topic": "gravity",
+    "question": "How are gravitational waves detected?",
+    "answer": "By measuring tiny changes in spacetime distance."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is a Lagrange point?",
+    "answer": "A location where gravitational forces and motion balance."
+  },
+  {
+    "topic": "gravity",
+    "question": "How many Lagrange points exist in a two-body system?",
+    "answer": "Five."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why are Lagrange points useful?",
+    "answer": "Objects can remain stable relative to two larger bodies."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is effective potential in orbital mechanics?",
+    "answer": "Combined effect of gravitational and centrifugal forces."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is gravitational curvature of light paths?",
+    "answer": "Bending of light due to spacetime curvature."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is extreme time dilation near a black hole?",
+    "answer": "Time slows dramatically compared to distant observers."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is the Einstein field equation?",
+    "answer": "It relates spacetime curvature to energy and mass."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is the Schwarzschild solution?",
+    "answer": "A solution describing spacetime around a non-rotating mass."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is gravitational redshift in relativity?",
+    "answer": "Increase in wavelength of light escaping gravity."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is gravitational blueshift in relativity?",
+    "answer": "Decrease in wavelength of light entering gravity."
+  },
+  {
+    "topic": "gravity",
+    "question": "What happens to massive stars after gravitational collapse?",
+    "answer": "They may form neutron stars or black holes."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is surface gravity of a neutron star like?",
+    "answer": "Extremely strong compared to Earth."
+  },
+  {
+    "topic": "gravity",
+    "question": "How is gravitational lensing used to detect dark matter?",
+    "answer": "By observing light bending around invisible mass."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is dark matter in relation to gravity?",
+    "answer": "Matter inferred from gravitational effects but not directly observed."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is dark energy's effect on gravity?",
+    "answer": "It drives accelerated expansion of the universe."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is the cosmological constant?",
+    "answer": "A term representing energy density of empty space."
+  },
+  {
+    "topic": "gravity",
+    "question": "What are modified gravity theories?",
+    "answer": "Alternative models that adjust gravitational laws."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is gravitational screening?",
+    "answer": "Hypothetical weakening of gravity under certain conditions."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is MOND in astrophysics?",
+    "answer": "Modified Newtonian Dynamics, an alternative gravity model."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is quantum gravity?",
+    "answer": "A theory attempting to unify gravity with quantum mechanics."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is a graviton?",
+    "answer": "A hypothetical particle that mediates gravity."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why is gravity difficult to unify with quantum physics?",
+    "answer": "It behaves differently from other fundamental forces."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is the Planck scale?",
+    "answer": "A scale where quantum gravitational effects become important."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is loop quantum gravity?",
+    "answer": "A theory describing spacetime as discrete units."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does string theory explain gravity?",
+    "answer": "Gravity arises from vibrations of fundamental strings."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is vacuum energy in gravity?",
+    "answer": "Energy associated with empty space."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is the gravitational coupling constant?",
+    "answer": "A dimensionless measure of gravitational strength."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is the hierarchy problem in gravity?",
+    "answer": "Why gravity is much weaker than other forces."
+  },
+  {
+    "topic": "gravity",
+    "question": "What are extra dimensions in gravity theories?",
+    "answer": "Additional spatial dimensions where gravity may propagate."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is brane theory in gravity?",
+    "answer": "A concept where our universe exists on a higher-dimensional surface."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is gravitational vacuum fluctuation?",
+    "answer": "Temporary changes in energy in empty space."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is the role of gravity in cosmic inflation theories?",
+    "answer": "It interacts with fields driving rapid early expansion."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is emergent gravity?",
+    "answer": "A theory proposing gravity arises from underlying information processes."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is entropic gravity?",
+    "answer": "A theory linking gravity to entropy and thermodynamics."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is holographic principle in gravity?",
+    "answer": "Idea that information in a volume is encoded on its boundary."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is AdS/CFT correspondence in gravity?",
+    "answer": "A duality connecting gravity in spacetime with quantum field theory."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is gravitational decoherence?",
+    "answer": "Loss of quantum coherence due to gravitational effects."
+  },
+  {
+    "topic": "gravity",
+    "question": "What is semiclassical gravity?",
+    "answer": "A framework combining classical gravity with quantum fields."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why do things fall down instead of up?",
+    "answer": "Because Earth’s gravity pulls objects toward its center."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity know which way is down?",
+    "answer": "Down is defined as the direction toward the center of mass."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if gravity suddenly disappeared?",
+    "answer": "Objects would move in straight lines and no longer stay on Earth."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why don’t we feel Earth pulling us constantly?",
+    "answer": "We are used to gravity and supported by surfaces, so it feels normal."
+  },
+  {
+    "topic": "gravity",
+    "question": "How do astronauts float if gravity still exists in space?",
+    "answer": "They are in continuous free fall around Earth."
+  },
+  {
+    "topic": "gravity",
+    "question": "What makes planets stay in orbit instead of flying away?",
+    "answer": "Gravity pulls them inward while their motion keeps them moving sideways."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why is jumping higher possible on the Moon?",
+    "answer": "The Moon has weaker gravity than Earth."
+  },
+  {
+    "topic": "gravity",
+    "question": "How would life change if Earth had stronger gravity?",
+    "answer": "Movement would be harder and objects would weigh more."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would it feel like if gravity were weaker?",
+    "answer": "You would feel lighter and be able to jump higher."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why don’t objects fall sideways due to gravity?",
+    "answer": "Gravity pulls directly toward the center, not sideways."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity keep the Moon from drifting away?",
+    "answer": "Earth’s gravity constantly pulls the Moon inward."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if the Moon had no gravity?",
+    "answer": "It could not hold its shape or keep objects on its surface."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why do we stay on Earth instead of floating off?",
+    "answer": "Earth’s gravity holds us firmly to its surface."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity affect the way we walk and run?",
+    "answer": "It pulls us downward, requiring effort to move upward or forward."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why do objects fall faster as they drop?",
+    "answer": "Gravity accelerates them downward."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if you dropped a feather on the Moon?",
+    "answer": "It would fall at the same rate as a heavier object."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why don’t clouds fall to the ground?",
+    "answer": "Air currents and buoyancy counteract gravity."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity affect the oceans?",
+    "answer": "It keeps water on Earth and contributes to tides."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why do tides happen twice a day?",
+    "answer": "Because of the Moon’s gravitational pull as Earth rotates."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if Earth had no Moon?",
+    "answer": "Tides would be weaker and Earth’s rotation could be less stable."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why can planets pull on each other?",
+    "answer": "Because all masses attract each other gravitationally."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity shape the universe?",
+    "answer": "It pulls matter together to form stars, planets, and galaxies."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if gravity were twice as strong?",
+    "answer": "Everything would weigh more and motion would require more effort."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why does gravity get weaker farther away from Earth?",
+    "answer": "Because the force spreads out with distance."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity affect time according to relativity?",
+    "answer": "Stronger gravity makes time pass more slowly."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why does light bend near massive objects?",
+    "answer": "Gravity curves spacetime, affecting light paths."
+  },
+  {
+    "topic": "gravity",
+    "question": "What happens to objects near a black hole?",
+    "answer": "They experience extremely strong gravitational pull."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why can’t anything escape a black hole?",
+    "answer": "Its gravity is stronger than the escape speed of light."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity affect falling objects in air versus vacuum?",
+    "answer": "Air resistance slows objects in air but not in vacuum."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if you could turn off gravity in a room?",
+    "answer": "Everything would float freely."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why do raindrops fall toward the ground?",
+    "answer": "Gravity pulls them downward."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity affect mountains and structures?",
+    "answer": "It limits their height by pulling them downward."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if gravity acted sideways?",
+    "answer": "Objects would be pulled in that sideways direction."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why do planets form round shapes?",
+    "answer": "Gravity pulls material equally toward the center."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity affect your body over time?",
+    "answer": "It influences posture, bone strength, and muscle use."
+  },
+  {
+    "topic": "gravity",
+    "question": "What happens to the human body in low gravity?",
+    "answer": "Muscles weaken and bones lose density."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why do objects thrown upward slow down?",
+    "answer": "Gravity pulls them back toward Earth."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if you jumped in space far from planets?",
+    "answer": "You would keep moving until another force acted."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why does gravity affect everything with mass?",
+    "answer": "Because mass creates gravitational attraction."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity influence satellites?",
+    "answer": "It keeps them in orbit around Earth."
+  },
+  {
+    "topic": "gravity",
+    "question": "What happens if a satellite moves too slowly?",
+    "answer": "It falls back toward Earth."
+  },
+  {
+    "topic": "gravity",
+    "question": "What happens if a satellite moves too fast?",
+    "answer": "It may escape Earth’s gravity."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why does gravity pull equally on all objects?",
+    "answer": "Because acceleration due to gravity is independent of mass."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if gravity reversed direction?",
+    "answer": "Objects would be pushed away from Earth."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why do we feel heavier when carrying objects?",
+    "answer": "Because gravity pulls on both you and the object."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity help shape planetary systems?",
+    "answer": "It organizes objects into stable orbits."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why does gravity pull straight down locally but curved globally?",
+    "answer": "Because Earth is spherical, so the pull points toward its center."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if Earth suddenly doubled in mass?",
+    "answer": "Gravity would become stronger, increasing weight."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity influence the path of comets?",
+    "answer": "It bends their trajectories around the Sun."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why don’t we notice gravity changing slightly every day?",
+    "answer": "Variations are extremely small and hard to detect."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why does the Sun keep all the planets around it?",
+    "answer": "Its huge mass creates strong gravity that holds the planets in orbit."
+  },
+  {
+    "topic": "gravity",
+    "question": "How can gravity pull on things from so far away?",
+    "answer": "Gravity has an infinite range, though it weakens with distance."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if Earth were much smaller?",
+    "answer": "Its gravity would likely become weaker."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why do people float inside the International Space Station?",
+    "answer": "They are constantly falling around Earth while moving sideways very fast."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity affect sports on Earth?",
+    "answer": "It controls how objects fall, bounce, and travel through the air."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would basketball look like on the Moon?",
+    "answer": "Players could jump much higher and stay in the air longer."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why do waterfalls always flow downward?",
+    "answer": "Gravity pulls water toward lower elevations."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity help create stars?",
+    "answer": "It squeezes gas clouds together until fusion begins."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if Earth lost half its gravity?",
+    "answer": "People and objects would weigh much less."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why do rockets need so much fuel to leave Earth?",
+    "answer": "They must overcome Earth's strong gravity."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity affect airplanes?",
+    "answer": "Gravity pulls them downward while lift keeps them airborne."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen to rain if gravity disappeared?",
+    "answer": "Water droplets would float instead of falling."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why do planets not crash into the Sun?",
+    "answer": "Their sideways motion keeps them orbiting instead of falling directly inward."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity make galaxies stay together?",
+    "answer": "It pulls stars and matter toward each other."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if you could run in zero gravity?",
+    "answer": "You would drift away instead of staying on the ground."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why do dropped objects speed up while falling?",
+    "answer": "Gravity continuously accelerates them downward."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity affect roller coasters?",
+    "answer": "It pulls cars downward, helping create speed and motion."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if gravity were stronger at night?",
+    "answer": "Objects would temporarily weigh more."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why does gravity pull equally on a hammer and a feather in vacuum?",
+    "answer": "Gravity gives all objects the same acceleration without air resistance."
+  },
+  {
+    "topic": "gravity",
+    "question": "How do black holes bend light?",
+    "answer": "Their gravity curves spacetime around them."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if Earth stopped orbiting the Sun?",
+    "answer": "It would fall toward the Sun due to gravity."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why can gravity create round planets but irregular asteroids?",
+    "answer": "Large bodies have enough gravity to pull themselves into spheres."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity affect your weight on different planets?",
+    "answer": "Different gravitational strengths change how much you weigh."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if gravity changed every minute?",
+    "answer": "Movement and structures would become unstable and dangerous."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why do objects eventually fall back down after being thrown upward?",
+    "answer": "Gravity slows and reverses their upward motion."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity influence ocean waves?",
+    "answer": "It pulls water downward and contributes to wave motion."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if the Sun suddenly vanished?",
+    "answer": "Earth would stop orbiting and move in a straight line."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why do we feel stuck to the ground?",
+    "answer": "Earth’s gravity constantly pulls us downward."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity affect the way rivers flow?",
+    "answer": "It pulls water downhill toward lower elevations."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if humans evolved in lower gravity?",
+    "answer": "They might become taller and physically weaker."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why do planets move in curved paths instead of straight lines?",
+    "answer": "Gravity constantly changes their direction."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity influence volcanoes and mountains?",
+    "answer": "It limits how tall geological structures can grow."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if gravity only worked during the day?",
+    "answer": "Objects would float away at night."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why does gravity affect light even though light has no mass?",
+    "answer": "Gravity bends spacetime itself, which light follows."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity influence the shape of stars?",
+    "answer": "It pulls matter inward evenly, making stars nearly spherical."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if gravity became weaker as you aged?",
+    "answer": "You would gradually feel lighter over time."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why do objects orbit instead of falling straight down in space?",
+    "answer": "Their forward speed balances gravitational pull."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity affect a pendulum?",
+    "answer": "It pulls the pendulum downward, causing it to swing."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen to Earth’s oceans without gravity?",
+    "answer": "Water would drift into space."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why can gravity create enormous stars and galaxies?",
+    "answer": "It continuously pulls matter together over time."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity influence space travel routes?",
+    "answer": "Spacecraft use planetary gravity to change speed and direction."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if gravity suddenly became ten times stronger?",
+    "answer": "Most structures and living things would struggle to survive."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why do astronauts exercise in space?",
+    "answer": "Low gravity weakens muscles and bones over time."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity affect clouds and weather?",
+    "answer": "It pulls water droplets downward as rain or snow."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if you tried to walk on Jupiter?",
+    "answer": "Its strong gravity would make movement much harder."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why does gravity pull toward the center of Earth?",
+    "answer": "Mass is distributed around the planet’s center."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity influence the motion of comets?",
+    "answer": "It bends their paths around massive objects like the Sun."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if gravity pushed instead of pulled?",
+    "answer": "Objects would repel each other instead of attracting."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why do astronauts return to Earth instead of floating forever?",
+    "answer": "Earth’s gravity pulls them back during reentry."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity affect everyday falling objects differently from space objects?",
+    "answer": "Air resistance affects objects on Earth but not most space objects."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why does jumping feel different in dreams sometimes?",
+    "answer": "Dreams do not always follow real gravitational physics."
+  },
+  {
+    "topic": "gravity",
+    "question": "How would animals move differently in lower gravity?",
+    "answer": "They could leap farther and move with less effort."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen to a candle flame without gravity?",
+    "answer": "The flame would become rounder because hot air would not rise normally."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why do waterfalls look so powerful?",
+    "answer": "Gravity accelerates large amounts of water downward."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity affect the way birds fly?",
+    "answer": "Birds must generate lift to counter gravity."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if gravity slowly faded away over years?",
+    "answer": "Orbits, oceans, and life on Earth would gradually destabilize."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why do planets not collide constantly if gravity pulls everything together?",
+    "answer": "Stable orbital motion keeps many bodies separated."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity affect the shape of water droplets?",
+    "answer": "Gravity pulls them downward while surface tension holds them together."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if you dropped a ball inside a tunnel through Earth?",
+    "answer": "It would oscillate back and forth due to gravity."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why does gravity make climbing tiring?",
+    "answer": "Your body must work against gravitational pull."
+  },
+  {
+    "topic": "gravity",
+    "question": "How would music concerts feel in low gravity?",
+    "answer": "Crowds and movement would feel lighter and more floaty."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen to trees if gravity were much weaker?",
+    "answer": "They could likely grow taller with less structural support."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why do rivers always find lower ground?",
+    "answer": "Gravity pulls water downhill."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity affect the way humans evolved?",
+    "answer": "It influenced bone strength, posture, and movement."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if gravity became slightly weaker every year?",
+    "answer": "Weights, orbits, and environmental systems would slowly change."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why do stars not simply scatter apart in space?",
+    "answer": "Gravity keeps them bound inside galaxies."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity influence the motion of planets over billions of years?",
+    "answer": "It continuously shapes and stabilizes orbital paths."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if gravity acted differently on different materials?",
+    "answer": "Objects would fall at different rates even in vacuum."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why does gravity make objects roll downhill?",
+    "answer": "Gravity pulls them toward lower positions."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity affect waves in the ocean?",
+    "answer": "It pulls water downward and helps restore wave motion."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen to rainbows without gravity?",
+    "answer": "Rain droplets would behave differently, changing rainbow formation."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why can astronauts bounce around so easily on the Moon?",
+    "answer": "The Moon’s weaker gravity reduces their weight."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity influence earthquakes and landslides?",
+    "answer": "Gravity pulls loosened material downhill."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if gravity only affected large objects?",
+    "answer": "Small objects might float or move unpredictably."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why does gravity help form solar systems?",
+    "answer": "It gathers dust and gas into larger bodies."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity affect the speed of falling rain?",
+    "answer": "It accelerates raindrops until air resistance balances the force."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if gravity increased near mountains?",
+    "answer": "Objects would weigh slightly more near those regions."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why do planets spin while orbiting?",
+    "answer": "They retain rotational motion from their formation."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity influence the life cycle of stars?",
+    "answer": "It drives collapse, fusion, and final stellar remnants."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if humans lived their whole lives in zero gravity?",
+    "answer": "Bones and muscles would become much weaker."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why does gravity make dropped objects bounce differently?",
+    "answer": "Gravity controls how quickly they return to the ground."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity affect ocean tides during a full moon?",
+    "answer": "Combined lunar and solar gravity create stronger tides."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if Earth suddenly had Mars-like gravity?",
+    "answer": "People would weigh less and move more easily."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why do objects in orbit keep missing Earth?",
+    "answer": "Their forward motion keeps them falling around Earth instead of into it."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity influence the formation of black holes?",
+    "answer": "Extreme gravitational collapse compresses matter intensely."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if gravity fluctuated randomly?",
+    "answer": "Movement, weather, and structures would become chaotic."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why does gravity affect time in Einstein’s theory?",
+    "answer": "Gravity changes the structure of spacetime itself."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity affect the way balls curve in sports?",
+    "answer": "Gravity pulls them downward during flight."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if Earth’s gravity became as strong as Jupiter’s?",
+    "answer": "Humans and buildings would experience enormous stress."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why do satellites not need engines constantly to stay in orbit?",
+    "answer": "Gravity and inertia naturally maintain orbital motion."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity influence asteroid belts?",
+    "answer": "It shapes the orbits and spacing of asteroids."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen to smoke without gravity?",
+    "answer": "It would spread more randomly instead of rising."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why does gravity make waterfalls louder and more forceful?",
+    "answer": "Falling water gains speed and energy due to gravity."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity affect how high humans can build structures?",
+    "answer": "Stronger gravity increases structural stress."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if gravity acted slower than light?",
+    "answer": "Changes in mass distribution would affect distant objects with delay."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why do astronauts train underwater for space missions?",
+    "answer": "Water can simulate some effects of reduced gravity."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity affect volcanic lava flows?",
+    "answer": "It pulls molten rock downhill."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if gravity became stronger near the equator only?",
+    "answer": "Weight and motion would vary depending on location."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why do galaxies sometimes collide instead of avoiding each other?",
+    "answer": "Gravity pulls massive galactic systems together."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity influence the shape of the universe over time?",
+    "answer": "It pulls matter into large-scale cosmic structures."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why do people feel a drop in their stomach on roller coasters?",
+    "answer": "Rapid changes in motion briefly alter how gravity is felt."
+  },
+  {
+    "topic": "gravity",
+    "question": "How would cooking change in zero gravity?",
+    "answer": "Liquids and crumbs would float instead of settling."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if gravity became stronger for one second?",
+    "answer": "Objects and people would suddenly feel much heavier."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why do waterfalls create mist at the bottom?",
+    "answer": "Gravity accelerates water, causing strong impacts and spray."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity affect the flight of a paper airplane?",
+    "answer": "Gravity pulls it downward while air keeps it gliding."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if gravity only existed underground?",
+    "answer": "Objects above the surface would float freely."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why do planets stay roughly spherical over time?",
+    "answer": "Gravity pulls matter evenly toward the center."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity affect waterfalls on other planets?",
+    "answer": "Different gravity levels change how fast water falls."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if gravity became stronger the higher you climbed?",
+    "answer": "Ascending mountains or buildings would become increasingly difficult."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why does gravity matter for building bridges and towers?",
+    "answer": "Structures must support their own weight against gravity."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity influence the motion of pendulum clocks?",
+    "answer": "Gravity provides the restoring force for swinging."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if gravity suddenly weakened during a soccer game?",
+    "answer": "Players and the ball would move much farther and higher."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why do black holes stretch objects near them?",
+    "answer": "Their gravity changes drastically over short distances."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity affect parachutes?",
+    "answer": "Gravity pulls downward while air resistance slows the fall."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if gravity became uneven across Earth?",
+    "answer": "Movement and oceans would shift unpredictably."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why do astronauts appear weightless while still being pulled by Earth?",
+    "answer": "They are falling continuously along with their spacecraft."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity affect the way water pours from a bottle?",
+    "answer": "Gravity pulls the liquid downward in a stream."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if gravity worked only on living things?",
+    "answer": "People and animals would fall while objects floated."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why do meteors speed up as they approach Earth?",
+    "answer": "Earth’s gravity accelerates them inward."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity influence the shape of sand dunes and cliffs?",
+    "answer": "Gravity causes loose material to slide downward over time."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if gravity were stronger underwater?",
+    "answer": "Swimming and floating would become more difficult."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why can gravity bend the path of entire galaxies?",
+    "answer": "Massive objects strongly curve spacetime around them."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity affect the way a yo-yo works?",
+    "answer": "Gravity pulls the yo-yo downward while the string controls motion."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if gravity switched direction every hour?",
+    "answer": "Life and structures would become extremely unstable."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why do planets closer to the Sun move faster?",
+    "answer": "Stronger solar gravity requires faster orbital speeds."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity influence avalanches?",
+    "answer": "Gravity pulls snow downhill once it becomes unstable."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if gravity acted diagonally?",
+    "answer": "Objects would constantly slide and fall sideways."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why does gravity affect how long a ball stays in the air?",
+    "answer": "Gravity continuously pulls the ball downward."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity influence the shape of spiral galaxies?",
+    "answer": "Gravity organizes stars into rotating structures."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if gravity were much stronger on one side of Earth?",
+    "answer": "Oceans and atmosphere would shift toward that side."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why do astronauts float differently than swimmers underwater?",
+    "answer": "Astronauts are in free fall, while swimmers rely on buoyancy."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity affect the movement of lava lamps?",
+    "answer": "Gravity helps denser liquid sink while lighter liquid rises."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if gravity slowly rotated around Earth?",
+    "answer": "Objects would constantly shift direction unpredictably."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why does gravity make waterfalls carve rocks over time?",
+    "answer": "Falling water gains energy and erodes surfaces."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity influence the paths of spacecraft?",
+    "answer": "It bends trajectories around planets and stars."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if gravity became weaker near the poles?",
+    "answer": "People and objects there would weigh less."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why can gravity trap light inside black holes?",
+    "answer": "Escape velocity exceeds the speed of light."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity affect the way fruit falls from trees?",
+    "answer": "Gravity pulls ripe fruit downward toward the ground."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if gravity acted more strongly on fast objects?",
+    "answer": "Motion and orbits would behave very differently."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why does gravity help keep Earth’s atmosphere layered?",
+    "answer": "Gravity pulls heavier gases closer to the surface."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity influence space station orbits?",
+    "answer": "It keeps stations continuously falling around Earth."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if gravity vanished only for oceans?",
+    "answer": "Water would drift away from Earth."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why do objects gain energy while falling?",
+    "answer": "Gravity converts potential energy into kinetic energy."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity affect mountain climbing?",
+    "answer": "Climbers must work against gravity while ascending."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if gravity became stronger near cities?",
+    "answer": "Buildings and transportation would face greater stress."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why does gravity keep planets from drifting into deep space?",
+    "answer": "Stars continuously pull planets inward."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity influence the movement of glaciers?",
+    "answer": "Gravity slowly pulls ice downhill."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if gravity affected sound waves directly?",
+    "answer": "Sound paths and frequencies could change noticeably."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why do satellites eventually fall back to Earth sometimes?",
+    "answer": "Air resistance slowly reduces their orbital speed."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity help shape the visible universe?",
+    "answer": "It gathers matter into stars, galaxies, and clusters."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why do people feel lighter in water?",
+    "answer": "Water provides buoyancy that partly counteracts gravity."
+  },
+  {
+    "topic": "gravity",
+    "question": "How would dancing look in low gravity?",
+    "answer": "Movements would appear slower, higher, and more floaty."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if gravity became weaker during sleep?",
+    "answer": "People and objects might drift slightly upward."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why do roller coasters use gravity instead of engines everywhere?",
+    "answer": "Gravity naturally converts height into speed."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity affect the way snow falls?",
+    "answer": "Gravity pulls snowflakes downward while air slows them."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if gravity became stronger inside buildings only?",
+    "answer": "Movement indoors would become harder than outside."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why do planets orbit in predictable paths?",
+    "answer": "Gravity and motion balance into stable orbits."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity affect skateboarding tricks?",
+    "answer": "Gravity pulls skaters back down after jumps."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if gravity pulled upward from the sky?",
+    "answer": "Objects would rise away from Earth."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why do astronauts need special tools in space?",
+    "answer": "Objects float away easily in microgravity."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity influence the shape of raindrops while falling?",
+    "answer": "Gravity and air resistance flatten them slightly."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if gravity suddenly doubled during a jump?",
+    "answer": "You would fall back down much faster."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why do rivers curve instead of flowing in straight lines?",
+    "answer": "Gravity pulls water downhill while terrain redirects flow."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity affect how high birds can fly?",
+    "answer": "Birds must overcome gravity with lift from their wings."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if gravity became weaker near the ocean?",
+    "answer": "Sea levels and tides could shift significantly."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why can astronauts do flips so easily in space?",
+    "answer": "Low gravity and inertia allow easy rotation."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity influence the movement of planets in solar systems?",
+    "answer": "Gravity keeps planets orbiting their stars."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if gravity disappeared for just one minute?",
+    "answer": "Objects and atmosphere would begin drifting away."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why do falling leaves move slowly compared to rocks?",
+    "answer": "Air resistance affects leaves more strongly."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity affect the way waterfalls sound?",
+    "answer": "Falling water gains speed and crashes with more force."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if gravity became stronger in airplanes?",
+    "answer": "Flying would require much more lift and fuel."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why do stars collapse into black holes?",
+    "answer": "Gravity overwhelms all opposing forces."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity affect the bounce of a basketball?",
+    "answer": "Gravity pulls the ball downward between bounces."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if gravity worked differently for each person?",
+    "answer": "People would weigh and move differently from one another."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why does gravity help create planets from dust?",
+    "answer": "It pulls small particles together over time."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity influence hurricanes and storms?",
+    "answer": "Gravity helps keep the atmosphere bound to Earth."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if gravity became stronger near the Moon?",
+    "answer": "The Moon’s orbit and Earth’s tides could change."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why do objects in orbit seem to float endlessly?",
+    "answer": "They are continuously falling without hitting the ground."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity affect how fast objects slide downhill?",
+    "answer": "Gravity accelerates them downward along the slope."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if gravity pushed outward from Earth’s core?",
+    "answer": "Objects would be forced away from the planet."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why do large planets usually have more moons?",
+    "answer": "Stronger gravity can capture and hold more objects."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity influence the paths of meteors?",
+    "answer": "Planets and stars bend meteor trajectories."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if gravity weakened only during rainstorms?",
+    "answer": "Rain would fall more slowly or drift differently."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why does gravity affect oceans more noticeably than buildings?",
+    "answer": "Water moves more freely in response to gravitational forces."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity affect the motion of elevators?",
+    "answer": "Elevators work against gravity when moving upward."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if gravity became stronger every winter?",
+    "answer": "Seasonal movement and weather patterns would change dramatically."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why do galaxies stay clustered together?",
+    "answer": "Gravity pulls galaxies toward one another."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity affect fireworks after they explode?",
+    "answer": "Gravity pulls the glowing particles back toward Earth."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if gravity vanished inside a car while driving?",
+    "answer": "Passengers and loose objects would float unpredictably."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why do black holes warp space so dramatically?",
+    "answer": "Their immense mass creates extremely strong gravity."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity affect how long a pendulum swings?",
+    "answer": "Gravity influences the pendulum’s restoring force and timing."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if gravity became stronger near the Sun?",
+    "answer": "Planetary orbits would become faster and tighter."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why do astronauts sometimes struggle to move precisely in space?",
+    "answer": "Without normal gravity, controlling motion becomes harder."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity influence the shape of spiral arms in galaxies?",
+    "answer": "Gravity organizes stars into rotating patterns."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if gravity stopped affecting light?",
+    "answer": "Phenomena like gravitational lensing would disappear."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why do falling objects eventually stop speeding up in air?",
+    "answer": "Air resistance balances gravity at terminal velocity."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity affect lava flowing from volcanoes?",
+    "answer": "Gravity pulls molten rock downhill."
+  },
+  {
+    "topic": "gravity",
+    "question": "What would happen if gravity became much weaker in cities but normal elsewhere?",
+    "answer": "Transportation and buildings would function very differently in urban areas."
+  },
+  {
+    "topic": "gravity",
+    "question": "Why do planets stay together instead of breaking apart?",
+    "answer": "Gravity holds their matter together."
+  },
+  {
+    "topic": "gravity",
+    "question": "How does gravity help organize the universe into structures?",
+    "answer": "It pulls matter together into stars, galaxies, and clusters."
+  }
+]

@@ -1,0 +1,2507 @@
+[
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is a planet?",
+    "answer": "A planet is a large celestial body that orbits a star and does not produce its own light."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How many planets are in the Solar System?",
+    "answer": "There are eight recognized planets in the Solar System."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Which planet is closest to the Sun?",
+    "answer": "Mercury is the closest planet to the Sun."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Which planet is the largest in the Solar System?",
+    "answer": "Jupiter is the largest planet in the Solar System."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is an exoplanet?",
+    "answer": "An exoplanet is a planet that orbits a star outside our Solar System."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why does Earth support life?",
+    "answer": "Earth has liquid water, a stable atmosphere, and suitable temperatures for life."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What type of planet is Earth?",
+    "answer": "Earth is a terrestrial rocky planet."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Which planet is known for its rings?",
+    "answer": "Saturn is best known for its prominent ring system."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What are terrestrial planets?",
+    "answer": "Terrestrial planets are rocky planets with solid surfaces."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What are gas giants?",
+    "answer": "Gas giants are large planets made mostly of hydrogen and helium."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Which planets are classified as gas giants?",
+    "answer": "Jupiter and Saturn are classified as gas giants."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What are ice giants?",
+    "answer": "Ice giants are planets rich in water, ammonia, and methane ices."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Which planets are considered ice giants?",
+    "answer": "Uranus and Neptune are considered ice giants."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Which planet has the shortest year?",
+    "answer": "Mercury has the shortest year in the Solar System."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Which planet has the longest year?",
+    "answer": "Neptune has the longest year among the planets."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What causes a planet to orbit a star?",
+    "answer": "Gravity causes a planet to orbit a star."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is the habitable zone around a star?",
+    "answer": "It is the region where temperatures may allow liquid water to exist."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Which planet is called the Red Planet?",
+    "answer": "Mars is called the Red Planet."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why does Mars appear red?",
+    "answer": "Mars appears red because of iron oxide on its surface."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Which planet rotates on its side?",
+    "answer": "Uranus rotates on its side."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Which planet has the strongest winds in the Solar System?",
+    "answer": "Neptune has the strongest known winds in the Solar System."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is the hottest planet in the Solar System?",
+    "answer": "Venus is the hottest planet in the Solar System."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why is Venus hotter than Mercury?",
+    "answer": "Venus has a thick atmosphere that traps heat through a greenhouse effect."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Which planet has the most moons?",
+    "answer": "Saturn currently has the highest confirmed number of moons."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is a dwarf planet?",
+    "answer": "A dwarf planet orbits the Sun but has not cleared its orbital neighborhood."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why is Pluto classified as a dwarf planet?",
+    "answer": "Pluto has not cleared other objects from its orbital region."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is the main method used to detect exoplanets?",
+    "answer": "The transit method is the most commonly used exoplanet detection method."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How does the transit method detect exoplanets?",
+    "answer": "It detects small dips in a star's brightness when a planet passes in front."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is the radial velocity method?",
+    "answer": "It detects tiny star movements caused by the gravity of orbiting planets."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is a rogue planet?",
+    "answer": "A rogue planet is a planet that does not orbit a star."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Which planet is famous for the Great Red Spot?",
+    "answer": "Jupiter is famous for the Great Red Spot."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is the Great Red Spot on Jupiter?",
+    "answer": "It is a giant long-lasting storm in Jupiter's atmosphere."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What are planetary rings made of?",
+    "answer": "Planetary rings are made of ice, dust, and rocky particles."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Which planets in the Solar System have rings?",
+    "answer": "Jupiter, Saturn, Uranus, and Neptune all have rings."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is an orbital period?",
+    "answer": "An orbital period is the time a planet takes to complete one orbit."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is planetary rotation?",
+    "answer": "Planetary rotation is the spinning of a planet around its axis."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Which planet has the longest day?",
+    "answer": "Venus has the longest day among the planets."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why do planets appear round?",
+    "answer": "Gravity pulls planetary material into a roughly spherical shape."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is the atmosphere of a planet?",
+    "answer": "A planet's atmosphere is the layer of gases surrounding it."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why is Jupiter classified as a giant planet?",
+    "answer": "Jupiter is extremely massive and composed mostly of gases."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is a super-Earth exoplanet?",
+    "answer": "A super-Earth is an exoplanet larger than Earth but smaller than Neptune."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is a hot Jupiter?",
+    "answer": "A hot Jupiter is a gas giant exoplanet orbiting very close to its star."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why are hot Jupiters unusual?",
+    "answer": "Gas giants are normally expected to form farther from stars."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is planetary migration?",
+    "answer": "Planetary migration is the movement of planets to different orbits over time."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is the Kuiper Belt?",
+    "answer": "The Kuiper Belt is a region of icy bodies beyond Neptune."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is the difference between a planet and a moon?",
+    "answer": "A planet orbits a star, while a moon orbits a planet."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is an exoplanet atmosphere?",
+    "answer": "It is the layer of gases surrounding an exoplanet."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How do scientists study exoplanet atmospheres?",
+    "answer": "They analyze starlight passing through or reflected by the atmosphere."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Which space telescope greatly advanced exoplanet discovery?",
+    "answer": "The Kepler Space Telescope greatly advanced exoplanet discovery."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What was the purpose of the Kepler mission?",
+    "answer": "Kepler searched for exoplanets by monitoring stellar brightness."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why are exoplanets difficult to observe directly?",
+    "answer": "They are faint and usually hidden by the brightness of their stars."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is the smallest planet in the Solar System?",
+    "answer": "Mercury is the smallest planet in the Solar System."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Which planet is farthest from the Sun?",
+    "answer": "Neptune is the farthest known planet from the Sun."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is the asteroid belt?",
+    "answer": "The asteroid belt is a region of rocky objects between Mars and Jupiter."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why do planets stay in stable orbits?",
+    "answer": "Stable orbits result from the balance between gravity and orbital motion."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is axial tilt on a planet?",
+    "answer": "Axial tilt is the angle between a planet's axis and its orbit."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How does Earth's axial tilt affect seasons?",
+    "answer": "Earth's tilt changes how sunlight reaches different regions during the year."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Which planet has the densest atmosphere?",
+    "answer": "Venus has the densest atmosphere among the terrestrial planets."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What gases dominate Jupiter's atmosphere?",
+    "answer": "Hydrogen and helium dominate Jupiter's atmosphere."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What gives Neptune its blue color?",
+    "answer": "Methane in Neptune's atmosphere gives it a blue appearance."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What gives Uranus its blue-green color?",
+    "answer": "Methane in Uranus's atmosphere absorbs red light and reflects blue-green light."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is a planetary core?",
+    "answer": "A planetary core is the dense central region inside a planet."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is believed to exist at Earth's core?",
+    "answer": "Earth's core is mainly made of iron and nickel."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why does Mars have giant volcanoes?",
+    "answer": "Mars has low gravity and limited plate movement, allowing volcanoes to grow larger."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is Olympus Mons?",
+    "answer": "Olympus Mons is the largest known volcano in the Solar System."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Which planet has the strongest magnetic field?",
+    "answer": "Jupiter has the strongest magnetic field among the planets."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is a magnetosphere?",
+    "answer": "A magnetosphere is the region controlled by a planet's magnetic field."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why is a magnetic field important for a planet?",
+    "answer": "It helps shield the planet from harmful solar radiation."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is tidal locking?",
+    "answer": "Tidal locking occurs when one side of an object always faces the body it orbits."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is an Earth-like exoplanet?",
+    "answer": "It is an exoplanet with conditions potentially similar to Earth's."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is the Goldilocks zone?",
+    "answer": "It is another name for the habitable zone around a star."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is direct imaging in exoplanet discovery?",
+    "answer": "Direct imaging captures actual pictures of exoplanets near stars."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why is direct imaging of exoplanets challenging?",
+    "answer": "Stars are much brighter than the planets orbiting them."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is gravitational microlensing?",
+    "answer": "It detects planets using the bending of light caused by gravity."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is the transit depth in exoplanet studies?",
+    "answer": "Transit depth measures how much a star dims during a planetary transit."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is an orbital resonance?",
+    "answer": "Orbital resonance occurs when orbiting bodies influence each other through repeated gravity patterns."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is a circumstellar disk?",
+    "answer": "A circumstellar disk is a ring of gas and dust around a young star."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How do planets form around stars?",
+    "answer": "Planets form from gas and dust within circumstellar disks."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is accretion in planetary formation?",
+    "answer": "Accretion is the gradual buildup of material through collisions and gravity."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What are planetesimals?",
+    "answer": "Planetesimals are small building blocks that combine to form planets."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is a protoplanet?",
+    "answer": "A protoplanet is a developing planetary body formed during early planet formation."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why do some planets have thick atmospheres?",
+    "answer": "Strong gravity helps planets retain large amounts of gas."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is atmospheric escape on a planet?",
+    "answer": "Atmospheric escape is the loss of gases into space."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why does Mercury have a very thin atmosphere?",
+    "answer": "Mercury's weak gravity and solar exposure allow gases to escape easily."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is a planetary eclipse?",
+    "answer": "A planetary eclipse occurs when one celestial body blocks another from view."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Which planet has the highest surface pressure?",
+    "answer": "Venus has the highest surface pressure among the planets."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What causes the greenhouse effect on Venus?",
+    "answer": "Carbon dioxide traps heat in Venus's atmosphere."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is retrograde rotation?",
+    "answer": "Retrograde rotation means a planet spins opposite to most planets."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Which planets rotate in a retrograde direction?",
+    "answer": "Venus and Uranus rotate in a retrograde direction."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is the frost line in planetary science?",
+    "answer": "The frost line is the distance from a star where ices can form."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why are gas giants usually found beyond the frost line?",
+    "answer": "Ices beyond the frost line help giant planets grow rapidly."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is a mini-Neptune exoplanet?",
+    "answer": "A mini-Neptune is a small gas-rich exoplanet larger than Earth."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is meant by planetary habitability?",
+    "answer": "Planetary habitability refers to a world's potential to support life."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What factors affect planetary habitability?",
+    "answer": "Temperature, atmosphere, water, and radiation levels affect habitability."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is a lava planet?",
+    "answer": "A lava planet is an extremely hot rocky planet with molten surfaces."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is a water world exoplanet?",
+    "answer": "A water world is a planet believed to contain large amounts of water."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is a brown dwarf?",
+    "answer": "A brown dwarf is an object larger than planets but too small to sustain normal starlight fusion."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How are brown dwarfs different from planets?",
+    "answer": "Brown dwarfs are more massive and can briefly fuse deuterium."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is the Roche limit?",
+    "answer": "The Roche limit is the distance where tidal forces can break apart an object."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why do some exoplanets orbit extremely close to their stars?",
+    "answer": "Orbital migration can move planets inward after formation."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is the James Webb Space Telescope used for in exoplanet science?",
+    "answer": "It studies exoplanet atmospheres and distant planetary systems."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What determines the shape of a planet's orbit?",
+    "answer": "Gravity and motion determine the shape of a planet's orbit."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is orbital eccentricity?",
+    "answer": "Orbital eccentricity measures how stretched or circular an orbit is."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Which planet has the most eccentric orbit among the eight planets?",
+    "answer": "Mercury has the most eccentric orbit among the eight planets."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is an equinox on a planet?",
+    "answer": "An equinox occurs when day and night are nearly equal in length."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is a solstice on a planet?",
+    "answer": "A solstice occurs when a hemisphere receives maximum or minimum sunlight."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why do giant planets have many moons?",
+    "answer": "Their strong gravity allows them to capture or retain more moons."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is a planetary nebula?",
+    "answer": "A planetary nebula is an expanding shell of gas from a dying star."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is an exomoon?",
+    "answer": "An exomoon is a moon that orbits an exoplanet."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Have scientists confirmed many exomoons?",
+    "answer": "No confirmed exomoons have been universally accepted yet."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is atmospheric composition?",
+    "answer": "Atmospheric composition describes the gases present in an atmosphere."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why is methane important in exoplanet studies?",
+    "answer": "Methane can reveal atmospheric chemistry and possible biological activity."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is planetary albedo?",
+    "answer": "Planetary albedo measures how much light a planet reflects."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Which planet reflects the most sunlight?",
+    "answer": "Venus reflects the most sunlight because of its thick clouds."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is internal heating in planets?",
+    "answer": "Internal heating is heat generated inside a planet from radioactive decay and pressure."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why are some moons geologically active?",
+    "answer": "Tidal forces and internal heat can drive geological activity."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is tidal heating?",
+    "answer": "Tidal heating is heat produced by gravitational stretching inside a body."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is the most volcanically active moon in the Solar System?",
+    "answer": "Io is the most volcanically active moon in the Solar System."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is a circumplanetary disk?",
+    "answer": "A circumplanetary disk is a disk of material surrounding a forming planet."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How do moons likely form around giant planets?",
+    "answer": "They likely form from material in circumplanetary disks."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is the core accretion model?",
+    "answer": "It is a leading theory explaining how planets gradually form from accumulated matter."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is disk instability in planet formation?",
+    "answer": "Disk instability suggests giant planets form rapidly from collapsing gas regions."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What are rogue exoplanets sometimes called?",
+    "answer": "They are sometimes called free-floating planets."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why can giant planets affect smaller planets?",
+    "answer": "Their strong gravity can alter nearby planetary orbits."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is orbital inclination?",
+    "answer": "Orbital inclination is the tilt of an orbit relative to a reference plane."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why is orbital inclination important in transit detection?",
+    "answer": "Planets must align properly for transits to be visible from Earth."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is a planetary conjunction?",
+    "answer": "A conjunction occurs when planets appear close together in the sky."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is a superior planet?",
+    "answer": "A superior planet orbits farther from the Sun than Earth."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is an inferior planet?",
+    "answer": "An inferior planet orbits closer to the Sun than Earth."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Which planets are considered inferior planets?",
+    "answer": "Mercury and Venus are inferior planets."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why does Neptune emit more heat than it receives?",
+    "answer": "Neptune still releases internal heat from its formation and interior."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is the heliosphere?",
+    "answer": "The heliosphere is the bubble-like region influenced by the Sun's solar wind."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is a planetary transit?",
+    "answer": "A planetary transit occurs when a planet passes in front of its star."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What information can a planetary transit reveal?",
+    "answer": "It can reveal a planet's size and orbital period."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is a multi-planet system?",
+    "answer": "A multi-planet system contains several planets orbiting the same star."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is a resonance chain in planetary systems?",
+    "answer": "It is a sequence of planets linked through orbital resonances."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why are red dwarf stars important in exoplanet research?",
+    "answer": "Their small size makes orbiting planets easier to detect."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is stellar radiation?",
+    "answer": "Stellar radiation is energy emitted by a star."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How can stellar radiation affect planetary atmospheres?",
+    "answer": "Strong radiation can strip away atmospheric gases over time."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is an ultra-short-period exoplanet?",
+    "answer": "It is an exoplanet that completes an orbit in less than a day."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is the snow line in planetary systems?",
+    "answer": "The snow line marks where volatile compounds can freeze into ice."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why is the snow line important in planet formation?",
+    "answer": "Frozen materials beyond the snow line help planets grow faster."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is a carbon-rich exoplanet?",
+    "answer": "It is a hypothetical planet with unusually high carbon content."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is meant by planetary differentiation?",
+    "answer": "Planetary differentiation is the separation of materials into layers inside a planet."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why do dense materials sink toward planetary cores?",
+    "answer": "Gravity pulls denser materials inward during planetary formation."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is a biosignature in exoplanet science?",
+    "answer": "A biosignature is evidence that could indicate the presence of life."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why is oxygen considered a possible biosignature?",
+    "answer": "Large amounts of oxygen may be linked to biological processes."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is an ocean world?",
+    "answer": "An ocean world is a planet or moon with large amounts of liquid water."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is the main component of Saturn's rings?",
+    "answer": "Saturn's rings are made mostly of water ice."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why are planetary systems different from one another?",
+    "answer": "Different formation conditions produce different planetary arrangements."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is a resonant orbit?",
+    "answer": "A resonant orbit occurs when orbiting bodies have repeating orbital periods."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is escape velocity on a planet?",
+    "answer": "Escape velocity is the minimum speed needed to leave a planet's gravity."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why do massive planets have higher escape velocities?",
+    "answer": "Stronger gravity requires greater speed to escape."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is surface gravity?",
+    "answer": "Surface gravity is the gravitational pull experienced at a planet's surface."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Which planet has the strongest surface gravity among the terrestrial planets?",
+    "answer": "Earth has the strongest surface gravity among the terrestrial planets."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is a planetary atmosphere mainly influenced by?",
+    "answer": "Gravity, temperature, and composition mainly influence a planetary atmosphere."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why can gas giants not support solid surfaces like Earth?",
+    "answer": "They are mostly made of dense gases and liquids rather than solid rock."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is metallic hydrogen?",
+    "answer": "Metallic hydrogen is hydrogen compressed into a conductive liquid state."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Where is metallic hydrogen believed to exist?",
+    "answer": "It is believed to exist deep inside Jupiter and Saturn."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is the main gas in Earth's atmosphere?",
+    "answer": "Nitrogen is the main gas in Earth's atmosphere."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is the main gas in Venus's atmosphere?",
+    "answer": "Carbon dioxide is the main gas in Venus's atmosphere."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is the main gas in Mars's atmosphere?",
+    "answer": "Carbon dioxide is the main gas in Mars's atmosphere."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why is Mars colder than Earth?",
+    "answer": "Mars is farther from the Sun and has a thin atmosphere."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What are polar ice caps on planets?",
+    "answer": "Polar ice caps are frozen regions near planetary poles."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Which planets have visible polar ice caps?",
+    "answer": "Earth and Mars have clearly visible polar ice caps."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is atmospheric pressure?",
+    "answer": "Atmospheric pressure is the force exerted by gases in an atmosphere."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why is atmospheric pressure on Mars low?",
+    "answer": "Mars has a thin atmosphere with relatively little gas."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is a planetary climate?",
+    "answer": "A planetary climate is the long-term pattern of weather conditions."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What factors influence a planet's climate?",
+    "answer": "Atmosphere, sunlight, rotation, and surface conditions influence climate."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is synchronous rotation?",
+    "answer": "Synchronous rotation occurs when rotation and orbital periods are equal."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why do some exoplanets become tidally locked?",
+    "answer": "Strong gravitational interactions with their stars slow and synchronize rotation."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is the equilibrium temperature of a planet?",
+    "answer": "It is the estimated temperature based on incoming and outgoing energy."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is atmospheric circulation on a planet?",
+    "answer": "Atmospheric circulation is the movement of air that distributes heat."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why do giant planets have colorful cloud bands?",
+    "answer": "Different chemicals and fast winds create visible atmospheric bands."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is a planetary jet stream?",
+    "answer": "A planetary jet stream is a fast-moving current of atmospheric gas."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What causes auroras on planets?",
+    "answer": "Charged particles interacting with magnetic fields and atmospheres cause auroras."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Which planets are known to have auroras?",
+    "answer": "Earth, Jupiter, Saturn, Uranus, and Neptune all have auroras."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is a planetary system?",
+    "answer": "A planetary system is a star and the objects orbiting it."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is the most common type of exoplanet discovered so far?",
+    "answer": "Mini-Neptunes are among the most commonly discovered exoplanets."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why are many discovered exoplanets larger than Earth?",
+    "answer": "Larger planets are generally easier for telescopes to detect."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is transit spectroscopy?",
+    "answer": "Transit spectroscopy studies starlight filtered through a planet's atmosphere."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What can transit spectroscopy reveal about exoplanets?",
+    "answer": "It can reveal atmospheric gases and temperature information."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is reflected light analysis in exoplanet science?",
+    "answer": "It studies light reflected from an exoplanet to learn about its atmosphere."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is thermal emission from a planet?",
+    "answer": "Thermal emission is heat radiated from a planet into space."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why do planets emit infrared radiation?",
+    "answer": "Planets release absorbed energy as infrared heat."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is an exoplanet candidate?",
+    "answer": "An exoplanet candidate is a possible planet awaiting confirmation."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How are exoplanet candidates confirmed?",
+    "answer": "Scientists use repeated observations and additional detection methods."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is a circumbinary planet?",
+    "answer": "A circumbinary planet orbits two stars instead of one."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How can planets survive in binary star systems?",
+    "answer": "Stable orbital paths can exist around or between binary stars."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is orbital decay?",
+    "answer": "Orbital decay is the gradual shrinking of an orbit over time."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What can cause orbital decay in planetary systems?",
+    "answer": "Tidal forces and drag interactions can cause orbital decay."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is planetary scattering?",
+    "answer": "Planetary scattering is the gravitational reshuffling of planetary orbits."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why do some planets have highly tilted axes?",
+    "answer": "Large collisions during formation may tilt planetary axes."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is obliquity in planetary science?",
+    "answer": "Obliquity is the tilt of a planet's rotational axis."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is atmospheric retention?",
+    "answer": "Atmospheric retention is a planet's ability to hold onto gases."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why do colder planets retain light gases more easily?",
+    "answer": "Gas particles move more slowly at lower temperatures."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is the exosphere of a planet?",
+    "answer": "The exosphere is the outermost layer of a planetary atmosphere."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is atmospheric erosion?",
+    "answer": "Atmospheric erosion is the gradual loss of atmospheric gases into space."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How can solar wind affect a planet?",
+    "answer": "Solar wind can erode atmospheres and disturb magnetic fields."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why is Mars vulnerable to atmospheric erosion?",
+    "answer": "Mars has a weak magnetic field and thin atmosphere."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is comparative planetology?",
+    "answer": "Comparative planetology studies similarities and differences between planets."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why do planets not fall straight into their stars?",
+    "answer": "Their forward motion balances the pull of gravity."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How would Saturn look if you stood near its rings?",
+    "answer": "Its rings would appear as enormous glowing arcs across the sky."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would happen if Earth were moved closer to the Sun?",
+    "answer": "Temperatures would rise and Earth's climate could become unstable."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why are scientists excited about finding exoplanets?",
+    "answer": "Exoplanets may reveal how common planets and life are in the universe."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How do planets begin forming around young stars?",
+    "answer": "Dust and gas slowly stick together and grow through gravity."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would it feel like to stand on Jupiter?",
+    "answer": "Jupiter has no solid surface to stand on."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why is Venus sometimes called Earth's twin?",
+    "answer": "Venus is similar to Earth in size and structure."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How cold is Neptune compared to Earth?",
+    "answer": "Neptune is far colder because it receives much less sunlight."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What makes Saturn's rings so bright?",
+    "answer": "They reflect sunlight from billions of icy particles."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could a planet exist without a star?",
+    "answer": "Yes, rogue planets drift through space without orbiting stars."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why do some planets have many moons while others have few?",
+    "answer": "Massive planets have stronger gravity that can retain more moons."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would sunsets on Mars look like?",
+    "answer": "Martian sunsets appear bluish because of dust in the atmosphere."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How do scientists know exoplanets are really there?",
+    "answer": "They detect repeated effects planets have on their stars."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What is strange about Uranus compared to other planets?",
+    "answer": "Uranus spins with its axis tilted almost sideways."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why does Mercury experience extreme temperatures?",
+    "answer": "It has almost no atmosphere to trap or spread heat."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could oceans exist on exoplanets?",
+    "answer": "Some exoplanets may have conditions suitable for liquid water oceans."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How large can planets become before turning into stars?",
+    "answer": "Objects need far more mass than planets to begin normal stellar fusion."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why are giant planets mostly made of gas?",
+    "answer": "They formed where light gases and ices were abundant."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would happen if Earth lost its atmosphere?",
+    "answer": "Surface temperatures and radiation levels would become deadly."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why is Mars a major target in space exploration?",
+    "answer": "Mars may hold clues about past habitability and future human missions."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How do planets get their colors?",
+    "answer": "Atmospheric gases and surface materials affect reflected light."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would happen if Earth had rings like Saturn?",
+    "answer": "Bright rings would dominate the sky and affect nighttime brightness."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why do astronomers search for planets around red dwarf stars?",
+    "answer": "Planets around red dwarfs are easier to detect."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How fast do planets move through space?",
+    "answer": "Planetary speeds vary depending on their distance from stars."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could humans ever live on another planet?",
+    "answer": "Future technology may allow humans to survive on other worlds."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why are exoplanets harder to see than stars?",
+    "answer": "Stars are much brighter than the planets orbiting them."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would rain on Venus be like?",
+    "answer": "Venus has clouds containing sulfuric acid droplets."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How do scientists estimate temperatures on distant exoplanets?",
+    "answer": "They study starlight, distance, and atmospheric properties."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would happen if Jupiter disappeared suddenly?",
+    "answer": "The Solar System's gravitational balance would change significantly."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why are some exoplanets called super-Earths?",
+    "answer": "They are larger and more massive than Earth."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How do planetary rings stay thin and flat?",
+    "answer": "Collisions between particles help keep rings organized into flat layers."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could plants grow on another planet?",
+    "answer": "Plants would need suitable light, water, nutrients, and atmosphere."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why is Earth's atmosphere different from Mars's atmosphere?",
+    "answer": "Earth retained a thicker atmosphere and active environmental cycles."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would a day on Mercury feel like?",
+    "answer": "Days would be extremely long with intense heat and cold."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How do astronomers name exoplanets?",
+    "answer": "Exoplanets are usually named after their parent stars with added letters."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could there be planets made mostly of ice?",
+    "answer": "Yes, some planets contain large amounts of frozen materials."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why do some planets spin faster than others?",
+    "answer": "Spin rates depend on formation history and past collisions."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would happen if Earth orbited a red dwarf star?",
+    "answer": "Earth would need a closer orbit to receive similar warmth."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How do storms on Jupiter compare to storms on Earth?",
+    "answer": "Jovian storms are much larger and can last for centuries."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why are scientists interested in exoplanet atmospheres?",
+    "answer": "Atmospheres may reveal climate conditions and possible signs of life."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would happen to a human near Neptune?",
+    "answer": "Extreme cold, pressure, and winds would make survival impossible."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could moons around exoplanets support life?",
+    "answer": "Large moons with water and atmospheres could potentially support life."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why do planets usually orbit in the same direction?",
+    "answer": "They formed from the same rotating disk of material."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would happen if Earth stopped rotating?",
+    "answer": "Extreme climate changes and powerful atmospheric effects would occur."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How do telescopes help discover new planets?",
+    "answer": "They detect tiny changes in light or motion from distant stars."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why are some planets rocky while others are gaseous?",
+    "answer": "Temperature and available materials during formation shaped their composition."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could life survive beneath the surface of icy worlds?",
+    "answer": "Subsurface oceans may provide environments suitable for simple life."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would the sky look like from the Moon of a giant planet?",
+    "answer": "The nearby giant planet could appear enormous in the sky."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why is Pluto different from the eight main planets?",
+    "answer": "Pluto has not cleared its orbital neighborhood."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How might future discoveries change our understanding of planets?",
+    "answer": "New discoveries may reveal unexpected planetary types and environments."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why do planets become round instead of staying oddly shaped?",
+    "answer": "Gravity pulls material inward until the planet becomes nearly spherical."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would happen if you tried to fly through Saturn's rings?",
+    "answer": "You would pass through scattered ice and rock particles moving at high speeds."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How do scientists figure out what exoplanets are made of?",
+    "answer": "They study planetary mass, size, and atmospheric signals."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could there be planets completely covered by oceans?",
+    "answer": "Some exoplanets may be entirely covered by deep global oceans."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why does Earth have life while nearby planets do not?",
+    "answer": "Earth has suitable water, atmosphere, and long-term stable conditions."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would Jupiter look like from one of its moons?",
+    "answer": "Jupiter would appear enormous and brightly striped in the sky."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How do rogue planets wander through space alone?",
+    "answer": "Some planets were likely ejected from their original planetary systems."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could planets orbit black holes?",
+    "answer": "Theoretically, planets could orbit black holes under stable conditions."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why is the search for water on planets so important?",
+    "answer": "Liquid water is considered essential for life as we know it."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would happen if Earth were as large as Jupiter?",
+    "answer": "Gravity, atmosphere, and planetary structure would change dramatically."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How do planets survive collisions during formation?",
+    "answer": "Some collisions merge material instead of destroying the forming planet."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could a planet have glowing skies all the time?",
+    "answer": "Strong atmospheric activity or nearby stars could brighten a planet's sky."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why do scientists think there may be billions of planets in the galaxy?",
+    "answer": "Planet discoveries suggest most stars likely have planetary systems."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would happen if Earth had two suns?",
+    "answer": "Seasons, temperatures, and orbital dynamics would become more complex."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How can a planet be hotter than Mercury even when farther from the Sun?",
+    "answer": "A thick atmosphere can trap heat extremely effectively."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could there be planets with purple skies?",
+    "answer": "Different atmospheric compositions could create unusual sky colors."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why are giant planets important for smaller planets nearby?",
+    "answer": "Their gravity can shape the orbits and stability of other worlds."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would happen if Earth moved farther away from the Sun?",
+    "answer": "Global temperatures would drop and ice coverage could expand."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How do astronomers discover planets they cannot directly photograph?",
+    "answer": "They observe indirect effects caused by the planets."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could lightning happen on other planets?",
+    "answer": "Lightning storms likely occur on several planets and giant worlds."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why does Mars have weaker gravity than Earth?",
+    "answer": "Mars is smaller and less massive than Earth."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would oceans on an exoplanet look like under a red sun?",
+    "answer": "The lighting could give the oceans darker or reddish tones."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How can scientists tell whether a planet has clouds?",
+    "answer": "Clouds affect how a planet absorbs and reflects light."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could a planet have no day or night cycle?",
+    "answer": "A tidally locked planet may always show one side to its star."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why are planets closer to the Sun usually rocky?",
+    "answer": "Heat near the young Sun prevented light gases from condensing."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would happen if humans tried to land on Neptune?",
+    "answer": "Extreme pressure and violent conditions would destroy spacecraft and humans."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How do exoplanets help scientists understand Earth's future?",
+    "answer": "They reveal how climates and atmospheres can evolve over time."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could there be planets with giant floating clouds of metal?",
+    "answer": "Some extremely hot exoplanets may contain vaporized metals in their atmospheres."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why does Saturn float in water in theory?",
+    "answer": "Saturn's average density is lower than the density of water."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would a storm on Neptune feel like?",
+    "answer": "It would involve freezing temperatures and extremely powerful winds."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How do moons affect their planets?",
+    "answer": "Moons can influence tides, rotation, and orbital stability."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could there be planets with underground oceans beneath ice?",
+    "answer": "Some icy worlds may hide liquid oceans beneath frozen surfaces."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why do astronomers study tiny dips in starlight?",
+    "answer": "Small brightness drops can reveal orbiting planets."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would happen if Earth had the atmosphere of Venus?",
+    "answer": "Earth would become extremely hot and hostile to life."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How can planets exist for billions of years without crashing?",
+    "answer": "Stable gravitational balances can maintain long-lasting orbits."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could a planet be completely dark?",
+    "answer": "A rogue planet far from stars could appear almost completely dark."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why do some planets have giant storms that last for years?",
+    "answer": "Strong atmospheres and steady energy sources can sustain long-lived storms."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would happen if a giant asteroid struck a planet?",
+    "answer": "It could reshape the surface and alter the atmosphere dramatically."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How do scientists estimate the age of planets?",
+    "answer": "They study rocks, stars, and the history of planetary systems."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could planets form around dead stars?",
+    "answer": "Some evidence suggests planets may exist around stellar remnants."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why are exoplanets sometimes given unusual nicknames?",
+    "answer": "Nicknames help describe special characteristics or make them easier to discuss."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would happen if Earth spun much faster?",
+    "answer": "Days would shorten and weather patterns would change significantly."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How can a planet's atmosphere reveal signs of chemistry?",
+    "answer": "Different gases absorb and emit distinct wavelengths of light."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could planets exist inside giant gas clouds?",
+    "answer": "Planets can form within dense clouds surrounding young stars."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why does the sky look different on different planets?",
+    "answer": "Atmospheric composition and sunlight affect sky color and brightness."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would happen if Earth had no Moon?",
+    "answer": "Tides and long-term planetary stability would change greatly."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How do planets avoid colliding with each other constantly?",
+    "answer": "Stable orbital paths keep planets separated over long periods."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could there be planets with diamond-rich interiors?",
+    "answer": "Some carbon-rich planets may contain diamond layers."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why are some exoplanets called hot Jupiters?",
+    "answer": "They are giant planets orbiting extremely close to their stars."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would the night sky look like from a planet in a dense star cluster?",
+    "answer": "The sky could contain many bright visible stars at once."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why do planets keep moving instead of stopping in space?",
+    "answer": "Objects in space continue moving unless acted on by another force."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would happen if Earth suddenly became twice as massive?",
+    "answer": "Gravity would increase and Earth's environment would change drastically."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How can a tiny telescope detect a planet light-years away?",
+    "answer": "Sensitive instruments can measure tiny changes in starlight and motion."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could a planet orbit three stars at once?",
+    "answer": "Some planets may orbit within complex multi-star systems."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why do scientists think planets are common in the universe?",
+    "answer": "Exoplanet discoveries show planets exist around many different stars."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would standing under Jupiter's clouds be like?",
+    "answer": "The environment would involve crushing pressure and violent storms."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How do planets survive near extremely hot stars?",
+    "answer": "Some planets endure intense radiation through unique atmospheric conditions."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could there be planets with black-colored oceans?",
+    "answer": "Different lighting and chemistry could make oceans appear very dark."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why does Earth have a protective magnetic field?",
+    "answer": "Movement within Earth's molten core generates a magnetic field."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would happen if Mars had a thick atmosphere like Earth?",
+    "answer": "Mars could become warmer and potentially support liquid water more easily."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How can scientists measure the size of exoplanets?",
+    "answer": "They analyze how much starlight a planet blocks during transit."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could life exist on a planet without sunlight?",
+    "answer": "Some life forms might survive using chemical energy instead of sunlight."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why do planets closer to the Sun move faster?",
+    "answer": "Stronger gravity near the Sun increases orbital speed."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would Earth look like from a distant exoplanet?",
+    "answer": "Earth would appear as a tiny pale point near the Sun."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How do giant planets influence asteroid belts?",
+    "answer": "Their gravity can shape asteroid orbits and clear certain regions."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could there be planets where it rains liquid metal?",
+    "answer": "Extremely hot exoplanets may experience exotic metallic rainfall."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why is finding a planet in the habitable zone exciting?",
+    "answer": "Such planets may have temperatures suitable for liquid water."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would happen if Saturn lost its rings?",
+    "answer": "Its appearance would change dramatically, but the planet would remain stable."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How do scientists know the atmosphere of a distant planet contains gases?",
+    "answer": "Different gases leave unique patterns in detected light."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could there be planets with constant hurricanes?",
+    "answer": "Some planets may experience nearly permanent large-scale storms."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why are some planets much denser than others?",
+    "answer": "Different compositions create different average densities."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would happen if Earth orbited much faster around the Sun?",
+    "answer": "Years would become shorter and seasonal patterns would change."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How do scientists discover planets around dim stars?",
+    "answer": "They use sensitive measurements of brightness and gravitational effects."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could there be giant planets larger than Jupiter?",
+    "answer": "Yes, some exoplanets are more massive than Jupiter."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why do planetary atmospheres sometimes glow?",
+    "answer": "Charged particles and sunlight can energize atmospheric gases."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would it look like inside a dense planetary ring system?",
+    "answer": "Countless icy and rocky particles would surround the view."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How can planets exist in freezing regions far from stars?",
+    "answer": "Internal heat and thick atmospheres can help retain warmth."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could a planet have hundreds of moons?",
+    "answer": "Massive planets can potentially retain very large moon systems."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why do some planets have stronger gravity than others?",
+    "answer": "Gravity depends mainly on a planet's mass and size."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would happen if Earth became tidally locked to the Sun?",
+    "answer": "One side would face constant daylight while the other remained dark."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How do scientists study planets hidden behind bright stars?",
+    "answer": "They use indirect detection methods and advanced imaging techniques."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could there be planets made mostly of gas with tiny solid cores?",
+    "answer": "Some giant planets may contain relatively small dense cores."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why are volcanic worlds important to study?",
+    "answer": "Volcanism reveals information about planetary interiors and heat."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would happen if Earth had Jupiter's gravity?",
+    "answer": "Human movement and atmospheric conditions would become extreme."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How can astronomers tell whether planets are rocky or gaseous?",
+    "answer": "Density calculations reveal clues about planetary composition."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could planets survive after their stars die?",
+    "answer": "Some planets may remain orbiting stellar remnants."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why do planets sometimes migrate from where they formed?",
+    "answer": "Gravitational interactions can slowly shift planetary orbits."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would the sky look like on a planet orbiting two suns?",
+    "answer": "The sky could contain double sunrises and unusual shadows."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How do icy planets remain active deep inside?",
+    "answer": "Internal heat and tidal forces can keep interiors warm."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could there be planets with mountains far taller than Everest?",
+    "answer": "Lower gravity can allow taller mountains to form."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why are planets in our Solar System spaced far apart?",
+    "answer": "Gravity and formation processes shaped stable orbital spacing."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would happen if Earth had a much thicker atmosphere?",
+    "answer": "Pressure, climate, and temperatures would change greatly."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How do scientists guess what alien weather might be like?",
+    "answer": "They model atmospheres, temperatures, and planetary rotation."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could there be planets hidden between stars that are hard to detect?",
+    "answer": "Many distant or faint planets may still remain undiscovered."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why do some exoplanets orbit extremely close to their stars?",
+    "answer": "Migration and gravitational interactions may move them inward."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would happen if Earth lost its magnetic field completely?",
+    "answer": "Radiation exposure and atmospheric loss risks would increase."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How can giant planets protect smaller planets nearby?",
+    "answer": "They can deflect or capture dangerous asteroids and comets."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could there be planets with skies permanently covered by clouds?",
+    "answer": "Some worlds may have thick global cloud layers at all times."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why do scientists compare exoplanets to Earth?",
+    "answer": "Earth provides the best known example of a life-supporting planet."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would happen if a rogue planet passed near our Solar System?",
+    "answer": "Its gravity could disturb distant objects and orbital paths."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why do some planets have giant ring systems while others do not?",
+    "answer": "Ring formation depends on gravity, collisions, and available material."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would happen if Earth had no atmosphere at all?",
+    "answer": "Earth would experience extreme temperatures and intense radiation exposure."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How do astronomers know when a planet passes in front of a star?",
+    "answer": "The star briefly becomes slightly dimmer during the transit."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could there be planets where the ground is covered in ice forever?",
+    "answer": "Some distant or cold planets may remain permanently frozen."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why are gas giants so much larger than rocky planets?",
+    "answer": "They captured huge amounts of gas during formation."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would the Sun look like from Neptune?",
+    "answer": "The Sun would appear much smaller and dimmer than from Earth."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How do scientists estimate the weight of distant planets?",
+    "answer": "They measure how strongly planets affect their stars through gravity."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could there be planets with giant oceans of liquid methane?",
+    "answer": "Very cold worlds could contain lakes or oceans of liquid methane."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why do some planets have active volcanoes while others do not?",
+    "answer": "Internal heat and geological activity vary between planets."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would happen if Earth were the size of Mars?",
+    "answer": "Gravity and atmospheric retention would become weaker."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How can scientists tell whether an exoplanet is hot or cold?",
+    "answer": "They analyze distance from the star and thermal radiation."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could a planet exist inside a nebula?",
+    "answer": "Young planetary systems can form within nebulae."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why does Jupiter have such a powerful magnetic field?",
+    "answer": "Rapid rotation and metallic hydrogen help generate it."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would standing on a frozen exoplanet feel like?",
+    "answer": "Conditions could involve extreme cold, darkness, and strong winds."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How do planets form from tiny grains of dust?",
+    "answer": "Dust particles collide, stick together, and gradually grow larger."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could there be planets with skies brighter than Earth's daytime sky?",
+    "answer": "Planets near bright stars could experience extremely luminous skies."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why are some planets tilted more than others?",
+    "answer": "Ancient impacts and gravitational interactions can change axial tilt."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would happen if Earth orbited closer to Jupiter?",
+    "answer": "Jupiter's gravity could strongly affect Earth's orbit and stability."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How do scientists search for signs of life on exoplanets?",
+    "answer": "They study atmospheres for possible biosignature gases."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could there be planets where the sky never becomes dark?",
+    "answer": "Planets in multiple-star systems could experience nearly constant daylight."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why are some exoplanets extremely dense?",
+    "answer": "They may contain large amounts of metal and rock."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would happen if Earth rotated backward?",
+    "answer": "Weather systems and climate patterns would change dramatically."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How do astronomers know a planet is orbiting a distant star?",
+    "answer": "They detect repeating patterns in starlight or stellar motion."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could there be planets covered entirely by deserts?",
+    "answer": "Dry climates and limited water could create global desert worlds."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why do planets farther from the Sun usually have longer years?",
+    "answer": "They travel larger orbits and move more slowly."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would happen if a planet lost all its water?",
+    "answer": "Climate and potential habitability would change severely."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How can planets remain warm far away from stars?",
+    "answer": "Greenhouse gases and internal heat can help retain warmth."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could there be planets with red oceans?",
+    "answer": "Unusual minerals or lighting conditions could affect ocean color."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why do scientists study planets outside our Solar System?",
+    "answer": "Exoplanets help explain how planetary systems form and evolve."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would it feel like to fall into Saturn?",
+    "answer": "You would encounter increasing pressure, heat, and strong winds."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How do exoplanets challenge old ideas about planetary systems?",
+    "answer": "Many exoplanets orbit in unexpected ways unlike our Solar System."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could there be planets with permanent lightning storms?",
+    "answer": "Strong atmospheric activity could sustain constant storm systems."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why are rocky planets usually smaller than gas giants?",
+    "answer": "Rocky planets formed in hotter regions with less available gas."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would happen if Earth's orbit became highly stretched?",
+    "answer": "Seasonal temperatures would become much more extreme."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How do scientists know some exoplanets have strong winds?",
+    "answer": "Atmospheric observations reveal movement of heat and gases."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could there be planets where snow is made of exotic materials?",
+    "answer": "Different temperatures and chemistry could create unusual snowfall."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why do planets form disks around young stars before becoming worlds?",
+    "answer": "Gravity naturally flattens rotating material into disks."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would happen if Earth had Saturn's rings?",
+    "answer": "Large bright rings would dominate views of the sky."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How can astronomers estimate the distance of exoplanets from their stars?",
+    "answer": "Orbital timing helps determine planetary distances."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could there be planets with continents made mostly of ice?",
+    "answer": "Extremely cold worlds may develop frozen landmasses."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why are planets important for understanding the universe?",
+    "answer": "They reveal how matter, chemistry, and life-related conditions develop."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would happen if Earth's Moon disappeared overnight?",
+    "answer": "Tides and long-term rotational stability would be affected."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How do giant planets influence the formation of smaller worlds?",
+    "answer": "Their gravity shapes surrounding material and orbital paths."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could there be planets with atmospheres thicker than Venus's?",
+    "answer": "Some massive planets may possess extremely dense atmospheres."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why does Mars have giant dust storms?",
+    "answer": "Thin atmosphere and dry conditions allow dust to spread easily."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would happen if Earth orbited a much hotter star?",
+    "answer": "Earth could experience extreme heating and radiation exposure."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How can planets exist around stars much older than the Sun?",
+    "answer": "Planetary systems can remain stable for billions of years."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could there be planets hidden by thick clouds that hide their surfaces completely?",
+    "answer": "Dense atmospheres can completely obscure planetary surfaces."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why are scientists fascinated by Earth-sized exoplanets?",
+    "answer": "Earth-sized worlds may offer clues about habitability and life."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would happen if a giant comet struck Jupiter today?",
+    "answer": "It would create massive atmospheric explosions and scars."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why do planets have different amounts of gravity?",
+    "answer": "Gravity depends on a planet's mass and size."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would happen if Earth suddenly lost half its gravity?",
+    "answer": "Objects and people would weigh less and the atmosphere could weaken."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How do astronomers tell whether an exoplanet has water vapor?",
+    "answer": "Water vapor leaves recognizable patterns in light spectra."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could there be planets with forests unlike anything on Earth?",
+    "answer": "Different environments could produce unfamiliar forms of plant life."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why do some planets spin very slowly?",
+    "answer": "Collisions and tidal forces can reduce rotational speed."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would the horizon look like on a tiny planet?",
+    "answer": "The horizon would appear much closer because of the planet's curvature."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How can planets survive close to violent stars?",
+    "answer": "Strong atmospheres or magnetic fields may provide protection."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could there be planets made mostly of carbon compounds?",
+    "answer": "Some theories suggest carbon-rich planets may exist."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why are planetary collisions important in space history?",
+    "answer": "Collisions helped shape planets, moons, and orbital systems."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would happen if Earth had a much longer year?",
+    "answer": "Seasonal cycles would last much longer than they do now."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How do scientists estimate wind speeds on distant planets?",
+    "answer": "They analyze atmospheric movement and temperature patterns."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could there be planets with glowing oceans at night?",
+    "answer": "Chemical or biological activity could potentially create glowing waters."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why are some planets surrounded by thick cloud layers?",
+    "answer": "Temperature and atmospheric chemistry can create dense clouds."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would standing on a super-Earth feel like?",
+    "answer": "Gravity could feel noticeably stronger than on Earth."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How do astronomers know when planets are pulling on their stars?",
+    "answer": "Stars wobble slightly because of gravitational interactions."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could there be planets where ice never melts anywhere?",
+    "answer": "Extremely cold planets may remain frozen across their entire surfaces."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why are some exoplanets called lava worlds?",
+    "answer": "Their surfaces may be hot enough to melt rock."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would happen if Earth had no seasons?",
+    "answer": "Climate patterns and ecosystems would change significantly."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How can scientists study planets that are invisible to the naked eye?",
+    "answer": "Advanced telescopes detect their effects on surrounding light and objects."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could there be planets where the oceans are deeper than Earth's tallest mountains?",
+    "answer": "Some water worlds may contain extremely deep global oceans."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why do giant planets often have stronger storms than Earth?",
+    "answer": "They contain vast atmospheres with powerful energy flows."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would happen if Earth orbited a dimmer star?",
+    "answer": "Earth would likely become colder unless it moved closer to the star."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How do planets keep their moons from drifting away?",
+    "answer": "Gravity holds moons in stable orbits around planets."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could there be planets with skies filled by giant nearby moons?",
+    "answer": "Large moons could dominate the sky on some planets."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why do astronomers study ancient planetary systems?",
+    "answer": "Older systems reveal how planets change over long periods."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would happen if Earth had much stronger tides?",
+    "answer": "Coastlines and ocean behavior would change dramatically."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How do scientists know when an exoplanet has an atmosphere?",
+    "answer": "Atmospheres alter the light detected during planetary transits."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could there be planets where giant crystals form naturally on the surface?",
+    "answer": "Different chemistry and pressure conditions could allow unusual crystal formations."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why do some planets cool faster than others?",
+    "answer": "Size, composition, and internal heat affect cooling speed."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would a sunrise on Mercury look like?",
+    "answer": "The Sun would appear extremely bright and move slowly across the sky."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How can planets exist in systems with many other planets nearby?",
+    "answer": "Stable gravitational arrangements can prevent collisions."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could there be planets with giant cave systems underground?",
+    "answer": "Volcanic and geological activity could create enormous caves."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why are scientists interested in frozen moons as well as planets?",
+    "answer": "Frozen moons may hide subsurface oceans that could support life."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would happen if Earth were tidally locked to the Moon?",
+    "answer": "One side of Earth would always face the Moon."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How do exoplanets help scientists test theories about planetary formation?",
+    "answer": "Different planetary systems reveal many formation possibilities."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could there be planets with giant floating icebergs in thick atmospheres?",
+    "answer": "Unusual atmospheric conditions could allow exotic floating structures."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why do planets farther from stars often contain more ice?",
+    "answer": "Lower temperatures allow frozen compounds to survive."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would happen if Earth's atmosphere became much thinner?",
+    "answer": "Temperatures and oxygen availability would decrease."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How do scientists estimate the composition of a planet's core?",
+    "answer": "They study density, magnetic fields, and seismic behavior."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could there be planets where rain falls sideways because of strong winds?",
+    "answer": "Extreme atmospheric winds could alter rainfall direction."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why do some planets have stronger magnetic fields than others?",
+    "answer": "Magnetic strength depends on internal structure and rotation."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would happen if Earth had a much more eccentric orbit?",
+    "answer": "Earth would experience stronger seasonal temperature differences."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How can planets continue forming after a star is born?",
+    "answer": "Leftover disk material gradually combines into larger bodies."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could there be planets with oceans beneath thick layers of rock?",
+    "answer": "Some worlds may trap liquid water deep underground."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why are some planets much darker than others?",
+    "answer": "Surface and atmospheric materials affect how much light is reflected."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would happen if Earth orbited a giant blue star?",
+    "answer": "Radiation levels and temperatures could become extremely high."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How do astronomers distinguish between planets and small stars?",
+    "answer": "Mass and the ability to sustain fusion separate stars from planets."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could there be planets with atmospheres rich in oxygen but no life?",
+    "answer": "Non-biological processes can sometimes produce oxygen."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why do scientists continue discovering new types of exoplanets?",
+    "answer": "The universe contains planetary systems with enormous diversity."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would happen if a nearby star passed close to our Solar System?",
+    "answer": "Its gravity could disturb distant comets and planetary orbits."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why do planets glow slightly even when they do not make their own light?",
+    "answer": "Planets reflect starlight and emit some heat energy."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would happen if Earth suddenly had Saturn's low density?",
+    "answer": "Earth's structure and gravity would change dramatically."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How do astronomers know when two planets are affecting each other gravitationally?",
+    "answer": "Orbital changes reveal gravitational interactions between planets."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could there be planets where the oceans are warmer than the land?",
+    "answer": "Different climates and atmospheres could create unusual heat patterns."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why are some planetary systems packed more tightly than our Solar System?",
+    "answer": "Different formation histories can produce closely packed planetary orbits."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would standing beneath Saturn's auroras look like?",
+    "answer": "Bright glowing patterns would ripple across the upper atmosphere."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How can planets survive in chaotic multi-star systems?",
+    "answer": "Stable orbital regions can still exist within complex star systems."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could there be planets with giant storms made of dust instead of rain?",
+    "answer": "Dry planets with strong winds could develop massive dust storms."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why do planets closer to stars often lose their atmospheres more easily?",
+    "answer": "Strong radiation and stellar winds can strip atmospheric gases away."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would happen if Earth had the same atmosphere as Titan?",
+    "answer": "Earth would become colder and filled with thick hydrocarbon haze."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How do scientists know when a planet may contain underground oceans?",
+    "answer": "Gravity, heat, and surface behavior provide important clues."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could there be planets where rivers are made of liquid methane?",
+    "answer": "Very cold worlds could support methane-based river systems."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why are some planets much puffier than expected?",
+    "answer": "Heat can expand planetary atmospheres and lower overall density."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would happen if Earth orbited a pulsar?",
+    "answer": "Intense radiation would create an extremely hostile environment."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How do astronomers identify planets hidden in noisy telescope data?",
+    "answer": "They search for repeated patterns and statistical signals."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could there be planets with giant floating continents in dense atmospheres?",
+    "answer": "Some theoretical conditions might allow buoyant floating structures."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why do planets farther from stars usually take longer to form?",
+    "answer": "Material collisions and growth occur more slowly at greater distances."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would a thunderstorm on a gas giant sound like?",
+    "answer": "Powerful winds and lightning could create deep roaring sounds."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How can scientists estimate whether a planet has seasons?",
+    "answer": "Axial tilt and orbital shape help determine seasonal changes."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could there be planets where the surface is mostly molten rock?",
+    "answer": "Extremely hot planets may have vast magma-covered surfaces."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why are some exoplanets darker than coal?",
+    "answer": "Certain atmospheres absorb most incoming visible light."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would happen if Earth had no magnetic field for millions of years?",
+    "answer": "Atmospheric erosion and radiation exposure could increase significantly."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How do astronomers know when planets migrate inward over time?",
+    "answer": "Observed planetary arrangements support migration models."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could there be planets where snow falls in giant crystal flakes?",
+    "answer": "Different atmospheric chemistry could produce unusual snow structures."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why do some planets have smoother surfaces than others?",
+    "answer": "Geological activity and erosion reshape planetary surfaces differently."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would happen if Earth were captured by another star?",
+    "answer": "Earth's orbit and climate conditions would change completely."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How can scientists detect heat coming from distant exoplanets?",
+    "answer": "Infrared observations reveal thermal radiation from planets."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could there be planets where life uses chemistry unlike Earth's biology?",
+    "answer": "Alternative biochemistries are theoretically possible."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why do some planets experience stronger tides than Earth?",
+    "answer": "Nearby moons and stronger gravity can increase tidal forces."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would standing near a volcano on Io be like?",
+    "answer": "The environment would involve intense heat and violent eruptions."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How do astronomers estimate how common Earth-like planets are?",
+    "answer": "They analyze exoplanet surveys and detection statistics."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could there be planets with giant underground seas beneath deserts?",
+    "answer": "Subsurface water reservoirs may exist beneath dry surfaces."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why do some exoplanets orbit their stars in only a few hours?",
+    "answer": "They travel extremely close to their parent stars."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would happen if Earth had a second large moon?",
+    "answer": "Tides and orbital dynamics would become more complex."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How can planets remain stable in systems with many giant planets?",
+    "answer": "Balanced gravitational resonances can maintain orbital stability."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could there be planets where the atmosphere freezes onto the ground?",
+    "answer": "Extremely cold conditions can freeze atmospheric gases."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why are some planets surrounded by glowing halos of gas?",
+    "answer": "Radiation can energize gases around planets and create glowing regions."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would happen if Earth rotated once every hour?",
+    "answer": "Extreme winds and major climate changes would likely occur."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How do astronomers distinguish between a moon and a small planet?",
+    "answer": "They determine whether the object orbits a planet or a star."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could there be planets where daylight is permanently red?",
+    "answer": "Red stars could cast reddish light across planetary surfaces."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why do some planets lose heat faster after formation?",
+    "answer": "Smaller planets cool more quickly because of their size."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would happen if Earth moved into a denser part of space dust?",
+    "answer": "More meteors and atmospheric particles could affect the planet."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How can scientists estimate the weather on exoplanets they cannot visit?",
+    "answer": "Computer models simulate atmospheric and climate conditions."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could there be planets where winds move faster than sound?",
+    "answer": "Some extreme exoplanets may experience supersonic winds."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why are certain exoplanets shaped slightly differently from perfect spheres?",
+    "answer": "Rapid rotation and tidal forces can distort planetary shapes."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would happen if Earth became a rogue planet?",
+    "answer": "Temperatures would drop sharply without sunlight from the Sun."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "How do astronomers know some exoplanets are evaporating?",
+    "answer": "Escaping gases create detectable trails around the planets."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Could there be planets with enormous underground magma oceans?",
+    "answer": "Young or highly heated planets may contain deep magma layers."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "Why do scientists think some moons could be more habitable than planets?",
+    "answer": "Moons may contain subsurface oceans and stable energy sources."
+  },
+  {
+    "topic": "planets_and_exoplanets",
+    "question": "What would happen if another giant planet formed near Earth today?",
+    "answer": "Its gravity would severely disrupt planetary orbits in the Solar System."
+  }
+]
