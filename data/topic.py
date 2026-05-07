@@ -5,7 +5,7 @@ from pathlib import Path
 # =========================
 # CHANGE ONLY THIS
 # =========================
-topic = "blackholes"
+topic = "time"
 
 # =========================
 # USE SCRIPT'S OWN FOLDER

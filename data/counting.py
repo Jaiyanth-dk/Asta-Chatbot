@@ -26,6 +26,6 @@ def count_qa_pairs(file_path):
 
 
 if __name__ == "__main__":
-    file_path = "planets_batch2.json"  # replace with your file name
+    file_path = "time_batch2.json"  # replace with your file name
     total = count_qa_pairs(file_path)
     print(f"Total Q&A pairs: {total}")

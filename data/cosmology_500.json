@@ -1,0 +1,2527 @@
+[
+  {
+    "topic": "Cosmology",
+    "question": "What is cosmology?",
+    "answer": "Cosmology is the study of the origin, structure, evolution, and fate of the universe."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is the observable universe?",
+    "answer": "The observable universe is the region of space we can detect from Earth using light and other signals."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is the Big Bang theory?",
+    "answer": "The Big Bang theory states that the universe began from an extremely hot and dense state and expanded over time."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Approximately how old is the universe?",
+    "answer": "The universe is about 13.8 billion years old."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What evidence supports the Big Bang theory?",
+    "answer": "Key evidence includes cosmic expansion, the cosmic microwave background, and the abundance of light elements."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is cosmic expansion?",
+    "answer": "Cosmic expansion is the increase in distance between galaxies over time."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Who discovered that the universe is expanding?",
+    "answer": "Edwin Hubble discovered that distant galaxies are moving away from us."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is Hubble's law?",
+    "answer": "Hubble's law states that galaxies move away faster as their distance increases."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is the cosmic microwave background?",
+    "answer": "The cosmic microwave background is faint radiation left over from the early universe."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why is the cosmic microwave background important?",
+    "answer": "It provides evidence about conditions in the early universe shortly after the Big Bang."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is dark matter?",
+    "answer": "Dark matter is invisible matter that affects galaxies through gravity."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is dark energy?",
+    "answer": "Dark energy is a mysterious form of energy causing the universe's expansion to accelerate."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What percentage of the universe is ordinary matter?",
+    "answer": "Ordinary matter makes up about 5% of the universe."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is a galaxy?",
+    "answer": "A galaxy is a massive collection of stars, gas, dust, and dark matter bound by gravity."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What galaxy contains our Solar System?",
+    "answer": "Our Solar System is located in the Milky Way galaxy."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is a galaxy cluster?",
+    "answer": "A galaxy cluster is a group of galaxies held together by gravity."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is a supercluster?",
+    "answer": "A supercluster is a large group of galaxy clusters and galaxies."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is the largest known structure in the universe?",
+    "answer": "Some of the largest known structures are enormous galaxy filaments and walls."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is spacetime?",
+    "answer": "Spacetime is the combined framework of space and time described by relativity."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What theory explains gravity on cosmic scales?",
+    "answer": "Einstein's general theory of relativity explains gravity on cosmic scales."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is general relativity?",
+    "answer": "General relativity describes gravity as the curvature of spacetime caused by mass and energy."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is a black hole?",
+    "answer": "A black hole is a region where gravity is so strong that not even light can escape."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is a supermassive black hole?",
+    "answer": "A supermassive black hole is an enormous black hole found at the center of many galaxies."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is a neutron star?",
+    "answer": "A neutron star is the dense remnant left after a massive star explodes."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is a supernova?",
+    "answer": "A supernova is a powerful explosion marking the death of certain stars."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is nucleosynthesis?",
+    "answer": "Nucleosynthesis is the process that forms atomic nuclei inside stars and during the early universe."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What elements formed shortly after the Big Bang?",
+    "answer": "Mostly hydrogen, helium, and small amounts of lithium formed after the Big Bang."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is redshift?",
+    "answer": "Redshift is the stretching of light toward longer wavelengths as objects move away."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why do distant galaxies appear redshifted?",
+    "answer": "They appear redshifted because the expansion of space stretches their light."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is the Hubble constant?",
+    "answer": "The Hubble constant measures the current expansion rate of the universe."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is the age problem in cosmology?",
+    "answer": "The age problem concerns matching the universe's estimated age with observations of stars and galaxies."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is inflation in cosmology?",
+    "answer": "Inflation is a theory proposing a brief period of extremely rapid expansion in the early universe."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why was cosmic inflation proposed?",
+    "answer": "It was proposed to explain the universe's large-scale uniformity and flatness."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What does it mean that the universe is flat?",
+    "answer": "It means the geometry of space follows the rules of Euclidean geometry on large scales."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What are cosmic filaments?",
+    "answer": "Cosmic filaments are giant thread-like structures of galaxies and matter."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What are cosmic voids?",
+    "answer": "Cosmic voids are vast regions of space with very few galaxies."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is the cosmological principle?",
+    "answer": "The cosmological principle states that the universe is homogeneous and isotropic on large scales."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What does isotropic mean in cosmology?",
+    "answer": "Isotropic means the universe appears similar in all directions."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What does homogeneous mean in cosmology?",
+    "answer": "Homogeneous means matter is distributed uniformly on very large scales."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is the Lambda-CDM model?",
+    "answer": "The Lambda-CDM model is the standard model of cosmology including dark energy and cold dark matter."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is cold dark matter?",
+    "answer": "Cold dark matter refers to slow-moving dark matter particles that help form galaxies."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is baryonic matter?",
+    "answer": "Baryonic matter is ordinary matter made of protons, neutrons, and electrons."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is a light-year?",
+    "answer": "A light-year is the distance light travels in one year."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why do astronomers look far into space to study the past?",
+    "answer": "Because light from distant objects takes a long time to reach us."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is the event horizon of a black hole?",
+    "answer": "The event horizon is the boundary beyond which nothing can escape a black hole."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is gravitational lensing?",
+    "answer": "Gravitational lensing occurs when gravity bends light from distant objects."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How is dark matter detected indirectly?",
+    "answer": "Dark matter is inferred through its gravitational effects on visible matter and light."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is the fate of the universe according to current evidence?",
+    "answer": "Current evidence suggests the universe may continue expanding forever."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is the Big Freeze theory?",
+    "answer": "The Big Freeze is a scenario where the universe becomes cold and dark as expansion continues."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is the Big Crunch theory?",
+    "answer": "The Big Crunch is a hypothetical scenario where the universe collapses back inward."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is the Big Rip theory?",
+    "answer": "The Big Rip is a hypothetical event where expansion eventually tears apart all matter."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is a quasar?",
+    "answer": "A quasar is an extremely bright active galactic nucleus powered by a supermassive black hole."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is an active galactic nucleus?",
+    "answer": "An active galactic nucleus is a compact region at a galaxy's center emitting enormous energy."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is the Local Group?",
+    "answer": "The Local Group is the galaxy group that includes the Milky Way and Andromeda galaxies."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Which galaxy is closest in size to the Milky Way?",
+    "answer": "The Andromeda Galaxy is the closest large galaxy similar in size to the Milky Way."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What will eventually happen between the Milky Way and Andromeda galaxies?",
+    "answer": "They are expected to collide and merge billions of years in the future."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is a dwarf galaxy?",
+    "answer": "A dwarf galaxy is a small galaxy containing fewer stars than large galaxies."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What are Population III stars?",
+    "answer": "Population III stars are hypothetical first-generation stars formed from primordial matter."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why are first-generation stars important in cosmology?",
+    "answer": "They likely produced the first heavy elements in the universe."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is reionization?",
+    "answer": "Reionization was the period when early stars and galaxies ionized neutral hydrogen in the universe."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is the Planck epoch?",
+    "answer": "The Planck epoch is the earliest known stage of the universe immediately after the Big Bang."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is a singularity in cosmology?",
+    "answer": "A singularity is a point where density and spacetime curvature become extremely large."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is antimatter?",
+    "answer": "Antimatter consists of particles with opposite charges to ordinary matter particles."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why is the matter-antimatter imbalance significant?",
+    "answer": "It explains why the observable universe is mostly made of matter."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is baryogenesis?",
+    "answer": "Baryogenesis refers to processes that may have created more matter than antimatter."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What are gravitational waves?",
+    "answer": "Gravitational waves are ripples in spacetime caused by accelerating massive objects."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How are gravitational waves detected?",
+    "answer": "They are detected using highly sensitive laser interferometers."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is the Schwarzschild radius?",
+    "answer": "The Schwarzschild radius is the distance from a mass where escape velocity equals the speed of light."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is Hawking radiation?",
+    "answer": "Hawking radiation is theoretical radiation emitted by black holes due to quantum effects."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Can black holes evaporate over time?",
+    "answer": "According to theory, black holes can slowly lose mass through Hawking radiation."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is a white dwarf?",
+    "answer": "A white dwarf is the dense remnant of a low- or medium-mass star."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is stellar evolution?",
+    "answer": "Stellar evolution is the life cycle of a star from formation to its final state."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What forms when gas clouds collapse under gravity?",
+    "answer": "Stars form when gas clouds collapse under gravity."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is a nebula?",
+    "answer": "A nebula is a large cloud of gas and dust in space."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is an exoplanet?",
+    "answer": "An exoplanet is a planet orbiting a star outside our Solar System."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is the habitable zone around a star?",
+    "answer": "The habitable zone is the region where liquid water could exist on a planet's surface."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is cosmic background radiation?",
+    "answer": "Cosmic background radiation is residual radiation filling the universe from early cosmic events."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is the Doppler effect in astronomy?",
+    "answer": "The Doppler effect is the change in observed wavelength caused by motion."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is blueshift?",
+    "answer": "Blueshift is the shortening of light wavelengths when an object moves closer."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why are some galaxies blueshifted?",
+    "answer": "Some galaxies move toward us due to local gravitational attraction."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is the critical density of the universe?",
+    "answer": "Critical density is the density needed for the universe to be geometrically flat."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is a closed universe?",
+    "answer": "A closed universe has positive curvature and may eventually stop expanding."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is an open universe?",
+    "answer": "An open universe has negative curvature and expands forever."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is a flat universe?",
+    "answer": "A flat universe has zero overall spatial curvature."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What are galaxy rotation curves?",
+    "answer": "Galaxy rotation curves show how stars orbit galaxies at different speeds."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why do galaxy rotation curves suggest dark matter exists?",
+    "answer": "Stars move faster than visible matter alone can explain."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is cosmic time?",
+    "answer": "Cosmic time is a standard time measurement used in cosmology since the Big Bang."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is a parsec?",
+    "answer": "A parsec is an astronomical unit of distance equal to about 3.26 light-years."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is the Virgo Supercluster?",
+    "answer": "The Virgo Supercluster is the larger structure containing the Local Group."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is the cosmic web?",
+    "answer": "The cosmic web is the large-scale network of galaxies, filaments, and voids."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is a magnetar?",
+    "answer": "A magnetar is a neutron star with an extremely powerful magnetic field."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is a pulsar?",
+    "answer": "A pulsar is a rotating neutron star that emits beams of radiation."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is the accretion disk of a black hole?",
+    "answer": "An accretion disk is a rotating disk of matter falling into a black hole."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is a rogue planet?",
+    "answer": "A rogue planet is a planet that does not orbit a star."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is the cosmic horizon?",
+    "answer": "The cosmic horizon marks the farthest distance from which light can currently reach us."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why can't we observe beyond the cosmic horizon?",
+    "answer": "Light from beyond the horizon has not had enough time to reach us."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is vacuum energy?",
+    "answer": "Vacuum energy is the underlying energy thought to exist in empty space."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is the steady-state theory?",
+    "answer": "The steady-state theory proposed that the universe always existed in a constant state."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why was the steady-state theory largely rejected?",
+    "answer": "Observations such as the cosmic microwave background supported the Big Bang instead."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is a Type Ia supernova?",
+    "answer": "A Type Ia supernova is an exploding white dwarf used to measure cosmic distances."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How did Type Ia supernovae help reveal dark energy?",
+    "answer": "They showed that cosmic expansion is accelerating."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is the observable limit of current telescopes?",
+    "answer": "Current telescopes can observe galaxies formed not long after the Big Bang."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is the heliocentric model?",
+    "answer": "The heliocentric model places the Sun at the center of the Solar System."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Who proposed the heliocentric model of the Solar System?",
+    "answer": "Nicolaus Copernicus proposed the heliocentric model."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is the geocentric model?",
+    "answer": "The geocentric model places Earth at the center of the universe."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why is the geocentric model no longer accepted?",
+    "answer": "Observations showed that planets orbit the Sun rather than Earth."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is the Solar System?",
+    "answer": "The Solar System consists of the Sun and all objects orbiting it."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is an orbit?",
+    "answer": "An orbit is the curved path an object follows around another object due to gravity."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What keeps planets orbiting stars?",
+    "answer": "Gravity keeps planets orbiting stars."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is escape velocity?",
+    "answer": "Escape velocity is the speed needed to break free from a body's gravity."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is a comet?",
+    "answer": "A comet is an icy object that develops a glowing tail near a star."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What causes a comet's tail?",
+    "answer": "Heat from the Sun vaporizes ice and releases gas and dust."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is an asteroid?",
+    "answer": "An asteroid is a rocky object orbiting a star."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is the asteroid belt?",
+    "answer": "The asteroid belt is a region between Mars and Jupiter filled with many asteroids."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is a meteoroid?",
+    "answer": "A meteoroid is a small rocky or metallic object traveling through space."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is a meteor?",
+    "answer": "A meteor is the streak of light produced when a meteoroid burns in an atmosphere."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is a meteorite?",
+    "answer": "A meteorite is a meteoroid that survives and reaches a planet's surface."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is a gas giant planet?",
+    "answer": "A gas giant is a large planet mostly made of hydrogen and helium."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is a terrestrial planet?",
+    "answer": "A terrestrial planet is a rocky planet with a solid surface."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is a brown dwarf?",
+    "answer": "A brown dwarf is an object too large to be a planet but too small to sustain normal starlight fusion."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What powers a star?",
+    "answer": "Nuclear fusion powers a star."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is nuclear fusion?",
+    "answer": "Nuclear fusion is the process where light atomic nuclei combine and release energy."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is the main sequence of a star?",
+    "answer": "The main sequence is the long stable phase of a star's life."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What determines a star's lifespan?",
+    "answer": "A star's mass mainly determines its lifespan."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why do massive stars die faster?",
+    "answer": "Massive stars burn their fuel much more quickly."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is a red giant star?",
+    "answer": "A red giant is a star that expands after using much of its hydrogen fuel."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is a blue giant star?",
+    "answer": "A blue giant is a very hot and massive star."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is stellar nucleosynthesis?",
+    "answer": "Stellar nucleosynthesis is the creation of heavier elements inside stars."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Where are heavy elements like gold formed?",
+    "answer": "Heavy elements are formed in supernovae and neutron star collisions."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is the Chandrasekhar limit?",
+    "answer": "The Chandrasekhar limit is the maximum stable mass of a white dwarf."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What happens when a massive star collapses?",
+    "answer": "It can form a neutron star or black hole."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is spacetime curvature?",
+    "answer": "Spacetime curvature is the bending of spacetime caused by mass and energy."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is special relativity?",
+    "answer": "Special relativity describes how space and time behave at high speeds."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Who developed the theory of relativity?",
+    "answer": "Albert Einstein developed the theory of relativity."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is time dilation?",
+    "answer": "Time dilation is the slowing of time for objects moving very fast or near strong gravity."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is length contraction?",
+    "answer": "Length contraction is the shortening of an object's measured length at high speeds."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What does E=mc² describe?",
+    "answer": "It describes the equivalence of mass and energy."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is the speed of light in a vacuum?",
+    "answer": "The speed of light in a vacuum is about 300,000 kilometers per second."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why is the speed of light important in cosmology?",
+    "answer": "It sets a fundamental limit for how fast information and matter can travel."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is the cosmic distance ladder?",
+    "answer": "The cosmic distance ladder is a series of methods used to measure vast cosmic distances."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is stellar parallax?",
+    "answer": "Stellar parallax is the apparent shift of a nearby star due to Earth's orbit."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What are Cepheid variable stars?",
+    "answer": "Cepheid variables are stars whose brightness changes regularly and helps measure distances."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is luminosity in astronomy?",
+    "answer": "Luminosity is the total energy a celestial object emits per unit time."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is apparent magnitude?",
+    "answer": "Apparent magnitude measures how bright an object appears from Earth."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is absolute magnitude?",
+    "answer": "Absolute magnitude measures an object's true brightness at a standard distance."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is the interstellar medium?",
+    "answer": "The interstellar medium is the gas and dust found between stars."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is intergalactic space?",
+    "answer": "Intergalactic space is the region between galaxies."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is cosmic dust?",
+    "answer": "Cosmic dust consists of tiny solid particles floating through space."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is synchrotron radiation?",
+    "answer": "Synchrotron radiation is energy emitted by charged particles moving near light speed in magnetic fields."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What are gamma-ray bursts?",
+    "answer": "Gamma-ray bursts are extremely energetic explosions observed in distant galaxies."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is the Boötes Void?",
+    "answer": "The Boötes Void is one of the largest known cosmic voids."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is the Great Attractor?",
+    "answer": "The Great Attractor is a gravitational region pulling nearby galaxies toward it."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is the cosmic neutrino background?",
+    "answer": "The cosmic neutrino background is relic neutrino radiation from the early universe."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is the Sun?",
+    "answer": "The Sun is the star at the center of our Solar System."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What type of star is the Sun?",
+    "answer": "The Sun is a G-type main-sequence star."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How long does light from the Sun take to reach Earth?",
+    "answer": "Sunlight takes about 8 minutes to reach Earth."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is the Kuiper Belt?",
+    "answer": "The Kuiper Belt is a region of icy objects beyond Neptune."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is the Oort Cloud?",
+    "answer": "The Oort Cloud is a distant spherical region thought to contain icy bodies."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is Pluto classified as?",
+    "answer": "Pluto is classified as a dwarf planet."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is a dwarf planet?",
+    "answer": "A dwarf planet is a nearly spherical object orbiting a star that has not cleared its orbit."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is the heliosphere?",
+    "answer": "The heliosphere is the bubble-like region shaped by the solar wind."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is the solar wind?",
+    "answer": "The solar wind is a stream of charged particles emitted by the Sun."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What causes auroras on planets like Earth?",
+    "answer": "Auroras are caused by charged solar particles interacting with a planet's magnetic field."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is a lunar eclipse?",
+    "answer": "A lunar eclipse occurs when Earth blocks sunlight from reaching the Moon."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is a solar eclipse?",
+    "answer": "A solar eclipse occurs when the Moon blocks the Sun from view on Earth."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is a tidal force?",
+    "answer": "A tidal force is the difference in gravitational pull across an object."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why are tides stronger near the Moon?",
+    "answer": "The Moon's gravity strongly affects Earth's oceans because it is relatively close."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is orbital resonance?",
+    "answer": "Orbital resonance occurs when orbiting bodies exert regular gravitational influence on each other."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is retrograde motion?",
+    "answer": "Retrograde motion is the apparent backward movement of a planet in the sky."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why does retrograde motion occur?",
+    "answer": "It occurs because planets move at different speeds around the Sun."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is a light cone in relativity?",
+    "answer": "A light cone represents the possible paths light can travel through spacetime."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is a spacetime singularity?",
+    "answer": "A spacetime singularity is a region where known physics breaks down under extreme conditions."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is quantum cosmology?",
+    "answer": "Quantum cosmology studies the universe using principles of quantum mechanics."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is quantum foam?",
+    "answer": "Quantum foam is a theoretical fluctuating structure of spacetime at extremely small scales."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is string theory?",
+    "answer": "String theory proposes that fundamental particles are tiny vibrating strings."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is M-theory?",
+    "answer": "M-theory is a framework that unifies several versions of string theory."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is the multiverse hypothesis?",
+    "answer": "The multiverse hypothesis suggests that multiple universes may exist."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is a parallel universe?",
+    "answer": "A parallel universe is a hypothetical universe separate from our own."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is vacuum decay?",
+    "answer": "Vacuum decay is a hypothetical event where the universe shifts to a lower-energy state."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is entropy?",
+    "answer": "Entropy is a measure of disorder or energy dispersion in a system."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why does entropy matter in cosmology?",
+    "answer": "Entropy helps explain the long-term evolution and fate of the universe."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is heat death of the universe?",
+    "answer": "Heat death is a state where usable energy becomes evenly spread and cosmic activity ends."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is a wormhole?",
+    "answer": "A wormhole is a hypothetical tunnel connecting distant points in spacetime."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is exotic matter in theoretical physics?",
+    "answer": "Exotic matter is hypothetical matter with unusual properties like negative energy density."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is the Schwarzschild solution?",
+    "answer": "The Schwarzschild solution describes spacetime around a non-rotating spherical mass."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is the Kerr black hole model?",
+    "answer": "The Kerr model describes a rotating black hole."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is frame dragging?",
+    "answer": "Frame dragging is the twisting of spacetime caused by a rotating massive object."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is an accretion jet?",
+    "answer": "An accretion jet is a narrow stream of energetic particles ejected near compact objects."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is the Drake Equation?",
+    "answer": "The Drake Equation estimates the number of communicative civilizations in the galaxy."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is the Fermi Paradox?",
+    "answer": "The Fermi Paradox asks why extraterrestrial civilizations have not been clearly observed."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is SETI?",
+    "answer": "SETI is the scientific search for extraterrestrial intelligence."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is a biosignature?",
+    "answer": "A biosignature is evidence that may indicate the presence of life."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is a technosignature?",
+    "answer": "A technosignature is evidence of advanced technology from extraterrestrial civilizations."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is a tidal disruption event?",
+    "answer": "A tidal disruption event occurs when a star is torn apart by a black hole."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is the Roche limit?",
+    "answer": "The Roche limit is the distance where tidal forces can break apart an object."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is a binary star system?",
+    "answer": "A binary star system contains two stars orbiting each other."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is a globular cluster?",
+    "answer": "A globular cluster is a dense spherical collection of old stars."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is an open star cluster?",
+    "answer": "An open cluster is a loosely bound group of stars formed together."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is cosmic inflation expected to have produced?",
+    "answer": "Cosmic inflation likely produced tiny fluctuations that later formed galaxies."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What are primordial fluctuations?",
+    "answer": "Primordial fluctuations are tiny density variations from the early universe."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is the Sun's eventual fate?",
+    "answer": "The Sun is expected to become a red giant and later a white dwarf."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is the ecliptic plane?",
+    "answer": "The ecliptic plane is the flat plane in which most planets orbit the Sun."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is a transit method in exoplanet discovery?",
+    "answer": "The transit method detects planets by measuring a star's slight dimming."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What is radial velocity in astronomy?",
+    "answer": "Radial velocity measures an object's motion toward or away from an observer."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why is space mostly dark if there are so many stars?",
+    "answer": "Most stars are extremely far away, and the universe has a finite age."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How can we see galaxies billions of light-years away?",
+    "answer": "Their light travels across space for billions of years before reaching us."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if the Sun suddenly disappeared?",
+    "answer": "Earth would continue orbiting normally for about 8 minutes before effects arrived."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why do astronauts float in space?",
+    "answer": "They are in continuous free fall while orbiting Earth."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How cold is outer space?",
+    "answer": "Most of space is about 2.7 kelvin, just above absolute zero."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if you fell into a black hole?",
+    "answer": "Extreme gravity would likely stretch and destroy you."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why can't light escape a black hole?",
+    "answer": "The gravity inside the event horizon is too strong."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How do scientists know black holes exist if they are invisible?",
+    "answer": "Scientists observe their gravitational effects on nearby matter and light."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would the night sky look like from another galaxy?",
+    "answer": "The arrangement of stars and galaxies would appear completely different."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why do stars twinkle in the night sky?",
+    "answer": "Earth's atmosphere bends starlight unevenly as it passes through."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could humans survive on a planet without a star?",
+    "answer": "It would be extremely difficult because there would be little heat or light."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What does the universe expand into?",
+    "answer": "Current physics suggests space itself expands rather than expanding into something else."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why do planets become round?",
+    "answer": "Gravity pulls matter toward the center equally from all directions."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if Earth stopped orbiting the Sun?",
+    "answer": "Earth would move off into space due to inertia."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How long would it take to travel across the Milky Way?",
+    "answer": "At light speed, it would take about 100,000 years."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why is the universe so huge?",
+    "answer": "The universe has been expanding for billions of years."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if two galaxies collided?",
+    "answer": "Stars would mostly pass by each other while gravity reshaped the galaxies."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How can telescopes look into the past?",
+    "answer": "They detect ancient light that took a long time to arrive."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why do astronauts age slightly slower in space?",
+    "answer": "Time dilation occurs due to speed and gravity effects."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if Earth had no gravity?",
+    "answer": "The atmosphere, oceans, and objects would drift into space."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could there be planets drifting alone in deep space?",
+    "answer": "Yes, rogue planets can travel without orbiting stars."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why do some stars appear red while others look blue?",
+    "answer": "Star color mainly depends on surface temperature."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How do stars create the atoms inside our bodies?",
+    "answer": "Stars forge heavier elements through nuclear fusion and explosions."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would space smell like?",
+    "answer": "Astronauts describe it as metallic or similar to burnt material."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why can't sound travel through space?",
+    "answer": "Space lacks enough particles to carry sound waves."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if Earth were twice as massive?",
+    "answer": "Gravity would become much stronger, affecting life and the atmosphere."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could a moon have its own moon?",
+    "answer": "In theory it is possible, but such systems may be unstable."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why does the Moon always show the same side to Earth?",
+    "answer": "The Moon rotates at the same rate that it orbits Earth."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if Earth had two moons?",
+    "answer": "Tides and night skies would be more complex."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How many stars are estimated to exist in the observable universe?",
+    "answer": "There are likely hundreds of sextillions of stars."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why do black holes grow larger?",
+    "answer": "They gain mass by absorbing nearby matter and energy."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could life exist under the ice of distant moons?",
+    "answer": "Some icy moons may contain hidden oceans capable of supporting life."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if Earth moved closer to the Sun?",
+    "answer": "Global temperatures would rise dramatically."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why do scientists search for water on other planets?",
+    "answer": "Liquid water is considered important for life as we know it."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How small are atoms compared to planets and stars?",
+    "answer": "Atoms are unimaginably tiny compared to cosmic objects."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could the universe have an edge?",
+    "answer": "Current observations do not show a physical edge to the universe."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why is empty space not truly empty?",
+    "answer": "Even empty space contains energy and quantum activity."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if the Moon disappeared overnight?",
+    "answer": "Earth's tides and long-term stability would change significantly."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How do scientists estimate the age of the universe?",
+    "answer": "They use cosmic expansion and observations of ancient light."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why are some galaxies spiral-shaped?",
+    "answer": "Gravity and rotation organize stars into spiral patterns."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would the sky look like near a black hole?",
+    "answer": "Gravity would heavily distort light and background stars."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could humans ever leave the Milky Way galaxy?",
+    "answer": "With current technology, intergalactic travel would take far longer than human lifetimes."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why do planets not crash into the Sun?",
+    "answer": "Their sideways motion balances the Sun's gravitational pull."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How do we know the Earth is not the center of the universe?",
+    "answer": "Observations show planets orbit the Sun and galaxies exist everywhere."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could there be stars larger than the Sun by thousands of times?",
+    "answer": "Some stars are vastly larger than the Sun."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if you could travel at light speed?",
+    "answer": "According to relativity, objects with mass cannot reach light speed."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why do astronauts train underwater?",
+    "answer": "Water helps simulate the feeling of weightlessness."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How do planets begin forming around young stars?",
+    "answer": "Dust and gas gradually clump together through gravity."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if a giant asteroid hit Earth?",
+    "answer": "A large impact could cause massive climate and environmental damage."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could there be invisible galaxies made mostly of dark matter?",
+    "answer": "Some galaxies may contain very little visible matter."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why is the cosmic microwave background found everywhere in space?",
+    "answer": "It is leftover radiation spread throughout the universe after the Big Bang."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why does time seem connected to gravity?",
+    "answer": "Strong gravity can slow the passage of time according to relativity."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How do scientists take pictures of black holes?",
+    "answer": "They combine data from many radio telescopes across Earth."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if Earth orbited a black hole instead of the Sun?",
+    "answer": "Earth could orbit safely if the black hole had the Sun's mass and enough distance."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why are supernova explosions so important?",
+    "answer": "They spread heavy elements across space and help form new stars and planets."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could another intelligent civilization already exist in our galaxy?",
+    "answer": "It is possible, but no confirmed evidence has been found."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if you tried to walk on Jupiter?",
+    "answer": "Jupiter has no solid surface to stand on."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How can something as huge as a galaxy move through space?",
+    "answer": "Gravity from other massive structures pulls galaxies over time."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why does the universe look mostly the same in every direction?",
+    "answer": "Matter and energy are distributed similarly on very large scales."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if the universe stopped expanding?",
+    "answer": "Gravity could eventually slow or reverse cosmic motion."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How can tiny particles influence the entire universe?",
+    "answer": "Fundamental particles shape matter, forces, and cosmic evolution."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why do scientists think dark matter exists?",
+    "answer": "Visible matter alone cannot explain many gravitational observations."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if dark energy suddenly vanished?",
+    "answer": "The universe's expansion could slow significantly."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could there be planets with skies completely unlike Earth's?",
+    "answer": "Yes, alien atmospheres may create very different sky colors and weather."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How do astronauts return safely through Earth's atmosphere?",
+    "answer": "Heat shields protect spacecraft during reentry."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why do stars eventually run out of fuel?",
+    "answer": "Fusion gradually consumes the material inside stars."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if Earth had rings like Saturn?",
+    "answer": "The rings would create spectacular patterns visible in the sky."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How do scientists detect planets around distant stars?",
+    "answer": "They observe changes in starlight and stellar motion."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why is the center of a black hole still mysterious?",
+    "answer": "Known physics cannot fully describe conditions there."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if humans lived on a planet with stronger gravity?",
+    "answer": "Movement would become harder and bodies might adapt differently."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could stars exist without planets orbiting them?",
+    "answer": "Yes, many stars may not have planetary systems."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why do galaxies contain so much empty space?",
+    "answer": "Stars are separated by enormous distances."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How can space be curved if we cannot see the curve?",
+    "answer": "Mass bends spacetime in ways measured through gravity and light."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if Earth rotated much faster?",
+    "answer": "Days would shorten and weather patterns would change dramatically."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why do some planets have thick atmospheres while others do not?",
+    "answer": "Gravity, temperature, and solar radiation affect atmospheric retention."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could life exist around red dwarf stars?",
+    "answer": "Some scientists think it is possible under the right conditions."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if the Milky Way lost its black hole?",
+    "answer": "The galaxy would mostly remain stable because its mass is widely distributed."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How do scientists estimate the mass of galaxies?",
+    "answer": "They study the motion of stars and gas within them."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why do meteor showers happen every year?",
+    "answer": "Earth repeatedly passes through trails of comet debris."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if the Earth had no atmosphere?",
+    "answer": "The surface would become extremely hostile to life."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could there be oceans floating freely in space?",
+    "answer": "Large free-floating liquid oceans are unlikely in open space."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How do scientists know the universe had a beginning?",
+    "answer": "Observations show the universe was once hotter and denser."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why do some stars explode while others fade quietly?",
+    "answer": "A star's mass determines how it ends its life."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if you traveled near a neutron star?",
+    "answer": "Extreme gravity and radiation would make it very dangerous."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could there be planets made mostly of diamond?",
+    "answer": "Some exoplanets may contain large amounts of carbon-rich material."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How does gravity shape the universe?",
+    "answer": "Gravity forms stars, galaxies, and large cosmic structures."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why do scientists build telescopes in space?",
+    "answer": "Space telescopes avoid atmospheric distortion and blockage."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if Earth were as small as the Moon?",
+    "answer": "Gravity would weaken and the atmosphere might become thinner."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could black holes eventually disappear completely?",
+    "answer": "Theory suggests they may slowly evaporate through Hawking radiation."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How can scientists hear collisions between black holes?",
+    "answer": "Gravitational wave data can be converted into sound frequencies."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why are spiral galaxies so common?",
+    "answer": "Rotation and gravity naturally create spiral structures."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if Earth orbited two stars?",
+    "answer": "The planet could experience unusual seasons and lighting patterns."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could a planet survive after its star dies?",
+    "answer": "Some planets may continue orbiting stellar remnants."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How do scientists study objects too distant to visit?",
+    "answer": "They analyze light and other signals reaching Earth."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why do some galaxies look stretched or distorted?",
+    "answer": "Gravity from massive objects can bend and distort their light."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if a star passed close to our Solar System?",
+    "answer": "It could disturb distant comets and planetary orbits."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could there be life forms unlike anything on Earth?",
+    "answer": "Alien life may use very different chemistry or environments."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How do planets stay warm so far from stars?",
+    "answer": "Some planets may retain heat through thick atmospheres or internal activity."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why do scientists think the early universe was extremely hot?",
+    "answer": "The cosmic microwave background and expansion support this idea."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if humans tried to breathe on Mars?",
+    "answer": "Mars lacks enough oxygen and atmospheric pressure for human survival."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could the universe continue forever without ending?",
+    "answer": "Some cosmological models predict endless expansion."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why do astronauts appear weightless even though gravity exists in space?",
+    "answer": "Gravity is still present, but astronauts and spacecraft fall together in orbit."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How can a tiny telescope reveal enormous galaxies?",
+    "answer": "Telescopes collect and focus faint light from distant objects."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if the Sun became a black hole today?",
+    "answer": "Earth would continue orbiting similarly, but sunlight would disappear."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why do scientists believe the universe began small?",
+    "answer": "Cosmic expansion suggests everything was once compressed together."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could a human survive inside a spaceship forever?",
+    "answer": "Long-term survival would require sustainable food, water, air, and protection."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How do planets avoid colliding with each other constantly?",
+    "answer": "Stable orbits and vast distances usually keep planets separated."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why are stars brighter than planets in the night sky?",
+    "answer": "Stars produce their own light while planets mostly reflect light."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if Earth lost its magnetic field?",
+    "answer": "Solar radiation would more easily damage the atmosphere and surface."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could there be oceans beneath frozen planets?",
+    "answer": "Internal heat may keep liquid water beneath thick ice layers."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How do scientists know what stars are made of?",
+    "answer": "They study the specific wavelengths of light stars emit."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why does the Moon look larger near the horizon?",
+    "answer": "It is mostly an optical illusion created by human perception."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if Earth orbited a red giant star?",
+    "answer": "The planet would likely become far hotter and less habitable."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could black holes create new universes?",
+    "answer": "Some speculative theories suggest the possibility, but there is no evidence."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How can empty space contain energy?",
+    "answer": "Quantum physics predicts constant fluctuations even in vacuum."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why do scientists search for radio signals from space?",
+    "answer": "Artificial radio signals could indicate intelligent civilizations."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if Earth were much farther from the Sun?",
+    "answer": "Global temperatures would likely drop dramatically."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could a black hole swallow an entire galaxy?",
+    "answer": "Black holes influence galaxies strongly but do not simply consume everything quickly."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How do galaxies form from tiny particles?",
+    "answer": "Gravity slowly pulls matter together over immense periods of time."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why do comets grow bright tails near the Sun?",
+    "answer": "Solar heat releases gas and dust from the comet."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if humans lived on a moon instead of a planet?",
+    "answer": "Life would depend on the moon's gravity, atmosphere, and radiation protection."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could the universe contain colors humans cannot see?",
+    "answer": "Yes, many wavelengths exist outside human vision."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How do scientists measure the distance to stars?",
+    "answer": "They use methods like parallax, brightness, and redshift."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why does Mars look red?",
+    "answer": "Iron oxide dust covers much of its surface."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if Earth had Saturn's rings?",
+    "answer": "The rings would cast shadows and dominate the sky."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could there be planets wandering between galaxies?",
+    "answer": "Some planets may drift through intergalactic space."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How can gravity affect light if light has no mass?",
+    "answer": "Gravity bends spacetime itself, changing light's path."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why do scientists think most matter in the universe is invisible?",
+    "answer": "Visible matter cannot explain many observed gravitational effects."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if the Moon moved closer to Earth?",
+    "answer": "Tides would become much stronger and more destructive."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could humans one day build cities on other planets?",
+    "answer": "Future technology may make extraterrestrial settlements possible."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How do stars continue burning for billions of years?",
+    "answer": "Fusion releases enormous energy from small amounts of mass."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why are giant planets mostly made of gas?",
+    "answer": "Their strong gravity captured large amounts of light elements."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if you stood on a neutron star?",
+    "answer": "Its gravity would crush ordinary matter instantly."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could there be life inside gas giant planets?",
+    "answer": "Some scientists have imagined floating life in thick atmospheres."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How can scientists tell whether a planet has an atmosphere?",
+    "answer": "Atmospheres affect the light passing through or reflected by planets."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why does the universe have different types of galaxies?",
+    "answer": "Collisions, gravity, and evolution shape galaxies differently."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if Earth spun backward?",
+    "answer": "Weather systems and climate patterns would change greatly."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could stars collide directly with each other?",
+    "answer": "Yes, but direct star collisions are very rare."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How do scientists know space is expanding?",
+    "answer": "Distant galaxies show redshift as they move farther away."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why does Venus shine so brightly in the sky?",
+    "answer": "Its thick clouds reflect large amounts of sunlight."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if Earth had no Moon at all?",
+    "answer": "Tides, seasons, and Earth's stability would change significantly."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could there be black holes smaller than atoms?",
+    "answer": "Some theories predict tiny black holes may have formed early in the universe."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How do planets get captured by gravity?",
+    "answer": "Gravity pulls material together during the formation of star systems."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why are some moons icy while others are rocky?",
+    "answer": "Temperature and composition vary across different regions of space."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if the Sun suddenly became brighter?",
+    "answer": "Earth's climate and ecosystems would be severely affected."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could intelligent life exist underwater on another world?",
+    "answer": "Alien intelligence could potentially evolve in oceans."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How can a single supernova outshine an entire galaxy?",
+    "answer": "Supernovae release enormous amounts of energy in a short time."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why do scientists think the universe may end in darkness?",
+    "answer": "Expansion may eventually spread energy too thin for active stars."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if Earth entered a giant cosmic dust cloud?",
+    "answer": "The sky and climate could change depending on the cloud's density."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could there be invisible forms of life humans cannot detect easily?",
+    "answer": "Life with unfamiliar chemistry might be difficult to recognize."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How do scientists know other galaxies exist beyond the Milky Way?",
+    "answer": "Powerful telescopes revealed that distant nebulae are separate galaxies."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why does space have no up or down direction?",
+    "answer": "Direction in space depends on the observer and nearby gravity."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How could tiny quantum fluctuations shape giant galaxies?",
+    "answer": "Small early density variations grew larger through gravity over time."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if humans could survive near a black hole safely?",
+    "answer": "They might experience extreme time dilation and distorted views of space."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could planets exist without any stars nearby?",
+    "answer": "Yes, rogue planets can drift through space independently."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why does gravity never seem to run out?",
+    "answer": "Gravity acts continuously as long as mass and energy exist."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How can scientists estimate the size of the observable universe?",
+    "answer": "They measure cosmic expansion and the travel time of light."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if Earth orbited a neutron star?",
+    "answer": "Strong radiation and gravity would likely make survival impossible."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could there be stars completely invisible to human eyes?",
+    "answer": "Some stars emit mostly wavelengths humans cannot naturally see."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why do scientists think the universe may be mostly dark energy?",
+    "answer": "Observations show expansion accelerating faster than expected."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How do astronauts sleep in zero gravity?",
+    "answer": "They secure themselves in sleeping bags to avoid drifting."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if all stars suddenly disappeared?",
+    "answer": "The universe would become cold, dark, and lifeless."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could a planet orbit a black hole and still support life?",
+    "answer": "In theory it may be possible under stable and warm enough conditions."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why do some meteors create bright fireballs?",
+    "answer": "Large or fast meteoroids release tremendous heat entering the atmosphere."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How can galaxies contain billions of stars without constant collisions?",
+    "answer": "The distances between stars are extremely large."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if Earth rotated once every hour?",
+    "answer": "Powerful winds and severe environmental changes would occur."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could life survive floating through space inside rocks?",
+    "answer": "Some microbes may survive harsh space conditions for limited periods."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why do scientists believe the universe may be flat overall?",
+    "answer": "Measurements of cosmic background radiation support flat geometry."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How can distant galaxies move away faster than light?",
+    "answer": "Space itself expands, allowing distant regions to separate rapidly."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if a black hole passed through our Solar System?",
+    "answer": "Planetary orbits could become severely disrupted."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could there be planets where it rains metal instead of water?",
+    "answer": "Some extreme exoplanets may have unusual atmospheric chemistry."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why does the Sun look larger than other stars?",
+    "answer": "The Sun is much closer to Earth than other stars."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How can scientists predict eclipses so accurately?",
+    "answer": "Orbital motions follow precise and measurable patterns."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if humans tried to land on a gas giant?",
+    "answer": "Increasing pressure and lack of solid ground would become deadly."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could there be giant structures built by alien civilizations?",
+    "answer": "Some scientists search for unusual cosmic patterns that might suggest this."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why do some stars pulse or flicker over time?",
+    "answer": "Changes inside stars can alter their brightness periodically."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How can space probes travel beyond the Solar System?",
+    "answer": "They use powerful rockets and gravitational assists from planets."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if Earth had Jupiter's gravity?",
+    "answer": "Humans and structures would weigh much more and struggle to function."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could there be life forms based on something other than carbon?",
+    "answer": "Some theories suggest alternative chemistries might support life."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why do astronomers use infrared telescopes?",
+    "answer": "Infrared light reveals cooler and dust-hidden cosmic objects."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How can a black hole bend time itself?",
+    "answer": "Extreme gravity changes the structure of spacetime."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if two black holes collided near Earth?",
+    "answer": "The resulting gravitational waves could disturb spacetime, though such events are extremely distant."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could there be hidden planets far beyond Pluto?",
+    "answer": "Astronomers continue searching for distant undiscovered objects."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why are some galaxies shaped like giant ellipses?",
+    "answer": "Collisions and mergers can reshape galaxies over time."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How do astronauts drink water in space?",
+    "answer": "Water is stored in sealed containers to prevent floating droplets."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if Earth had no atmosphere during the day?",
+    "answer": "The sky would appear black even in sunlight."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could stars exist forever without dying?",
+    "answer": "All stars eventually exhaust their usable fuel."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why do scientists compare the universe to a cosmic web?",
+    "answer": "Galaxies form interconnected filaments across enormous distances."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How can tiny telescopes still discover exoplanets?",
+    "answer": "Sensitive instruments can detect subtle changes in starlight."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if the Earth orbited sideways?",
+    "answer": "Seasons and climate patterns would change dramatically."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could there be ancient light from before the first stars?",
+    "answer": "Yes, the cosmic microwave background comes from an earlier era."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why does space exploration require so much energy?",
+    "answer": "Escaping gravity and traveling long distances demands immense power."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How do scientists know the universe contains ancient galaxies?",
+    "answer": "Telescopes detect light emitted billions of years ago."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if Earth orbited much more slowly around the Sun?",
+    "answer": "Years would become longer and climates could shift."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could intelligent life evolve on frozen worlds?",
+    "answer": "Life may adapt to environments very different from Earth's."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why do some planets have dozens of moons?",
+    "answer": "Large planets can capture or retain many orbiting objects."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How can gravity hold galaxies together over huge distances?",
+    "answer": "Gravity acts across vast regions of space continuously."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if humans reached another galaxy?",
+    "answer": "They would encounter entirely new stars, planets, and cosmic environments."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could there be invisible stars made of dark matter?",
+    "answer": "Some theories speculate about exotic dark matter objects."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why do scientists think time began with the Big Bang?",
+    "answer": "Current physics links the origin of space and time together."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How can black holes influence galaxies larger than themselves?",
+    "answer": "Their gravity and energetic activity affect surrounding matter."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why do some planets spin in unusual directions?",
+    "answer": "Ancient collisions or gravitational interactions may have altered their rotation."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How can stars exist inside giant clouds of gas and dust?",
+    "answer": "Stars form when dense regions collapse under gravity."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if Earth suddenly doubled in size?",
+    "answer": "Gravity and atmospheric conditions would change dramatically."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could there be planets with no sunlight at all?",
+    "answer": "Rogue planets may drift through darkness without nearby stars."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why do scientists think black holes can rotate?",
+    "answer": "Black holes inherit angular momentum from collapsing stars or absorbed matter."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How can a galaxy continue existing for billions of years?",
+    "answer": "Gravity keeps stars and matter bound together over long timescales."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if humans traveled close to light speed?",
+    "answer": "Time would pass more slowly for them compared to people on Earth."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could there be moons with breathable atmospheres?",
+    "answer": "Large moons might hold atmospheres under suitable conditions."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why does the universe contain so much hydrogen?",
+    "answer": "Hydrogen formed abundantly during the early universe."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How do scientists search for hidden black holes?",
+    "answer": "They observe unusual motions, radiation, and gravitational effects."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if Earth orbited a blue giant star?",
+    "answer": "Strong radiation and heat would likely make Earth uninhabitable."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could there be planets covered entirely by oceans?",
+    "answer": "Some exoplanets may be water-rich worlds."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why do scientists think some moons may contain underground oceans?",
+    "answer": "Observations suggest hidden liquid water beneath icy crusts."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How can gravity create stars from scattered gas?",
+    "answer": "Gravity slowly compresses gas until fusion begins."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if the Sun disappeared forever?",
+    "answer": "The Solar System would become dark and extremely cold."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could there be planets with floating mountains?",
+    "answer": "Unusual atmospheres or magnetic effects might allow exotic formations."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why do scientists study ancient starlight?",
+    "answer": "Ancient light reveals how the universe evolved over time."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How can black holes produce powerful jets of energy?",
+    "answer": "Magnetic fields and infalling matter can launch energetic particle streams."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if Earth had a much thicker atmosphere?",
+    "answer": "Pressure, temperature, and weather could become far more intense."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could stars form inside colliding galaxies?",
+    "answer": "Galaxy collisions often trigger bursts of star formation."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why are some regions of space almost empty?",
+    "answer": "Gravity concentrated matter into filaments, leaving large voids."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How do scientists know the Sun is an ordinary star?",
+    "answer": "Many stars share similar size, temperature, and composition."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if humans found a habitable exoplanet tomorrow?",
+    "answer": "Scientists would study it intensely for signs of life and future exploration."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could there be giant planets without any moons?",
+    "answer": "Yes, not all large planets necessarily retain moons."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why do scientists believe the early universe expanded extremely quickly?",
+    "answer": "Inflation theory explains several observed cosmic properties."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How can distant galaxies appear younger than nearby ones?",
+    "answer": "We observe distant galaxies as they existed long ago."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if Earth moved through a supernova shockwave?",
+    "answer": "Radiation and atmospheric effects could threaten life."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could there be stars colder than red stars?",
+    "answer": "Brown dwarfs are cooler than ordinary stars."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why do scientists think the universe may never stop expanding?",
+    "answer": "Dark energy appears to drive continued accelerated expansion."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How can telescopes detect invisible radiation?",
+    "answer": "Special instruments convert non-visible wavelengths into measurable signals."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if a rogue planet entered our Solar System?",
+    "answer": "Its gravity could disrupt planetary orbits and comet paths."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could there be civilizations living beneath icy surfaces?",
+    "answer": "Subsurface oceans may provide stable environments for life."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why do some stars collapse into black holes instead of neutron stars?",
+    "answer": "Very massive stellar cores collapse beyond neutron star stability."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How can scientists tell when a star is dying?",
+    "answer": "Changes in brightness, size, and composition reveal stellar aging."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if Earth stopped rotating completely?",
+    "answer": "Extreme weather and temperature differences would develop."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could planets survive after being ejected from their star systems?",
+    "answer": "Some may continue drifting through interstellar space for billions of years."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why does the universe contain clusters of galaxies instead of evenly spread stars?",
+    "answer": "Gravity pulls matter together into larger structures over time."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How can scientists estimate the temperature of stars?",
+    "answer": "A star's color and spectrum reveal its surface temperature."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if humans discovered a message from another civilization?",
+    "answer": "It would transform science and humanity's understanding of life in the universe."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could there be giant clouds of alcohol in space?",
+    "answer": "Astronomers have detected alcohol molecules in interstellar clouds."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why do scientists use multiple telescopes around the world together?",
+    "answer": "Combined observations improve resolution and data collection."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How can gravity trap even light inside a black hole?",
+    "answer": "Spacetime becomes so curved that all paths lead inward."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if Earth had no seasons?",
+    "answer": "Climate patterns and ecosystems would become very different."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could there be stars made from antimatter?",
+    "answer": "Antimatter stars are hypothetical and have not been observed."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why do some galaxies appear to be colliding right now?",
+    "answer": "Galaxies move through space and sometimes interact gravitationally."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How can cosmic collisions create new stars?",
+    "answer": "Collisions compress gas clouds and trigger star formation."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if Earth orbited inside a dense star cluster?",
+    "answer": "The night sky would appear filled with many bright nearby stars."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could intelligent life evolve around dying stars?",
+    "answer": "It may be possible if conditions remain stable long enough."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why do scientists think black holes may exist at the centers of most galaxies?",
+    "answer": "Observations show massive compact objects influencing galactic motion."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How can astronomers study planets they cannot directly see clearly?",
+    "answer": "They infer planetary properties through light, motion, and gravitational effects."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why do scientists think the universe could be much larger than what we can observe?",
+    "answer": "Light from farther regions has not had enough time to reach us yet."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How can planets form from tiny grains of dust?",
+    "answer": "Dust particles collide, stick together, and gradually grow through gravity."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if Earth orbited a pulsar?",
+    "answer": "Extreme radiation would likely make survival impossible."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could there be galaxies we can never observe?",
+    "answer": "Yes, some galaxies may lie beyond our observable horizon."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why do scientists compare spacetime to a fabric?",
+    "answer": "The analogy helps visualize how mass bends spacetime."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How can stars be born and die at different times?",
+    "answer": "Stars form from separate gas clouds and evolve at different rates."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if Earth orbited a much smaller star?",
+    "answer": "The habitable zone would move closer to the star."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could there be planets with underground civilizations hidden from space?",
+    "answer": "Subsurface habitats could theoretically conceal life from distant observers."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why do astronomers study dead stars?",
+    "answer": "Stellar remnants reveal information about cosmic evolution and physics."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How can black holes affect time for nearby observers?",
+    "answer": "Strong gravity slows the passage of time."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if the universe eventually stopped forming stars?",
+    "answer": "Galaxies would slowly fade as existing stars died."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could there be planets with life beneath thick clouds forever blocking sunlight?",
+    "answer": "Life might survive using geothermal or chemical energy sources."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why do some stars explode more violently than others?",
+    "answer": "Differences in mass and internal structure affect stellar deaths."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How can gravity shape entire clusters of galaxies?",
+    "answer": "Massive structures pull galaxies together over cosmic timescales."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if humans reached a planet with lower gravity than Earth?",
+    "answer": "People could move more easily and jump higher."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could there be stars orbiting black holes closely?",
+    "answer": "Astronomers have observed stars orbiting supermassive black holes."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why does the universe contain patterns instead of random chaos everywhere?",
+    "answer": "Gravity organizes matter into structures over time."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How can scientists estimate the age of stars?",
+    "answer": "They study stellar brightness, temperature, and composition."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if Earth were struck by intense gamma radiation from space?",
+    "answer": "The atmosphere and living organisms could suffer severe damage."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could there be planets orbiting invisible stars?",
+    "answer": "Planets may orbit dim stellar remnants or brown dwarfs."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why do some exoplanets orbit their stars extremely closely?",
+    "answer": "Planetary migration and gravitational interactions can alter orbits."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How can space contain both extreme heat and extreme cold?",
+    "answer": "Temperature depends on nearby radiation and matter density."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if Earth entered a region with stronger gravity?",
+    "answer": "Orbits and physical conditions could become unstable."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could there be civilizations millions of years older than humanity?",
+    "answer": "The universe is old enough that such civilizations are theoretically possible."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why do scientists search for Earth-like planets specifically?",
+    "answer": "Earth-like conditions may increase the chances of familiar life."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How can black holes merge without destroying entire galaxies?",
+    "answer": "Galaxies are mostly empty space, so large-scale destruction is limited."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if humans found microbes on another planet?",
+    "answer": "It would prove life can exist beyond Earth."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could there be stars larger than entire planetary systems?",
+    "answer": "Some giant stars are enormous compared to the Sun."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why do scientists think ordinary matter is only a small part of the universe?",
+    "answer": "Observations suggest dark matter and dark energy dominate the cosmos."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How can telescopes detect planets hidden by bright stars?",
+    "answer": "Special techniques block starlight or measure indirect effects."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if Earth had no axial tilt?",
+    "answer": "Seasons would become far weaker or disappear."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could there be planets with giant storms lasting centuries?",
+    "answer": "Some gas giants already show extremely long-lasting storms."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why do scientists think the first stars were extremely massive?",
+    "answer": "Early stars formed from simpler primordial material."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How can galaxies continue moving after billions of years?",
+    "answer": "Motion in space persists unless changed by forces like gravity."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if a nearby star went supernova?",
+    "answer": "Radiation and particles could affect Earth's atmosphere and life."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could there be hidden oceans inside dwarf planets?",
+    "answer": "Internal heat may allow subsurface liquid water in some dwarf planets."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why do scientists think space may contain invisible particles everywhere?",
+    "answer": "Dark matter theories predict unseen particles affecting gravity."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How can astronomers study ancient cosmic events today?",
+    "answer": "Light from distant events can take billions of years to arrive."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if Earth orbited farther from the galaxy center?",
+    "answer": "The surrounding stellar environment would become different."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could there be planets with life under permanent night skies?",
+    "answer": "Life may adapt to environments without direct sunlight."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why do scientists think the universe may eventually become cold and dark?",
+    "answer": "Stars will eventually burn out as expansion continues."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How can cosmic dust eventually become planets and moons?",
+    "answer": "Gravity slowly gathers dust into larger bodies."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if humans built habitats inside asteroids?",
+    "answer": "Asteroids could provide shelter and resources in space."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could there be stars hidden inside dense cosmic clouds?",
+    "answer": "Many young stars are concealed by gas and dust."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why do scientists think some black holes are ancient?",
+    "answer": "Some may have formed very early in cosmic history."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How can astronomers tell when galaxies are moving toward each other?",
+    "answer": "Their light becomes blueshifted."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "What would happen if Earth passed through a dense asteroid field?",
+    "answer": "Collision risks would increase significantly."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Could there be planets where life glows in darkness naturally?",
+    "answer": "Bioluminescent ecosystems could theoretically evolve elsewhere."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "Why does the universe allow structures as small as atoms and as large as galaxies?",
+    "answer": "Physical laws operate across an enormous range of scales."
+  },
+  {
+    "topic": "Cosmology",
+    "question": "How can scientists learn about invisible objects using gravity alone?",
+    "answer": "Gravity changes the motion and light of nearby visible objects."
+  }
+]
