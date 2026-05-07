@@ -2,7 +2,7 @@ import json
 import random
 
 # Load original merged Q&A file
-with open("merged_qna.json", "r", encoding="utf-8") as f:
+with open("merged_dataset_4000.json", "r", encoding="utf-8") as f:
     data = json.load(f)
 
 processed_data = []
